@@ -1,6 +1,6 @@
 ---
 layout: page
-title: History
+title: Fred History
 nav_order: 2
 ---
 
