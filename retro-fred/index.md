@@ -6,6 +6,9 @@ has_children: false
 has_toc: false
 ---
 
+
+![Fred logo]({{ "/assets/images/site logo/Fred_relieve.png" | relative_url }})
+
 Retro-Fred in C++
 -----------------
 
