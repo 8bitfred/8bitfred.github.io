@@ -1,0 +1,5 @@
+.site-header::before {
+  content: "Retro Fred Project";
+  font-weight: bold;
+  margin-left: 20px;
+}

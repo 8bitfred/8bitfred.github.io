@@ -61,8 +61,6 @@ color_scheme: dark
 include:
   - game.md
 
-aux_links:
-  GitHub: "https://github.com/8bitfred"
-  Retro Fred: "https://github.com/8bitfred/retro-fred"
-  Downloads: "https://github.com/8bitfred/retro-fred/releases"
-
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css
