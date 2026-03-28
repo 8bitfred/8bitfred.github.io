@@ -50,7 +50,7 @@ plugins:
 #   - vendor/ruby/
 
 # Site logo 
-logo: "/assets/images/Site Logo/fred_mini.png"
+logo: "/assets/images/Site Logo/fred_relieve.png"
 
 favicon_ico: "/assets/images/fred_icon.ico"
 
