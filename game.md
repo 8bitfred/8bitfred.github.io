@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Game
+title: The Game
 permalink: /game/
 nav_order: 3
 ---
