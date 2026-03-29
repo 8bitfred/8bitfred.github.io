@@ -58,7 +58,4 @@ search_enabled: false
 
 color_scheme: dark
 
-just_the_docs:
-  custom_css:
-    - custom
 
