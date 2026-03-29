@@ -5,10 +5,6 @@ permalink: /game/
 nav_order: 3
 ---
 
-![Fred - Tape inlay - Investronica](/assets/images/tape_inlay-fred-investronica.jpg)
-![Fred - Tape inlay - Quicksilva (front)](/assets/images/tape_inlay-fred-quicksilva-front.jpg)
-![Fred - Tape inlay - Quicksilva (back)](/assets/images/tape_inlay-fred-quicksilva-back.jpg)
-
 The Game
 --------
 The more tombs (mazes) Fred explores, the tougher the going. The number of
@@ -54,4 +50,11 @@ centre.
 option to return to screen 1 or redefine the maze. The number of monsters
 has to be defined with two figures, e.g. 09, etc.
 
-Quicksilva Ltd., 13 Palmerston Rd., Southampton, SO1 1LL
+Tape inlays
+-----------
+
+![Fred - Tape inlay - Investronica](/assets/images/tape_inlay-fred-investronica.jpg)
+
+![Fred - Tape inlay - Quicksilva (front)](/assets/images/tape_inlay-fred-quicksilva-front.jpg)
+
+![Fred - Tape inlay - Quicksilva (back)](/assets/images/tape_inlay-fred-quicksilva-back.jpg)

@@ -32,9 +32,6 @@ This book is aimed at Scratch programmers with prior experience who want to prog
 
 If you want to stop improvising and start building your projects with a solid methodology, this book offers a clear step-by-step path.
 
-Index
------
-
 <a href="{{ '/assets/pdf/TableOfContents.pdf' | relative_url }}">
-  Tabla de contenidos
+  Table of Contents
 </a>

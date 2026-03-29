@@ -18,6 +18,6 @@ has_toc: false
   P R I M U S · F U I S T I
 </p>
 
-Aims to faithfully bring Fred to modern platforms through reverse engineering of the original Z80 code
+Aims to faithfully bring *Fred* to modern platforms through reverse engineering of the original Z80 code.
 
 
