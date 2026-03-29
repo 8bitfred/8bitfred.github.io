@@ -7,7 +7,9 @@ has_toc: false
 ---
 
 
-![Icono Retro-Fred](/assets/images/Fred_relieve.png)
+<p align="center">
+  <img src="{{ '/assets/images/Fred_relieve.png' | relative_url }}" width="300">
+</p>
 
 Retro-Fred in C++
 -----------------
