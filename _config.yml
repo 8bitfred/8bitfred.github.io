@@ -52,12 +52,13 @@ plugins:
 # Site logo 
 logo: "assets/images/Site Logo/8bitfred2_mini2.png"
 
-favicon_ico: "/assets/images/fred_icon.ico"
+favicon_ico: "/assets/images/favicon.png"
 
 search_enabled: false
 
 color_scheme: dark
 
-include:
-  - game.md
+just_the_docs:
+  custom_css:
+    - custom
 
