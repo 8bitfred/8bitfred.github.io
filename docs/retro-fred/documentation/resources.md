@@ -7,10 +7,12 @@ nav_order: 3
 has_toc: false
 ---
 
-Sprites
+Sprites 
 -------
+
+[ZX Spectrum sprite sheets](/assets/sprites/sprites_zx.zip)
 
 Audio
 -----
 
-[Melodías y efectos especiales](/assets/audio/audio.zip)
+[Music tracks and special effects](/assets/audio/audio.zip)

@@ -12,7 +12,10 @@ has_toc: false
 </p>
 
 <p style="text-align: center; font-size: 28px; font-family: 'Times New Roman', serif;">
-  T U · Q U O Q U E · P R I M U S · F U I S T I
+  T U · Q U O Q U E
+</p>
+<p style="text-align: center; font-size: 28px; font-family: 'Times New Roman', serif;">
+  P R I M U S · F U I S T I
 </p>
 
 Aims to faithfully bring Fred to modern platforms through reverse engineering of the original Z80 code

@@ -1,0 +1,27 @@
+<span style="color: #e63946; font-style: italic;">
+Guía del programador de Scratch avanzado
+</span> es el libro que describe paso a paso cómo programar una conversión de Fred a Scratch, manteniendo al 100% la experiencia del título original. Incluye cientos de figuras y diagramas que explican el funcionamiento del juego con todo detalle.
+
+La sintaxis de Scratch, cercana al pseudocódigo, facilita la comprensión de la implementación y resulta de gran ayuda para realizar conversiones a otras plataformas.
+
+---
+
+Dar el salto de programador básico a desarrollador avanzado no consiste en aprender más bloques, sino en aprender a pensar de otra manera.
+
+Muchos usuarios de Scratch dominan lo esencial, pero encuentran dificultades cuando intentan construir proyectos complejos, organizar su código o dar el siguiente paso hacia videojuegos más elaborados.
+
+En Guía del programador de Scratch avanzado encontrarás un enfoque práctico y estructurado para desarrollar esas habilidades. A lo largo del libro, trabajarás técnicas de programación más avanzadas, aprenderás a organizar proyectos de forma clara y construirás sistemas reutilizables que te permitirán crear videojuegos más sólidos y completos.
+
+El recorrido no se queda en la teoría. El libro disecciona paso a paso uno de los videojuegos pioneros del ZX Spectrum, mostrando cómo trasladar sus ideas y mecánicas al entorno de Scratch. Este análisis conecta la práctica actual con los orígenes de la programación de videojuegos, incorporando también una revisión del contexto histórico en el que surgieron estos desarrollos a comienzos de los años 80.
+
+Este libro está dirigido a programadores de Scratch con experiencia previa que quieren avanzar hacia un nivel intermedio-avanzado, así como a quienes sienten interés por la retroinformática y desean entender cómo nacieron muchos de los conceptos que todavía utilizamos hoy.
+
+Si quieres dejar de improvisar y empezar a construir tus proyectos con método, este libro te ofrece el camino paso a paso.
+
+
+Índice
+------
+
+<a href="{{ '/assets/pdf/TableOfContents.pdf' | relative_url }}">
+  Tabla de contenidos
+</a>
