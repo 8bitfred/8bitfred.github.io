@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sprites
+title: Scratch code
 parent: Documentation
 grand_parent: Retro-Fred Project
 nav_order: 4

@@ -8,4 +8,4 @@ has_children: true
 has_toc: false
 ---
 
-On this page you can find the resources from the original ZX Spectrum game.
+On this page you can find the resources from the original ZX Spectrum game as well as other useful documentation.

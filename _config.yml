@@ -52,7 +52,7 @@ plugins:
 # Site logo 
 logo: "assets/images/Site Logo/8bitfred2_mini2.png"
 
-favicon_ico: "/assets/images/favicon.png"
+favicon_ico: "/assets/images/site logo/8bitf.png"
 
 search_enabled: false
 
