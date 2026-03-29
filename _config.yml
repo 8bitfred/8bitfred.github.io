@@ -61,6 +61,3 @@ color_scheme: dark
 include:
   - game.md
 
-just_the_docs:
-  custom_css:
-    - assets/css/custom.css

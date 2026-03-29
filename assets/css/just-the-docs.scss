@@ -1,0 +1,11 @@
+@import "just-the-docs";
+
+/* Cabecera personalizada */
+.site-header::before {
+  content: "8bitfred.com – Retro Games";
+  font-weight: bold;
+  font-size: 22px;
+  margin-left: 20px;
+  line-height: 60px;
+  color: #ffd700;
+}
