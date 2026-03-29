@@ -32,7 +32,6 @@ high speed. They can be stopped by being shot.
 
 **Skeletons**: They chase relentlessly, and can only be stopped by being shot.
 
-
 **Power**: Fred's strength is maximum at 15 and reduces by one each time a
 monster hits. Two extra units are gained each time the magic elixir of
 Nefertiti is drunk and when he reaches the exit.

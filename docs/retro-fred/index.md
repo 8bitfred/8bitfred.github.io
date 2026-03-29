@@ -11,13 +11,12 @@ has_toc: false
   <img src="{{ '/assets/images/Fred_relieve.png' | relative_url }}" width="300">
 </p>
 
-<p style="text-align: center; font-size: 28px; font-family: 'Times New Roman', serif;">
-  T U · Q U O Q U E
-</p>
-<p style="text-align: center; font-size: 28px; font-family: 'Times New Roman', serif;">
-  P R I M U S · F U I S T I
+<p style="text-align: center; font-size: 18px; font-family: 'Times New Roman', serif;">
+  T U · Q U O Q U E · P R I M U S · F U I S T I
 </p>
 
 Aims to faithfully bring *Fred* to modern platforms through reverse engineering of the original Z80 code.
+
+Despite being developed at the same time in the second half of 1983, *Fred* and *Bugaboo (The Flea)* were released a few weeks apart, at the end of that year and the beginning of 1984, respectively. Both were major commercial successes in Spain and the UK.
 
 
