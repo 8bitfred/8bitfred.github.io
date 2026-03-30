@@ -17,6 +17,5 @@ has_toc: false
 
 Aims to faithfully bring *Fred* to modern platforms through reverse engineering of the original Z80 code.
 
-Despite being developed at the same time in the second half of 1983, *Fred* and *Bugaboo (The Flea)* were released a few weeks apart, at the end of that year and the beginning of 1984, respectively. Both were major commercial successes in Spain and the UK.
 
 

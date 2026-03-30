@@ -4,19 +4,11 @@ title: Fred History
 nav_order: 2
 ---
 
-[Fred](https://worldofspectrum.org/archive/software/games/fred-investronica-sa)
-is one of the first video-games created in Spain for the Sinclair ZX
-Spectrum microcomputer. It was developed in 1983 by [Carlos Granados
-(Charlie)](https://amstrad.es/doku.php?id=programadores:carlos_granados_charlie),
-[Fernando Rada](https://es.wikipedia.org/wiki/Fernando_Rada) and [Paco
-Menéndez](https://en.wikipedia.org/wiki/Paco_Men%C3%A9ndez), and
-distributed by [Indescomp,
-S.A.](https://es.wikipedia.org/wiki/Indescomp), with cover art by
-[David Rowe](https://www.davidrowe.net/). It was published by
-Quicksilva in the United Kingdom in 1983, shortly after Bugaboo (The
-Flea), and was released by [Investronica,
-S.A.](https://es.wikipedia.org/wiki/Investr%C3%B3nica) in Spain the
-next year.
+[*Fred*](https://worldofspectrum.org/archive/software/games/fred-investronica-sa) is an action video game developed by [Carlos Granados (Charlie)](https://amstrad.es/doku.php?id=programadores:carlos_granados_charlie), [Fernando Rada](https://es.wikipedia.org/wiki/Fernando_Rada) and [Paco Menéndez](https://en.wikipedia.org/wiki/Paco_Men%C3%A9ndez) for the ZX Spectrum in 1983, and published by [Indescomp, SA](https://es.wikipedia.org/wiki/Indescomp) in Spain and by [Quicksilva, Ltd](https://en.wikipedia.org/wiki/Quicksilva) in the UK, with cover art by [David Rowe](https://www.davidrowe.net/). Versions for Commodore 64 and Amstrad CPC 464 were released in 1984.
+
+*Fred* incorporates elements—such as procedural generation maze and a single-life structure—that would later become characteristic of rogue-like games, despite differing in its real-time, platform-based gameplay.
+
+It is considered one of the earliest video games developed in Spain for the Sinclair ZX Spectrum, along with its contemporary *Bugaboo (The Flea)*. Although an agreement was reached with Quicksilva to market both titles in the United Kingdom in the autumn of 1983, they were released a few weeks apart: at the end of that year and the beginning of 1984, respectively. Both were major commercial successes in Spain (Investronica, SA) and the UK.
 
 A conversion for the Amstrad CPC, written by the same team including
 [Camilo Cela](https://www.devuego.es/bd/fdesarrollador/camilo-cela),
@@ -58,6 +50,4 @@ described it as a *"feast of Disneyesque graphics"*. Your Spectrum
 8 out of 10. And it got a 100% score on Home Computing Weekly ([issue 52,
 p22](Home_Computing_Weekly_052-p22.pdf)).
 
-After Fred, its authors founded the game studio Made in Spain and the
-distributor Zigurat. They produced a long list of games for 8 and 16
-bit platforms, and even a few arcade titles.
+After Fred, its authors founded the game studio Made in Spain and the distributor [Zigurat](https://en.wikipedia.org/wiki/Zigurat_(company)). They produced a long list of games for 8 and 16 bit platforms, and even a few arcade titles.
