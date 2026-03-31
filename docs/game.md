@@ -18,6 +18,8 @@ nav_order: 3
 </table>
 </div>
 
+<img src="{{ "/assets/images/zx/loadingscreen.png" | relative_url }}" width="270">
+<img src="{{ "/assets/images/zx/snapshot.png" | relative_url }}" width="270">
 
 
 The Game
