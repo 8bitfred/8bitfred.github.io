@@ -10,16 +10,9 @@ nav_order: 2
 
 It is considered one of the earliest video games developed in Spain for the Sinclair ZX Spectrum, along with its contemporary *Bugaboo (The Flea)*. Although an agreement was reached with Quicksilva to market both titles in the United Kingdom in the autumn of 1983, they were released a few weeks apart: at the end of that year and the beginning of 1984, respectively. Both were major commercial successes in Spain (Investronica, SA) and the UK.
 
-A conversion for the Amstrad CPC, written by the same team including
-[Camilo Cela](https://www.devuego.es/bd/fdesarrollador/camilo-cela),
-was launched by [Amsoft](https://en.wikipedia.org/wiki/Amsoft) as
-[Roland on the
-Ropes](https://www.cpcwiki.eu/index.php/Roland_on_the_Ropes) in 1984,
-as part of the
-[Roland](https://en.wikipedia.org/wiki/Roland_(game_character)) video
-game series.
+A conversion for the Amstrad CPC, written by the same team including [Camilo Cela](https://www.devuego.es/bd/fdesarrollador/camilo-cela), was launched by [Amsoft](https://en.wikipedia.org/wiki/Amsoft) as [Roland on the Ropes](https://www.cpcwiki.eu/index.php/Roland_on_the_Ropes) in 1984, as part of the [Roland](https://en.wikipedia.org/wiki/Roland_(game_character)) video game series. Interestingly, [Alan Sugar](https://en.wikipedia.org/wiki/Alan_Sugar) (Amstrad’s CEO) named the character after Roland Perry (engineer in charge of the development of the CPC 464) while playing a demo of *Fred*.
 
-The history of Fred starts when Granados played the game
+The history of *Fred* starts when Granados played the game
 [Pengo](https://en.wikipedia.org/wiki/Pengo_(video_game)) at an arcade
 during the summer of 1983. In Pengo the player controls a penguin that
 must move or destroy ice blocks in a maze to kill enemies and find the
@@ -39,7 +32,7 @@ pyramid. They completed the game in just a few weeks. In the spring of
 1984 they ported the game for Amstrad CPC, which was released under
 the name "Roland on the Ropes".
 
-Fred received very positive reviews by the specialized press. Crash
+*Fred* received very positive reviews by the specialized press. Crash
 Magazine ([issue 3, p84](Crash03-Apr84-p84.pdf)) gave it a score of
 83%, noting *"The game has great animation, especially that of Fred
 himself, and the graphics are generally excellent. Even Fred's
@@ -50,4 +43,4 @@ described it as a *"feast of Disneyesque graphics"*. Your Spectrum
 8 out of 10. And it got a 100% score on Home Computing Weekly ([issue 52,
 p22](Home_Computing_Weekly_052-p22.pdf)).
 
-After Fred, its authors founded the game studio Made in Spain and the distributor [Zigurat](https://en.wikipedia.org/wiki/Zigurat_(company)). They produced a long list of games for 8 and 16 bit platforms, and even a few arcade titles.
+After *Fred*, its authors founded the game studio Made in Spain and the distributor [Zigurat](https://en.wikipedia.org/wiki/Zigurat_(company)). They produced a long list of games for 8 and 16 bit platforms, and even a few arcade titles.
