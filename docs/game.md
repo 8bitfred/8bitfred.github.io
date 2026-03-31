@@ -9,10 +9,10 @@ nav_order: 3
 <table>
   <tr>
     <td align="center">
-      <img src="/assets/images/zx/scr2gif.gif" width="270">
+      <img src="/assets/images/zx/loadingscreen.png" width="270">
     </td>
     <td align="center">
-      <img src="/assets/images/zx/d9e65cb1-c374-40f7-b7cd-08acb6cd5c1c.png" width="270">
+      <img src="/assets/images/zx/snapshot.png" width="270">
     </td>
   </tr>
 </table>
@@ -48,39 +48,39 @@ high speed. They can be stopped by being shot.
 **Skeletons**: They chase relentlessly, and can only be stopped by being shot.
 
 <div style="overflow-x:auto;">
-<table>
+<table style="background-color: black; color: white;">
   <tr>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Ghost<br>
       <img src="/assets/images/sprites/ghost.png" width="75">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Rat<br>
       <img src="/assets/images/sprites/rat.png" width="50">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Acid Drop<br>
       <img src="/assets/images/sprites/aciddrop.png" width="50">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Vampire<br>
       <img src="/assets/images/sprites/vampire.png" width="75">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Mummy<br>
       <img src="/assets/images/sprites/mummy.png" width="75">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Chameleon<br>
       <img src="/assets/images/sprites/chameleon.png" width="25">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Skeleton<br>
       <img src="/assets/images/sprites/skeleton.png" width="100">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       <!-- celda vacía para mantener alineación -->
     </td>
   </tr>
@@ -101,39 +101,39 @@ with bonus points on exit.
 centre.
 
 <div style="overflow-x:auto;">
-<table>
+<table style="background-color: black; color: white;">
   <tr>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Map<br>
       <img src="/assets/images/sprites/object_1x_1.png" width="50">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Power<br>
       <img src="/assets/images/sprites/object_1x_2.png" width="50">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Treasure-Bust<br>
       <img src="/assets/images/sprites/object_1x_3.png" width="50">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Treasure-Hieroglyph<br>
       <img src="/assets/images/sprites/object_1x_4.png" width="50">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Weapons<br>
       <img src="/assets/images/sprites/object_1x_5.png" width="50">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Treasure-Statuette<br>
       <img src="/assets/images/sprites/object_1x_6.png" width="50">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Treasure-Mask<br>
       <img src="/assets/images/sprites/object_1x_7.png" width="50">
     </td>
-    <td align="center">
+    <td align="center" style="background-color:black; color:white;">
       Treasure-Cross<br>
       <img src="/assets/images/sprites/object_1x_8.png" width="50">
     </td>
