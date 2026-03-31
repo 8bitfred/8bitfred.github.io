@@ -32,3 +32,23 @@ If you want to stop improvising and start building your projects with a solid me
 <a href="{{ '/assets/pdf/TableOfContents.pdf' | relative_url }}">
   Table of Contents
 </a>
+
+<a href="{{ '/assets/pdf/Sample_1.pdf' | relative_url }}">
+  Sample 1
+</a>
+
+<a href="{{ '/assets/pdf/Sample_2.pdf' | relative_url }}">
+  Sample 2
+</a>
+
+<a href="{{ '/assets/pdf/Sample_3.pdf' | relative_url }}">
+  Sample 3
+</a>
+
+<a href="{{ '/assets/pdf/Sample_4.pdf' | relative_url }}">
+  Sample 4
+</a>
+
+<a href="{{ '/assets/pdf/Sample_5.pdf' | relative_url }}">
+  Sample 5
+</a>

@@ -18,6 +18,7 @@ nav_order: 3
 </table>
 </div>
 
+
 The Game
 --------
 The more tombs (mazes) Fred explores, the tougher the going. The number of
@@ -26,24 +27,24 @@ monsters increases and they get meaner and faster.
 Monsters
 --------
 
-**Rats**: These run through the labyrinth, the only way to avoid them is to jump
+![Title](https://img.shields.io/badge/Rats-blue): These run through the labyrinth, the only way to avoid them is to jump
 at the right moment.
 
-**Acid Drops**: From the decomposing mixtures of the Egyptian Magicians.
+![Title](https://img.shields.io/badge/Acid%20Drops-blue): From the decomposing mixtures of the Egyptian Magicians.
 Careful timing is needed to get past them.
 
-**Ghosts**: Beware, they can go through walls. They change direction when shot.
+![Title](https://img.shields.io/badge/Ghosts-blue): Beware, they can go through walls. They change direction when shot.
 
-**Chameleons**: They can be passed by climbing the rope on the opposite side, but
+![Title](https://img.shields.io/badge/Chameleons-blue): They can be passed by climbing the rope on the opposite side, but
 they can change sides too!!
 
-**Mummies**: They fall through the vertical corridors. They can teleport when
+![Title](https://img.shields.io/badge/Mummies-blue): They fall through the vertical corridors. They can teleport when
 they stop falling or are hit by a bullet.
 
-**Vampires**: They chase through the maze and can stop flying or even develop a
+![Title](https://img.shields.io/badge/Vampires-blue): They chase through the maze and can stop flying or even develop a
 high speed. They can be stopped by being shot.
 
-**Skeletons**: They chase relentlessly, and can only be stopped by being shot.
+![Title](https://img.shields.io/badge/Skeletons-blue): They chase relentlessly, and can only be stopped by being shot.
 
 <div style="overflow-x:auto;">
 <table style="background-color: black; color: white;">
@@ -85,17 +86,20 @@ high speed. They can be stopped by being shot.
 </table>
 </div>
 
-**Power**: Fred's strength is maximum at 15 and reduces by one each time a
+Objects
+-------
+
+![Title](https://img.shields.io/badge/Power-blue): Fred's strength is maximum at 15 and reduces by one each time a
 monster hits. Two extra units are gained each time the magic elixir of
 Nefertiti is drunk and when he reaches the exit.
 
-**Weapons**: Fred has a gun and six bullets which he can replenish en route. He
+![Title](https://img.shields.io/badge/Weapons-blue): Fred has a gun and six bullets which he can replenish en route. He
 cannot shoot whilst climbing a rope.
 
-**Treasures**: Varying in value, they may be picked up by just walking over them,
+![Title](https://img.shields.io/badge/Treasures-blue): Varying in value, they may be picked up by just walking over them,
 with bonus points on exit.
 
-**Map**: A map is displayed when Fred discovers one in the maze. Fred is in the
+![Title](https://img.shields.io/badge/Map-blue): A map is displayed when Fred discovers one in the maze. Fred is in the
 centre.
 
 <div style="overflow-x:auto;">
@@ -139,10 +143,14 @@ centre.
 </table>
 </div>
 
-**Screens**: There are six screens, increasing in difficulty, followed by the
+Screens
+-------
+There are six screens, increasing in difficulty, followed by the
 option to return to screen 1 or redefine the maze. The number of monsters
 has to be defined with two figures, e.g. 09, etc.
 
+Screen Layout
+-------------
 
 <p align="center">
   <img src="{{ '/assets/images/sprites/frame-zones.png' | relative_url }}" width="500">
