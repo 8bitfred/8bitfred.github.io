@@ -38,33 +38,33 @@ high speed. They can be stopped by being shot.
   <tr>
     <td align="center">
       Ghost<br>
-      <img src="/assets/images/ghost.png" width="75">
+      <img src="/assets/images/sprites/ghost.png" width="75">
     </td>
     <td align="center">
       Rat<br>
-      <img src="/assets/images/rat.png" width="50">
+      <img src="/assets/images/sprites/rat.png" width="50">
     </td>
     <td align="center">
       Acid Drop<br>
-      <img src="/assets/images/acid_drop.png" width="50">
+      <img src="/assets/images/sprites/acid_drop.png" width="50">
     </td>
     <td align="center">
       Vampire<br>
-      <img src="/assets/images/vampire.png" width="75">
+      <img src="/assets/images/sprites/vampire.png" width="75">
     </td>
   </tr>
   <tr>
     <td align="center">
       Mummy<br>
-      <img src="/assets/images/mummy.png" width="75">
+      <img src="/assets/images/sprites/mummy.png" width="75">
     </td>
     <td align="center">
       Chameleon<br>
-      <img src="/assets/images/chameleon.png" width="25">
+      <img src="/assets/images/sprites/chameleon.png" width="25">
     </td>
     <td align="center">
       Skeleton<br>
-      <img src="/assets/images/skeleton.png" width="100">
+      <img src="/assets/images/sprites/skeleton.png" width="100">
     </td>
     <td align="center">
       <!-- celda vacía para mantener alineación -->
@@ -94,8 +94,8 @@ has to be defined with two figures, e.g. 09, etc.
 Tape inlays
 -----------
 
-![Fred - Tape inlay - Investronica](/assets/images/tape_inlay-fred-investronica.jpg)
+![Fred - Tape inlay - Investronica](/assets/images/sprites/tape_inlay-fred-investronica.jpg)
 
-![Fred - Tape inlay - Quicksilva (front)](/assets/images/tape_inlay-fred-quicksilva-front.jpg)
+![Fred - Tape inlay - Quicksilva (front)](/assets/images/sprites/tape_inlay-fred-quicksilva-front.jpg)
 
-![Fred - Tape inlay - Quicksilva (back)](/assets/images/tape_inlay-fred-quicksilva-back.jpg)
+![Fred - Tape inlay - Quicksilva (back)](/assets/images/sprites/tape_inlay-fred-quicksilva-back.jpg)
