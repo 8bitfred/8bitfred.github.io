@@ -49,7 +49,9 @@ Other ports and remakes
 
   * 2024, Commodore 64, [Kazik in the Underworld of Tema +3D](https://csdb.dk/release/index.php?id=241469) by Laxity, Onslaught.
 
+  * 2025, Windows, [Fred](https://lvideo4867.itch.io/fred) by Langford Productions.
 
+  * 2026, Windows, [Fred deluxe](https://planetasinclair.blogspot.com/2026/03/fred-deluxe.html) by Planeta Sinclair
 
 
 

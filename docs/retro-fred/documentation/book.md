@@ -8,13 +8,10 @@ has_toc: false
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/book/GPSA.jpg' | relative_url }}" width="300">
+  <img src="{{ '/assets/images/book/book_transparent.png' | relative_url }}" width="400" alt="Portada">
 </p>
 
-
-<span style="color: #e63946; font-style: italic;">
-Guía del programador de Scratch avanzado
-</span> is the book that describes step by step how to program a conversion of *Fred* to Scratch, preserving 100% of the original gameplay experience. It includes hundreds of figures and diagrams that explain in detail how the game works.
+Describes step by step how to program a conversion of *Fred* to Scratch, preserving 100% of the original gameplay experience. It includes hundreds of figures and diagrams that explain in detail how the game works.
 
 Scratch’s pseudocode-like syntax makes it easier to understand the implementation and is invaluable when porting to other platforms.
 

@@ -5,6 +5,21 @@ permalink: /game/
 nav_order: 3
 ---
 
+<div style="overflow-x:auto;">
+<table>
+  <tr>
+    <td align="center">
+      <img src="/assets/images/zx/scr2gif.gif" width="270">
+    </td>
+    <td align="center">
+      <img src="/assets/images/zx/d9e65cb1-c374-40f7-b7cd-08acb6cd5c1c.png" width="270">
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
 The Game
 --------
 The more tombs (mazes) Fred explores, the tougher the going. The number of
@@ -31,7 +46,6 @@ they stop falling or are hit by a bullet.
 high speed. They can be stopped by being shot.
 
 **Skeletons**: They chase relentlessly, and can only be stopped by being shot.
-
 
 <div style="overflow-x:auto;">
 <table>
@@ -73,7 +87,6 @@ high speed. They can be stopped by being shot.
 </table>
 </div>
 
-
 **Power**: Fred's strength is maximum at 15 and reduces by one each time a
 monster hits. Two extra units are gained each time the magic elixir of
 Nefertiti is drunk and when he reaches the exit.
@@ -87,15 +100,143 @@ with bonus points on exit.
 **Map**: A map is displayed when Fred discovers one in the maze. Fred is in the
 centre.
 
+<div style="overflow-x:auto;">
+<table>
+  <tr>
+    <td align="center">
+      Map<br>
+      <img src="/assets/images/sprites/object_1x_1.png" width="50">
+    </td>
+    <td align="center">
+      Power<br>
+      <img src="/assets/images/sprites/object_1x_2.png" width="50">
+    </td>
+    <td align="center">
+      Treasure-Bust<br>
+      <img src="/assets/images/sprites/object_1x_3.png" width="50">
+    </td>
+    <td align="center">
+      Treasure-Hieroglyph<br>
+      <img src="/assets/images/sprites/object_1x_4.png" width="50">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Weapons<br>
+      <img src="/assets/images/sprites/object_1x_5.png" width="50">
+    </td>
+    <td align="center">
+      Treasure-Statuette<br>
+      <img src="/assets/images/sprites/object_1x_6.png" width="50">
+    </td>
+    <td align="center">
+      Treasure-Mask<br>
+      <img src="/assets/images/sprites/object_1x_7.png" width="50">
+    </td>
+    <td align="center">
+      Treasure-Cross<br>
+      <img src="/assets/images/sprites/object_1x_8.png" width="50">
+    </td>
+  </tr>
+</table>
+</div>
+
 **Screens**: There are six screens, increasing in difficulty, followed by the
 option to return to screen 1 or redefine the maze. The number of monsters
 has to be defined with two figures, e.g. 09, etc.
 
+
+<p align="center">
+  <img src="{{ '/assets/images/sprites/frame-zones.png' | relative_url }}" width="500">
+</p>
+
 Tape inlays
 -----------
 
-![Fred - Tape inlay - Investronica](/assets/images/sprites/tape_inlay-fred-investronica.jpg)
+<div style="overflow-x:auto;">
+<table>
+  <tr>
+    <td align="center">
+      Investrónica<br>
+      ZX Spectrum
+    </td>
+    <td align="center">
+      <a href="/assets/images/tape_inlay/tape_inlay-fred-investronica.jpg">
+        <img src="/assets/images/tape_inlay/tape_inlay-fred-investronica.jpg" width="100">
+      </a>
+      <a href="/assets/images/tape_inlay/Investronica_inlay_2.png">
+        <img src="/assets/images/tape_inlay/Investronica_inlay_2.png" width="100">
+      </a>
+      <a href="/assets/images/tape_inlay/Investronica_Instrucciones_1.jpeg">
+        <img src="/assets/images/tape_inlay/Investronica_Instrucciones_1.jpeg" width="100">
+      </a>
+      <a href="/assets/images/tape_inlay/Investronica_Instrucciones_2.jpeg">
+        <img src="/assets/images/tape_inlay/Investronica_Instrucciones_2.jpeg" width="100">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Quicksilva<br>
+      ZX Spectrum
+    </td>
+    <td align="center">
+      <a href="/assets/images/tape_inlay/tape_inlay-fred-quicksilva-front.jpg">
+        <img src="/assets/images/tape_inlay/tape_inlay-fred-quicksilva-front.jpg" width="160">
+      </a>
+      <a href="/assets/images/tape_inlay/tape_inlay-fred-quicksilva-back.jpg">
+        <img src="/assets/images/tape_inlay/tape_inlay-fred-quicksilva-back.jpg" width="160">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Quicksilva<br>
+      Commodore 64
+    </td>
+    <td align="center">
+      <a href="/assets/images/tape_inlay/Quicksilva_C64_inlay_1.jpeg">
+        <img src="/assets/images/tape_inlay/Quicksilva_C64_inlay_1.jpeg" width="160">
+      </a>
+      <a href="/assets/images/tape_inlay/Quicksilva_C64_inlay_2.jpeg">
+        <img src="/assets/images/tape_inlay/Quicksilva_C64_inlay_2.jpeg" width="160">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Amsoft (UK)<br>
+      CPC 464
+    </td>
+    <td align="center">
+      <a href="/assets/images/tape_inlay/Amsoft_118_inlay_1.jpeg">
+        <img src="/assets/images/tape_inlay/Amsoft_118_inlay_1.jpeg" width="160">
+      </a>
+      <a href="/assets/images/tape_inlay/Amsoft_118_inlay_2.jpeg">
+        <img src="/assets/images/tape_inlay/Amsoft_118_inlay_2.jpeg" width="160">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Amsoft (ES)<br>
+      CPC 464
+    </td>
+    <td align="center">
+      <a href="/assets/images/tape_inlay/Amsoft_s118_inlay_1.jpeg">
+        <img src="/assets/images/tape_inlay/Amsoft_s118_inlay_1.jpeg" width="220">
+      </a>
+      <a href="/assets/images/tape_inlay/Amsoft_s118_instrucciones.jpeg">
+        <img src="/assets/images/tape_inlay/Amsoft_s118_instrucciones.jpeg" width="80">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
-![Fred - Tape inlay - Quicksilva (front)](/assets/images/sprites/tape_inlay-fred-quicksilva-front.jpg)
 
-![Fred - Tape inlay - Quicksilva (back)](/assets/images/sprites/tape_inlay-fred-quicksilva-back.jpg)
+
+
+
+
+

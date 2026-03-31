@@ -1,0 +1,18 @@
+Instalación
+-----------
+
+- instalar Ruby desde la Microsoft Store
+- desde PowerShell como administrador hacer lo siguiente
+- actualizar gem si es necesario
+- habilitar la ejecución de scripts en Powershell: Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+- ejecutar ridk install y elegir opción 3 (MSYS2 and MINGW development toolchain)
+- instalar Bundle: gem install bundle
+- en la carpeta de 8bitfred.github.io instalar Jekyll y Just-The-Docs (usa el Gemfile existente en la carpeta): bundle install
+
+Lanzar el servidor en http://localhost:4000
+-------------------------------------------
+
+La opción livereload hace que se reflejen los cambios realizados en los archivos de la página web automáticamente.
+
+bundle exec jekyll serve --livereload
+

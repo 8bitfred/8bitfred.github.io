@@ -6,7 +6,7 @@ layout: home
 nav_order: 1
 ---
 
-Fred is one of the first video-games ever developed in Spain. You can
-learn about its [history](history) and the [game play](game) here. Or
-you can play a [port](retro-fred) of the original game. Enjoy!
+Fred is one of the first ZX Spectrum video games ever developed in Spain. You can
+learn about its [history](/docs/history/) and the [game play](game) here. Or
+you can play a [port](/docs/retro-fred/platforms/) of the original game. Enjoy!
 

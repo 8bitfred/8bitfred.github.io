@@ -12,7 +12,8 @@ has_toc: false
 </p>
 
 <p style="text-align: center; font-size: 18px; font-family: 'Times New Roman', serif;">
-  T U · Q U O Q U E · P R I M U S · F U I S T I
+  T U · Q U O Q U E · P R I M U S · F U I S T I<br>
+  2021 -- 2026
 </p>
 
 Aims to faithfully bring *Fred* to modern platforms through reverse engineering of the original Z80 code.
