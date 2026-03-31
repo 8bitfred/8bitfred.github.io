@@ -46,7 +46,7 @@ high speed. They can be stopped by being shot.
     </td>
     <td align="center">
       Acid Drop<br>
-      <img src="/assets/images/sprites/acid_drop.png" width="50">
+      <img src="/assets/images/sprites/aciddrop.png" width="50">
     </td>
     <td align="center">
       Vampire<br>
