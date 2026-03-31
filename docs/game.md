@@ -33,26 +33,45 @@ high speed. They can be stopped by being shot.
 **Skeletons**: They chase relentlessly, and can only be stopped by being shot.
 
 
+<div style="overflow-x:auto;">
 <table>
   <tr>
-    <th>Ghost</th>
-    <th>Rat</th>
-    <th>Acid Drop</th>
-    <th>Vampire</th>
-    <th>Mummy</th>
-    <th>Chameleon</th>
-    <th>Skeleton</th>
+    <td align="center">
+      Ghost<br>
+      <img src="/assets/images/ghost.png" width="75">
+    </td>
+    <td align="center">
+      Rat<br>
+      <img src="/assets/images/rat.png" width="50">
+    </td>
+    <td align="center">
+      Acid Drop<br>
+      <img src="/assets/images/acid_drop.png" width="50">
+    </td>
+    <td align="center">
+      Vampire<br>
+      <img src="/assets/images/vampire.png" width="75">
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="/assets/images/sprites/ghost.png" width="80"></td>
-    <td align="center"><img src="/assets/images/sprites/rat.png" width="80"></td>
-    <td align="center"><img src="/assets/images/sprites/aciddrop.png" width="80"></td>
-    <td align="center"><img src="/assets/images/sprites/vampire.png" width="80"></td>
-    <td align="center"><img src="/assets/images/sprites/mummy.png" width="80"></td>
-    <td align="center"><img src="/assets/images/sprites/chameleon.png" width="80"></td>
-    <td align="center"><img src="/assets/images/sprites/skeleton.png" width="80"></td>
+    <td align="center">
+      Mummy<br>
+      <img src="/assets/images/mummy.png" width="75">
+    </td>
+    <td align="center">
+      Chameleon<br>
+      <img src="/assets/images/chameleon.png" width="25">
+    </td>
+    <td align="center">
+      Skeleton<br>
+      <img src="/assets/images/skeleton.png" width="100">
+    </td>
+    <td align="center">
+      <!-- celda vacía para mantener alineación -->
+    </td>
   </tr>
 </table>
+</div>
 
 
 **Power**: Fred's strength is maximum at 15 and reduces by one each time a
