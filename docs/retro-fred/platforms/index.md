@@ -5,8 +5,8 @@ parent: Retro-Fred Project
 nav_order: 2
 ---
 
-Retro-Fred in C++
------------------
+Retro-Fred in C++ (2021-2024)
+-----------------------------
 
 A conversion of Fred to C++ using SDL. It runs on Linux, Windows,
 MacOS, iOS and Android.
@@ -17,8 +17,8 @@ MacOS, iOS and Android.
 * [App Store](https://apps.apple.com/us/app/retro-fred/id6738402036)
 
 
-Retro-Fred in Scratch
----------------------
+Retro-Fred in Scratch (2021-2024)
+---------------------------------
 
 Conversion of Fred to Scratch.
 

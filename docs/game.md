@@ -157,7 +157,7 @@ Tape inlays
 <table>
   <tr>
     <td align="center">
-      Investrónica<br>
+      Investrónica (ES)<br>
       ZX Spectrum
     </td>
     <td align="center">
@@ -177,7 +177,7 @@ Tape inlays
   </tr>
   <tr>
     <td align="center">
-      Quicksilva<br>
+      Quicksilva (UK)<br>
       ZX Spectrum
     </td>
     <td align="center">
@@ -191,7 +191,7 @@ Tape inlays
   </tr>
   <tr>
     <td align="center">
-      Quicksilva<br>
+      Quicksilva (UK)<br>
       Commodore 64
     </td>
     <td align="center">
