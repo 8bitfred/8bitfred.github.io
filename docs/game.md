@@ -32,6 +32,29 @@ high speed. They can be stopped by being shot.
 
 **Skeletons**: They chase relentlessly, and can only be stopped by being shot.
 
+
+<table>
+  <tr>
+    <th>Ghost</th>
+    <th>Rat</th>
+    <th>Acid Drop</th>
+    <th>Vampire</th>
+    <th>Mummy</th>
+    <th>Chameleon</th>
+    <th>Skeleton</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="/assets/images/sprites/ghost.png" width="80"></td>
+    <td align="center"><img src="/assets/images/sprites/rat.png" width="80"></td>
+    <td align="center"><img src="/assets/images/sprites/aciddrop.png" width="80"></td>
+    <td align="center"><img src="/assets/images/sprites/vampire.png" width="80"></td>
+    <td align="center"><img src="/assets/images/sprites/mummy.png" width="80"></td>
+    <td align="center"><img src="/assets/images/sprites/chameleon.png" width="80"></td>
+    <td align="center"><img src="/assets/images/sprites/skeleton.png" width="80"></td>
+  </tr>
+</table>
+
+
 **Power**: Fred's strength is maximum at 15 and reduces by one each time a
 monster hits. Two extra units are gained each time the magic elixir of
 Nefertiti is drunk and when he reaches the exit.
