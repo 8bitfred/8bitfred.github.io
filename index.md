@@ -6,7 +6,11 @@ layout: home
 nav_order: 1
 ---
 
-Fred is one of the first ZX Spectrum video games ever developed in Spain. You can
+<p align="center">
+  <img src="{{ '/assets/images/FredBanner/FredBanner.png' | relative_url }}" width="300">
+</p>
+
+*Fred* is one of the first ZX Spectrum video games ever developed in Spain. You can
 learn about its [history](/docs/history/) and the [game play](game) here. Or
 you can play a [port](/docs/retro-fred/platforms/) of the original game. Enjoy!
 

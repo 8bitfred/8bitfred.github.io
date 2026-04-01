@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Retro-Fred Project
-nav_order: 4
+nav_order: 5
 has_children: true
 has_toc: false
 ---
 
 
 <p align="center">
-  <img src="{{ '/assets/images/Fred_relieve.png' | relative_url }}" width="300">
+  <img src="{{ '/assets/images/FredBanner/FredBanner_retrofred.png' | relative_url }}" width="300">
 </p>
 
 <p style="text-align: center; font-size: 18px; font-family: 'Times New Roman', serif;">

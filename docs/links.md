@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Links
+title: Fred on the Web
 permalink: /links/
-nav_order: 5
+nav_order: 4
 ---
 
 ZX Spectrum
@@ -28,32 +28,6 @@ Commodore 64
 
   * [Lemon 64](https://www.lemon64.com/game/fred)
 
-Other ports and remakes
------------------------
-
-  * 1985, Texas Instruments TI-99/4A, [Freddy](https://www.tigameshelf.net/asm.htm) by Arnd Russmann (Saurussoft).
-
-  * 1997, Windows, [Fred Remake](https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en) by Sarasoft.
-
-  * 2002, Windows, [Fred PC](https://www.classic-retro-games.com/games/platform/fred-128) by PeeJay.
-
-  * 2002, Windows, [Fred: The Remake](https://www.mobygames.com/game/45287/fred-the-remake/) by [FZero Software](http://www.fzero.co.uk/)
-
-  * 2018, JS/HTML5, [Uprk.cz](https://uprk.cz/) by Lubomír "Bob" Březina.
-
-  * 2018, Python, [Roland On The Ropes - Remake](https://www.pygame.org/project/3494/) by Fernando Paniagua.
-
-  * 2020, Windows, [Pharao Reloaded](https://store.steampowered.com/app/1270280/Pharao_Reloaded/) by Nethelpers Games.
-
-  * 2023, Android, [Fred Android Remake](https://play.google.com/store/apps/details?id=com.fredandroidremake&hl=en_US&gl=US) by Juan Luis Perea.
-
-  * 2024, Commodore 64, [Kazik in the Underworld of Tema +3D](https://csdb.dk/release/index.php?id=241469) by Laxity, Onslaught.
-
-  * 2025, Windows, [Fred](https://lvideo4867.itch.io/fred) by Langford Productions.
-
-  * 2026, Windows, [Fred deluxe](https://planetasinclair.blogspot.com/2026/03/fred-deluxe.html) by Planeta Sinclair
 
 
 
-
-  

@@ -11,9 +11,7 @@ has_toc: false
   <img src="{{ '/assets/images/book/book_transparent.png' | relative_url }}" width="400" alt="Portada">
 </p>
 
-Describes step by step how to program a conversion of *Fred* to Scratch, preserving 100% of the original gameplay experience. It includes hundreds of figures and diagrams that explain in detail how the game works.
-
-Scratch’s pseudocode-like syntax makes it easier to understand the implementation and is invaluable when porting to other platforms.
+A step-by-step guide to porting Fred to Scratch while preserving 100% of the original gameplay experience, with hundreds of figures and diagrams explaining in detail how the original game works.
 
 ---
 
