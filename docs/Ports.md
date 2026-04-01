@@ -139,7 +139,7 @@ Other ports and remakes
     <td align="left">
       2026<br>
       ZX Spectrum<br>
-      <a href="https://planetasinclair.blogspot.com/2026/03/fred-deluxe.html">Fred deluxe</a> by Planeta Sinclair
+      <a href="https://planetasinclair.blogspot.com/2026/03/fred-deluxe.html">Fred Deluxe</a> by Planeta Sinclair
     </td>
   </tr>
 </table>
