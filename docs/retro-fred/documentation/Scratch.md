@@ -10,9 +10,9 @@ has_toc: false
 Individual Files
 ----------------
 
-[Download All in PDF]({{ site.baseurl }}/assets/pdf/ScratchCodePDF.zip)
+[Download All in PDF](/assets/pdf/ScratchCodePDF.zip)
 
-[Download All in SVG]({{ site.baseurl }}/assets/svg/ScratchCodeSVG.zip)
+[Download All in SVG](/assets/svg/ScratchCodeSVG.zip)
 
 Script Viewer by Object
 -----------------------
@@ -27,8 +27,8 @@ Script Viewer by Object
 }
 
 .object-left {
-  width: 260px;
-  flex-shrink: 0;
+  width: 260px;       /* 👈 ancho fijo */
+  flex-shrink: 0;     /* 👈 evita que se reduzca */
 }
 
 .object-title {
@@ -42,7 +42,7 @@ Script Viewer by Object
   color: #4ea1ff;
   text-decoration: none;
   margin-left: 10px;
-  font-size: 0.8em;
+  font-size: 0.8em;   /* 👈 más pequeño */
 }
 
 .method:hover {
@@ -54,6 +54,23 @@ Script Viewer by Object
   border: 1px solid #444;
   border-radius: 6px;
   padding: 10px;
+  text-align: center;
+  min-height: 120px;
+}
+
+.object-viewer img {
+  max-width: 100%;
+  max-height: 220px;
+  height: auto;
+  cursor: zoom-in;
+}
+
+.object-viewer {
+  flex-grow: 1;
+  border: 1px solid #444;
+  border-radius: 6px;
+  padding: 10px;
+  text-align: center;
   min-height: 120px;
 
   display: flex;
@@ -64,7 +81,7 @@ Script Viewer by Object
 .object-viewer svg {
   width: 100%;
   height: 100%;
-  cursor: zoom-in;
+  cursor: zoom-in;   /* 👈 vuelve la lupa */
 }
 
 #lightbox {
@@ -81,6 +98,8 @@ Script Viewer by Object
 #lightbox img {
   max-width: 95%;
   max-height: 95%;
+  width: auto;
+  height: auto;
 }
 </style>
 
@@ -93,7 +112,7 @@ Script Viewer by Object
     {% for method in object[1] %}
       <a class="method"
          href="#"
-         onclick="showSVG(this, '{{ site.baseurl }}/assets/svg/code/{{ object[0] }}/{{ method }}.svg'); return false;">
+         onclick="showSVG(this, '/assets/svg/Code/{{ object[0] }}/{{ method }}.svg'); return false;">
          {{ method }}
       </a>
     {% endfor %}
@@ -115,14 +134,12 @@ function showSVG(el, path) {
   const row = el.closest('.object-row');
   const viewer = row.querySelector('.object-viewer');
 
-  viewer.dataset.src = path;
-
   fetch(path)
     .then(response => response.text())
     .then(svg => {
       viewer.innerHTML = svg;
-    })
-    .catch(err => console.error("SVG load error:", err));
+    });
+  viewer.dataset.src = path;
 }
 
 document.addEventListener('click', function (e) {
@@ -147,7 +164,6 @@ document.addEventListener('keydown', function(e) {
 function openLightbox(path) {
   const lightbox = document.getElementById('lightbox');
   const img = document.getElementById('lightbox-img');
-
   img.src = path;
   lightbox.style.display = 'flex';
 }
@@ -155,8 +171,19 @@ function openLightbox(path) {
 function closeLightbox() {
   const lightbox = document.getElementById('lightbox');
   const img = document.getElementById('lightbox-img');
-
   lightbox.style.display = 'none';
   img.src = '';
 }
+
+document.addEventListener('click', function (e) {
+  const viewer = e.target.closest('.object-viewer');
+  if (viewer && viewer.dataset.src) {
+    openLightbox(viewer.dataset.src);
+    return;
+  }
+
+  if (e.target.id === 'lightbox') {
+    closeLightbox();
+  }
+});
 </script>
