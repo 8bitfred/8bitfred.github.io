@@ -10,7 +10,7 @@ has_toc: false
 Sprites 
 -------
 
-[ZX Spectrum sprite sheets](/assets/sprites/sprites_zx.zip)
+[ZX Spectrum sprite sheets](/assets/images/sprites/sprites_zx.zip)
 
 Audio
 -----
