@@ -15,4 +15,4 @@ Sprites
 Audio
 -----
 
-[Music tracks and special effects](/assets/audio/audio.zip)
+[Music tracks and sound effects in WAV format](/assets/audio/audio.zip)

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Other ports and remakes
+title: Other Ports and Remakes
 permalink: /ports/
 nav_order: 6
 ---
 
-Other ports and remakes
+Other Ports and Remakes
 -----------------------
 
 <div style="overflow-x:auto;">

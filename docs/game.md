@@ -50,34 +50,55 @@ high speed. They can be stopped by being shot.
 <table style="background-color: black; color: white;">
   <tr>
     <td align="center" style="background-color:black; color:white;">
-      Ghost<br>
-      <img src="/assets/images/sprites/ghost.png" width="75">
+      <img src="/assets/images/sprites/ghost.png" width="48">
+    </td>
+  <td style="background-color:black; color:white; text-align: center; vertical-align: bottom;">
+    <img src="/assets/images/sprites/rat.png" width="32">
+  </td>
+    <td align="center" style="background-color:black; color:white;">
+      <img src="/assets/images/sprites/aciddrop.png" width="32">
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Rat<br>
-      <img src="/assets/images/sprites/rat.png" width="50">
-    </td>
-    <td align="center" style="background-color:black; color:white;">
-      Acid Drop<br>
-      <img src="/assets/images/sprites/aciddrop.png" width="50">
-    </td>
-    <td align="center" style="background-color:black; color:white;">
-      Vampire<br>
-      <img src="/assets/images/sprites/vampire.png" width="75">
+      <img src="/assets/images/sprites/vampire.png" width="48">
     </td>
   </tr>
   <tr>
     <td align="center" style="background-color:black; color:white;">
-      Mummy<br>
-      <img src="/assets/images/sprites/mummy.png" width="75">
+      Ghost
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Chameleon<br>
-      <img src="/assets/images/sprites/chameleon.png" width="25">
+      Rat
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Skeleton<br>
-      <img src="/assets/images/sprites/skeleton.png" width="100">
+      Acid Drop
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      Vampire
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:black; color:white;">
+      <img src="/assets/images/sprites/mummy.png" width="48">
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      <img src="/assets/images/sprites/chameleon.png" width="16">
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      <img src="/assets/images/sprites/skeleton.png" width="64">
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      <!-- celda vacía para mantener alineación -->
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:black; color:white;">
+      Mummy
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      Chameleon
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      Skeleton
     </td>
     <td align="center" style="background-color:black; color:white;">
       <!-- celda vacía para mantener alineación -->
@@ -106,38 +127,58 @@ centre.
 <table style="background-color: black; color: white;">
   <tr>
     <td align="center" style="background-color:black; color:white;">
-      Map<br>
-      <img src="/assets/images/sprites/object_1x_1.png" width="50">
+      <img src="/assets/images/sprites/object_1x_1.png" width="32">
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Power<br>
-      <img src="/assets/images/sprites/object_1x_2.png" width="50">
+      <img src="/assets/images/sprites/object_1x_2.png" width="32">
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Treasure-Bust<br>
-      <img src="/assets/images/sprites/object_1x_3.png" width="50">
+      <img src="/assets/images/sprites/object_1x_3.png" width="32">
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Treasure-Hieroglyph<br>
-      <img src="/assets/images/sprites/object_1x_4.png" width="50">
+      <img src="/assets/images/sprites/object_1x_4.png" width="32">
     </td>
   </tr>
   <tr>
     <td align="center" style="background-color:black; color:white;">
-      Weapons<br>
-      <img src="/assets/images/sprites/object_1x_5.png" width="50">
+      Map
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Treasure-Statuette<br>
-      <img src="/assets/images/sprites/object_1x_6.png" width="50">
+      Power
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Treasure-Mask<br>
-      <img src="/assets/images/sprites/object_1x_7.png" width="50">
+      Treasure-Bust
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Treasure-Cross<br>
-      <img src="/assets/images/sprites/object_1x_8.png" width="50">
+      Treasure-Hieroglyph
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:black; color:white;">
+      <img src="/assets/images/sprites/object_1x_5.png" width="32">
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      <img src="/assets/images/sprites/object_1x_6.png" width="32">
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      <img src="/assets/images/sprites/object_1x_7.png" width="32">
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      <img src="/assets/images/sprites/object_1x_8.png" width="32">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:black; color:white;">
+      Weapons
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      Treasure-Statuette
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      Treasure-Mask
+    </td>
+    <td align="center" style="background-color:black; color:white;">
+      Treasure-Cross
     </td>
   </tr>
 </table>
@@ -156,89 +197,6 @@ Screen Layout
   <img src="{{ '/assets/images/sprites/frame-zones.png' | relative_url }}" width="500">
 </p>
 
-Tape inlays
------------
-
-<div style="overflow-x:auto;">
-<table>
-  <tr>
-    <td align="center">
-      Investrónica (ES)<br>
-      ZX Spectrum
-    </td>
-    <td align="center">
-      <a href="/assets/images/tape_inlay/tape_inlay-fred-investronica.jpg">
-        <img src="/assets/images/tape_inlay/tape_inlay-fred-investronica.jpg" width="100">
-      </a>
-      <a href="/assets/images/tape_inlay/Investronica_inlay_2.png">
-        <img src="/assets/images/tape_inlay/Investronica_inlay_2.png" width="100">
-      </a>
-      <a href="/assets/images/tape_inlay/Investronica_Instrucciones_1.jpeg">
-        <img src="/assets/images/tape_inlay/Investronica_Instrucciones_1.jpeg" width="100">
-      </a>
-      <a href="/assets/images/tape_inlay/Investronica_Instrucciones_2.jpeg">
-        <img src="/assets/images/tape_inlay/Investronica_Instrucciones_2.jpeg" width="100">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      Quicksilva (UK)<br>
-      ZX Spectrum
-    </td>
-    <td align="center">
-      <a href="/assets/images/tape_inlay/tape_inlay-fred-quicksilva-front.jpg">
-        <img src="/assets/images/tape_inlay/tape_inlay-fred-quicksilva-front.jpg" width="160">
-      </a>
-      <a href="/assets/images/tape_inlay/tape_inlay-fred-quicksilva-back.jpg">
-        <img src="/assets/images/tape_inlay/tape_inlay-fred-quicksilva-back.jpg" width="160">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      Quicksilva (UK)<br>
-      Commodore 64
-    </td>
-    <td align="center">
-      <a href="/assets/images/tape_inlay/Quicksilva_C64_inlay_1.jpeg">
-        <img src="/assets/images/tape_inlay/Quicksilva_C64_inlay_1.jpeg" width="160">
-      </a>
-      <a href="/assets/images/tape_inlay/Quicksilva_C64_inlay_2.jpeg">
-        <img src="/assets/images/tape_inlay/Quicksilva_C64_inlay_2.jpeg" width="160">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      Amsoft (UK)<br>
-      CPC 464
-    </td>
-    <td align="center">
-      <a href="/assets/images/tape_inlay/Amsoft_118_inlay_1.jpeg">
-        <img src="/assets/images/tape_inlay/Amsoft_118_inlay_1.jpeg" width="160">
-      </a>
-      <a href="/assets/images/tape_inlay/Amsoft_118_inlay_2.jpeg">
-        <img src="/assets/images/tape_inlay/Amsoft_118_inlay_2.jpeg" width="160">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      Amsoft (ES)<br>
-      CPC 464
-    </td>
-    <td align="center">
-      <a href="/assets/images/tape_inlay/Amsoft_s118_inlay_1.jpeg">
-        <img src="/assets/images/tape_inlay/Amsoft_s118_inlay_1.jpeg" width="220">
-      </a>
-      <a href="/assets/images/tape_inlay/Amsoft_s118_instrucciones.jpeg">
-        <img src="/assets/images/tape_inlay/Amsoft_s118_instrucciones.jpeg" width="80">
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
 
 
 

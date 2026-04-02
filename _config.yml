@@ -1,3 +1,4 @@
+# _config.yml
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -58,4 +59,5 @@ search_enabled: false
 
 color_scheme: dark
 
-
+just_the_docs:
+  custom_css: custom

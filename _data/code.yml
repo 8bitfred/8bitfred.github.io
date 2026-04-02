@@ -1,0 +1,453 @@
+Acid Drop:
+- CheckCellConditions
+- CheckCreatureOverlapping
+- CheckOnScreen
+- EvaluateFredCollision
+- GetBlock
+- State 1_SetUp
+- State 2_Grow
+- State 3_CheckFrame
+- State 4_CheckPosition
+- State 5_Reset
+- State 6_StartFall
+- State 7_Fall
+- State 8_Splash
+- UpdateCostume
+- WhenGreenFlagClicked
+- WhenIReceive_CheckEnemyCollision
+- WhenIReceive_DeleteSprites
+- WhenIReceive_DrawAcidDrops
+- WhenIReceive_MoveAcidDrops
+- WhenIStartAsAClone
+Backdrop:
+- WhenGreenFlagClicked
+- WhenIReceive_ShowBackdrop
+- WhenIStartAsAClone
+Block:
+- CheckOnScreen
+- SetUpBlockTypes
+- WhenGreenFlagClicked
+- WhenIReceive_CheckBulletCollision
+- WhenIReceive_DeleteBlocks
+- WhenIReceive_DrawMap
+- WhenIStartAsAClone
+Border:
+- WhenGreenFlagClicked
+- WhenIReceive_ShowLoadingBorder
+- WhenIStartAsAClone
+Bullet:
+- CheckOnScreen
+- DeleteBullet
+- SetUp
+- WhenGreenFlagClicked
+- WhenIReceive_DeleteBullet
+- WhenIReceive_DeleteSprites
+- WhenIReceive_DrawBullet
+- WhenIStartAsAClone
+- whenIReceive_MoveBullet
+Chameleon:
+- CheckCellConditions
+- CheckOnScreen
+- GetBlock
+- HandleFredCollision
+- State 10_MoveHorizontally
+- State 11_ToggleHorizontalDirection
+- State 12_ToggleVerticalDirection
+- State 1_SetUp
+- State 2_CheckXPosition
+- State 3_SetWallSide
+- State 4_CheckYPosition
+- State 5_CheckCenterCell
+- State 6_CheckLeftCell
+- State 7_CheckRightCell
+- State 8_MoveVertically
+- State 9_UpdateFrame
+- UpdateCostume
+- UpdateHorizCoordinates
+- UpdateVertCoordinates
+- WhenGreenFlagClicked
+- WhenIReceive_CheckEnemyCollision
+- WhenIReceive_DeleteSprites
+- WhenIReceive_DrawChameleons
+- WhenIReceive_MoveChameleons
+- WhenIStartAsAClone
+Creator:
+- CheckGameLevel
+- CreateAcidDrops
+- CreateChameleons
+- CreateGhosts
+- CreateMummies
+- CreateObjects
+- CreateRats
+- CreateSkeletons
+- CreateVampires
+- GetItem
+- Main_GetItem
+- WhenGreenFlagClicked
+- WhenIReceive_CreateSprites
+Frame:
+- WhenGreenFlagClicked
+- WhenIReceive_HideFrame
+- WhenIReceive_ShowFrame
+- WhenIStartAsAClone
+Ghost:
+- CheckOnScreen
+- CreateGhost
+- EvaluateBulletCollision
+- EvaluateFredCollision
+- GetBlock
+- GetCurrentDirection
+- HandleBulletCollision
+- State 1_SetUp
+- State 2_CheckPosition
+- State 3_CheckMapBoundary
+- State 4_CheckWall
+- State 5_SelectDirection
+- State 6_SetNewRandomDirection
+- State 7_Move
+- State 8_UpdateFrame
+- UpdateCoordinates
+- UpdateCostume
+- WhenGreenFlagClicked
+- WhenIReceive_CheckBulletCollision
+- WhenIReceive_CheckEnemyCollision
+- WhenIReceive_DeleteSprites
+- WhenIReceive_DrawGhosts
+- WhenIReceive_MoveGhosts
+- WhenIStartAsAClone
+Indicator:
+- CreateText
+- WhenGreenFlagClicked
+- WhenIStartAsAClone
+Main:
+- CheckBulletCollision
+- CheckEnemyCollision
+- ClearSoundFlags
+- ClimbMove
+- CreateBlock
+- CreateBottomRow
+- CreateLeftColumn
+- CreateRightColumn
+- CreateTopRow
+- DecreasePower
+- DrawMapInGameWindow
+- DrawSprites
+- GetBlock
+- GetItem
+- HideFrame
+- HideNumericalIndicators
+- Main_RunInnerGameLoop
+- Main_RunOuterGameLoop
+- MoveFrameDown
+- MoveFrameLeft
+- MoveFrameRight
+- MoveFrameUp
+- MoveFred
+- MoveSprites
+- PlayEndSequence
+- PlaySound
+- Refill
+- RunInnerGameLoop
+- RunOuterGameLoop
+- SetClimbingFrame
+- SetFredColor
+- SetPosition
+- SetRefillBasedOnLevel
+- SetTextItem
+- SetUpColorVariables
+- SetUpDirectionVariables
+- SetUpGeneralVariables
+- SetUpLevelVariables
+- SetUpNewLevel
+- SetWalkingFrame
+- ShowFrame
+- ShowNumericalIndicators
+- ShowTomb
+- StartSideJump
+- State 1_SetUp
+- State 2.1_CheckControls_InitControls
+- State 2.2_CheckControls_CheckFire
+- State 2.3_CheckControls_CheckUp
+- State 2.4_CheckControls_CheckDown
+- State 2.5_CheckControls_CheckLeft
+- State 2.6_CheckControls_CheckRight
+- State 3_UpdateState
+- State 4.1_Walk_CheckDirection
+- State 4.2_Walk_StartVerticalJump
+- State 4.3_Walk_ToggleDirection
+- State 4.4_Walk_CheckPosition
+- State 4.5_Walk_CheckWall
+- State 4.6_Walk_Standing
+- State 4.7_Walk_CheckRope
+- State 4.8_Walk_StartSideJump
+- State 4.9_Walk_Move
+- State 5.1_Climb_CheckHorizontalDirection
+- State 5.2_Climb_ToggleDirection
+- State 5.3_Climb_CheckWall
+- State 5.4_Climb_StartSideJump
+- State 5.5_Climb_CheckVerticalDirection
+- State 5.6_Climb_Hanging
+- State 5.7_Climb_CheckCeilingFloor
+- State 5.8_Climb_Move
+- State 6.1_SideJump_Move
+- State 6.2_SideJump_CheckPosition
+- State 6.3_SideJump_Hanging
+- State 6.4_SideJump_Standing
+- State 7.1_VerticalJump_UpdateStage
+- State 7.2_VerticalJump_Standing
+- State 7.3_VerticalJump_CheckPosition
+- State 7.4_VerticalJump_CheckTrapdoor
+- State 7.5_VerticalJump_Climb
+- State 7.6_VerticalJump_ExitMaze
+- State 8.1_CheckFire_CheckStatus
+- State 8.2_CheckFire_FireGun
+- State 9_ExitMaze
+- UpdateEnemyVariables
+- UpdateFredCostume
+- UpdateHorizontalCoordinates
+- UpdateVerticalCoordinates
+- UpdateWindowHorizontally
+- UpdateWindowVertically
+- WaitForNextIteration
+- WhenGreenFlagClicked
+- WhenIReceive_AddEnemyBonus
+- WhenIReceive_PlayGame
+- WhenIReceive_Synchronization
+- WhenIStartAsAClone
+Map:
+- CheckBounds
+- CheckCell
+- CheckDirection
+- CreateMaze
+- GetBlock
+- InitializeMap
+- LoadDebugMap
+- MoveToNextPosition
+- PopPosition
+- PushPosition
+- SetBlock
+- SetHatchPosition
+- SetTrapdoorPosition
+- SetUpDirectionNames
+- SetUpTheRopes
+- WhenGreenFlagClicked
+- WhenIReceive_CreateMap
+Minimap:
+- CreatePiece
+- FindCostume
+- GetBlock
+- GetCellValue
+- WhenGreenFlagClicked
+- WhenIReceive_CreateMinimap
+Mummy:
+- CheckClimbHitbox
+- CheckOnScreen
+- CheckWalkHitbox
+- EvaluateBulletCollision
+- EvaluateFredCollision
+- GetBlock
+- HandleBulletCollision
+- HandleFredCollision
+- State 1_SetUp
+- State 2_UpdateState
+- State 3.1_Walk_CheckPosition
+- State 3.2_Walk_CheckVerticalCorridor
+- State 3.3_Walk_CheckPause
+- State 3.4_Walk_CheckWall
+- State 3.5_Walk_StartFall
+- State 3.6_Walk_UpdateCoordinates
+- State 3.7_Walk_CheckFlipStatus
+- State 3.8_Walk_ToggleDirection
+- State 3.9_Walk_Disappear
+- State 4.1_Fall_CheckPosition
+- State 4.2_Fall_CheckFloor
+- State 4.3_Fall_StartBounce
+- State 4.4_Fall_Descend
+- State 5.1_Bounce_CheckPosition
+- State 5.2_Bounce_Move
+- State 5.3_Bounce_StandUp
+- UpdateCostume
+- UpdateHorizCoordinates
+- UpdateVertCoordinates
+- WhenGreenFlagClicked
+- WhenIReceive_CheckBulletCollision
+- WhenIReceive_CheckEnemyCollision
+- WhenIReceive_DeleteSprites
+- WhenIReceive_DrawMummies
+- WhenIReceive_MoveMummies
+- WhenIStartAsAClone
+Object:
+- AddScore
+- CheckOnScreen
+- GetBlock
+- GetItem
+- HandleFredCollision
+- SetUp
+- SetUpObjectVariables
+- WhenGreenFlagClicked
+- WhenIReceive_CheckObjectCollision
+- WhenIReceive_DeleteSprites
+- WhenIReceive_DrawObjects
+- WhenIStartAsAClone
+- corte
+Piece:
+- SetCostume
+- WhenGreenFlagClicked
+- WhenIReceive_DeleteMinimap
+- WhenIReceive_DrawMinimap
+- WhenIStartAsAClone
+Power:
+- WhenGreenFlagClicked
+- WhenIReceive_HidePowerIndicator
+- WhenIReceive_ShowPowerIndicator
+- WhenIStartAsAClone
+Rat:
+- CheckCellConditions
+- CheckCreatureOverlapping
+- CheckOnScreen
+- EvaluateFredCollision
+- GetBlock
+- State 1_SetUp
+- State 2_CheckPosition
+- State 3_CheckWall
+- State 4_CheckVerticalCorridor
+- State 5_ToggleDirection
+- State 6_Move
+- State 7_UpdateFrame
+- UpdateCostume
+- WhenGreenFlagClicked
+- WhenIReceive_CheckEnemyCollision
+- WhenIReceive_DeleteCreatures
+- WhenIReceive_DeleteSprites
+- WhenIReceive_DrawRats
+- WhenIReceive_MoveRats
+- WhenIStartAsAClone
+Screen:
+- CheckKey1
+- CheckKey2
+- CheckKeyEnter
+- ClearBestScore
+- CopyLetterSet
+- CreateBonusForTreasures
+- CreateInitials
+- CreateNumberOfTreasures
+- CreatePressAnyKeyMessage
+- CreateText
+- CreateTombNames
+- CreateTombScores
+- EnterRecordName
+- GetInitial
+- GetTextItem
+- HidePressAnyKeyMessage
+- InsertBestScore
+- InsertChar
+- InsertName
+- ReadKey
+- SaveInitial
+- SetInitial
+- SetInitialChar
+- SetTextItem
+- ShowHallOfFame
+- ShowPressAnyKeyMessage
+- ShowScreen
+- WhenGreenFlagClicked
+- WhenIReceive_CheckScore
+- WhenIReceive_ClearBestScore
+- WhenIReceive_ShowEndOfLevelScreen
+- WhenIReceive_ShowHallOfFame
+- WhenIReceive_ShowMainMenu
+- WhenIStartAsAClone
+Skeleton:
+- CheckOnScreen
+- EvaluateBulletCollision
+- EvaluateFredCollision
+- GetBlock
+- GetDirection
+- HandleBulletCollision
+- SelectDirection
+- State 1_SetUp
+- State 2_CheckPosition
+- State 3_FindChasingDirection
+- State 4_Move
+- UpdateCoordinates
+- UpdateCostume
+- UpdateFrame
+- WhenGreenFlagClicked
+- WhenIReceive_CheckBulletCollision
+- WhenIReceive_CheckEnemyCollision
+- WhenIReceive_DeleteSprites
+- WhenIReceive_DrawSkeletons
+- WhenIReceive_MoveSkeletons
+- WhenIStartAsAClone
+Smoke:
+- CheckOnScreen
+- SetUp
+- WhenGreenFlagClicked
+- WhenIReceive_DeleteSprites
+- WhenIReceive_DrawSmoke
+- WhenIStartAsAClone
+- whenIReceive_MoveSmoke
+Start:
+- ClearScoreVariables
+- CreateBackdrop
+- CreateGameFrame
+- CreateGameObjects
+- CreateLoadingBorder
+- CreateMain
+- CreateScoreboard
+- CreateScreen
+- CreateTracker
+- WhenGreenFlagClicked
+Text:
+- GetItem
+- GetValue
+- SetCostume
+- SetUpTextItems
+- ShowDigit
+- ShowLetter
+- ShowString
+- WhenGreenFlagClicked
+- WhenIReceive_DeleteText
+- WhenIReceive_ShowText
+- WhenIStartAsAClone
+Tracker:
+- WhenGreenFlagClicked
+- WhenIReceive_DeleteMinimap
+- WhenIReceive_DrawTracker
+- WhenIStartAsAClone
+Vampire:
+- CheckOnScreen
+- EvaluateBulletCollision
+- EvaluateFredCollision
+- GetBlock
+- GetDirection
+- HandleBulletCollision
+- SelectDirection
+- State 1_SetUp
+- State 2_CheckPosition
+- State 3_SelectRandomDirection
+- State 4_CheckMode
+- State 5.1_Slow_SelectNextMode
+- State 5.2_Slow_SetStatic
+- State 5.3_Slow_Move
+- State 5.4_Slow_SetFast
+- State 6.1_Static_SelectNextMode
+- State 6.2_Static_SetSlow
+- State 6.3_Static_SelectDirection
+- State 6.4_Static_ToggleDirection
+- State 7.1_Fast_SelectNextMode
+- State 7.2_Fast_SetSlow
+- State 7.3_Fast_MoveFirstStep
+- State 7.4_Fast_CheckPosition
+- State 7.5_Fast_SelectRandomDirection
+- State 7.6_Fast_MoveSecondStep
+- State 8_UpdateFrame
+- UpdateCoordinates
+- UpdateCostume
+- WhenGreenFlagClicked
+- WhenIReceive_CheckBulletCollision
+- WhenIReceive_CheckEnemyCollision
+- WhenIReceive_DeleteSprites
+- WhenIReceive_DrawVampires
+- WhenIReceive_MoveVampires
+- WhenIStartAsAClone
