@@ -50,9 +50,6 @@ Chameleon:
 - CheckOnScreen
 - GetBlock
 - HandleFredCollision
-- State 10_MoveHorizontally
-- State 11_ToggleHorizontalDirection
-- State 12_ToggleVerticalDirection
 - State 1_SetUp
 - State 2_CheckXPosition
 - State 3_SetWallSide
@@ -62,6 +59,9 @@ Chameleon:
 - State 7_CheckRightCell
 - State 8_MoveVertically
 - State 9_UpdateFrame
+- State 10_MoveHorizontally
+- State 11_ToggleHorizontalDirection
+- State 12_ToggleVerticalDirection
 - UpdateCostume
 - UpdateHorizCoordinates
 - UpdateVertCoordinates

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: fredpc
-parent: Retro-Fred Project
 nav_exclude: true
 ---
 

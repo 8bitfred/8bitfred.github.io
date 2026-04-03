@@ -5,6 +5,9 @@ parent: Retro-Fred Project
 nav_order: 3
 ---
 
+Retro-Fred Snapshots
+--------------------
+
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="/assets/images/snapshots/loading.png">
     <img src="/assets/images/snapshots/loading.png" width="150">
