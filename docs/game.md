@@ -184,12 +184,6 @@ centre.
 </table>
 </div>
 
-Screens
--------
-There are six screens, increasing in difficulty, followed by the
-option to return to screen 1 or redefine the maze. The number of monsters
-has to be defined with two figures, e.g. 09, etc.
-
 Screen Layout
 -------------
 
@@ -197,10 +191,73 @@ Screen Layout
   <img src="{{ '/assets/images/sprites/frame-zones.png' | relative_url }}" width="500">
 </p>
 
+Levels
+-------
+There are six screens, increasing in difficulty, followed by the
+option to return to screen 1 or redefine the maze. The number of monsters
+has to be defined with two figures, e.g. 09, etc.
 
 
+<div style="display: flex; align-items: left; gap: 10px;">
+  <a href="/assets/images/levels/level_1.png">
+    <img src="/assets/images/levels/level_1.png" width="150">
+  </a>
+  <div>
+    <a href="/assets/images/levels/level_1.png">Level 1</a><br>
+    <sub> acid drops, ghosts and rats</sub>
+  </div>
+</div>
 
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <a href="/assets/images/levels/level_2.png">
+    <img src="/assets/images/levels/level_2.png" width="150">
+  </a>
+  <div>
+    <a href="/assets/images/levels/level_2.png">Level 2</a><br>
+    <sub> acid drops, chameleons, mummies,</sub><br>
+    <sub> ghosts and rats </sub>
+  </div>
+</div>
 
+<div style="display: flex; align-items: left; gap: 10px;">
+  <a href="/assets/images/levels/level_3.png">
+    <img src="/assets/images/levels/level_3.png" width="150">
+  </a>
+  <div>
+    <a href="/assets/images/levels/level_3.png">Level 3</a><br>
+    <sub> acid drops, chameleons, mummies,</sub><br>
+    <sub> ghosts, rats and vampires </sub>
+  </div>
+</div>
 
+<div style="display: flex; align-items: left; gap: 10px;">
+  <a href="/assets/images/levels/level_4.png">
+    <img src="/assets/images/levels/level_4.png" width="150">
+  </a>
+  <div>
+    <a href="/assets/images/levels/level_4.png">Level 4</a><br>
+    <sub> acid drops, chameleons, mummies,</sub><br>
+    <sub> ghosts, rats, skeletons and vampires</sub>
+  </div>
+</div>
 
+<div style="display: flex; align-items: left; gap: 10px;">
+  <a href="/assets/images/levels/level_5.png">
+    <img src="/assets/images/levels/level_5.png" width="150">
+  </a>
+  <div>
+    <a href="/assets/images/levels/level_5.png">Level 5</a><br>
+    <sub> acid drops, chameleons, mummies,</sub><br>
+    <sub> ghosts, rats, skeletons and vampires</sub>
+  </div>
+</div>
 
+<div style="display: flex; align-items: left; gap: 10px;">
+  <a href="/assets/images/levels/level_6.png">
+    <img src="/assets/images/levels/level_6.png" width="150">
+  </a>
+  <div>
+    <a href="/assets/images/levels/level_6.png">Level 6</a><br>
+    <sub> specified number of enemies</sub>
+  </div>
+</div>
