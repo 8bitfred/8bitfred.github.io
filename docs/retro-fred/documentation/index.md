@@ -8,4 +8,5 @@ has_children: true
 has_toc: true
 ---
 
-On this page you can find the resources from the original ZX Spectrum game as well as other useful documentation.
+
+Retro-Fred project documentation, including the official book, state diagrams, sprites and audio files, Scratch scripts in PDF and SVG format, and the variables from the Scratch code.
