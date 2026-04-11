@@ -49,7 +49,7 @@ Other Ports and Remakes
   <tr>
     <td align="center">
       <a href="https://www.mobygames.com/game/45287/fred-the-remake/">
-        <img src="/assets/images/remakes/fred-the-remake_fzero.jpg" width="150">
+        <img src="/assets/images/remakes/fredthremake3.png" width="150">
       </a>
     </td>
     <td align="left">
@@ -104,6 +104,18 @@ Other Ports and Remakes
       2023<br>
       Android<br>
       <a href="https://www.taptap.io/es/app/33616840">Fred Android Remake</a> by Juan Luis Perea
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kmatveev/zx-fred-reveng/tree/main/turbofred-1">
+        <img src="/assets/images/remakes/turbofred.png" width="150">
+      </a>
+    </td>
+    <td align="left">
+      2023<br>
+      ZX Spectrum<br>
+      <a href="https://github.com/kmatveev/zx-fred-reveng/tree/main/turbofred-1">Turbo Fred</a> by kmatveev
     </td>
   </tr>
   <tr>
