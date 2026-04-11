@@ -7,6 +7,22 @@ nav_order: 6
 has_toc: true
 ---
 
+<style>
+/* Tabla de variables globales → columna 1 */
+.table-global td:nth-child(1) {
+  color: #0969da;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+/* Tabla de variables locales → columna 2 */
+.table-local td:nth-child(2) {
+  color: #0969da;
+  font-weight: bold;
+  font-family: monospace;
+}
+</style>
+
 <div style="margin-bottom:20px;">
   <strong>Contents</strong>
   <ul>
@@ -19,7 +35,7 @@ has_toc: true
 
 
 <div style="overflow-x:auto;">
-<table style="border-collapse: collapse; width: auto;">
+<table class="table-global" style="border-collapse: collapse; width: auto;">
   <tr>
     <th style="text-align:left; padding:6px;">Variable name</th>
     <th style="text-align:left; padding:6px;">Description</th>
@@ -83,7 +99,7 @@ has_toc: true
 -----
 
 <div style="overflow-x:auto;">
-<table style="border-collapse: collapse; width: auto;">
+<table class="table-local" style="border-collapse: collapse; width: auto;">
 <tr>
 <th>Object</th>
 <th>Variable name</th>
