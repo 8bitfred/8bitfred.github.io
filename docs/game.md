@@ -27,24 +27,24 @@ monsters increases and they get meaner and faster.
 Monsters
 --------
 
-![Title](https://img.shields.io/badge/Rats-blue): These run through the labyrinth, the only way to avoid them is to jump
+<span style="color: #0969da; font-weight: bold;">Rats:</span> These run through the labyrinth, the only way to avoid them is to jump
 at the right moment.
 
-![Title](https://img.shields.io/badge/Acid%20Drops-blue): From the decomposing mixtures of the Egyptian Magicians.
+<span style="color: #0969da; font-weight: bold;">Acid Drops:</span> From the decomposing mixtures of the Egyptian Magicians.
 Careful timing is needed to get past them.
 
-![Title](https://img.shields.io/badge/Ghosts-blue): Beware, they can go through walls. They change direction when shot.
+<span style="color: #0969da; font-weight: bold;">Ghosts:</span> Beware, they can go through walls. They change direction when shot.
 
-![Title](https://img.shields.io/badge/Chameleons-blue): They can be passed by climbing the rope on the opposite side, but
+<span style="color: #0969da; font-weight: bold;">Chameleons:</span> They can be passed by climbing the rope on the opposite side, but
 they can change sides too!!
 
-![Title](https://img.shields.io/badge/Mummies-blue): They fall through the vertical corridors. They can teleport when
+<span style="color: #0969da; font-weight: bold;">Mummies:</span> They fall through the vertical corridors. They can teleport when
 they stop falling or are hit by a bullet.
 
-![Title](https://img.shields.io/badge/Vampires-blue): They chase through the maze and can stop flying or even develop a
+<span style="color: #0969da; font-weight: bold;">Vampires:</span> They chase through the maze and can stop flying or even develop a
 high speed. They can be stopped by being shot.
 
-![Title](https://img.shields.io/badge/Skeletons-blue): They chase relentlessly, and can only be stopped by being shot.
+<span style="color: #0969da; font-weight: bold;">Skeletons:</span> They chase relentlessly, and can only be stopped by being shot.
 
 <div style="overflow-x:auto;">
 <table style="background-color: black; color: white;">
@@ -110,18 +110,18 @@ high speed. They can be stopped by being shot.
 Objects
 -------
 
-![Title](https://img.shields.io/badge/Power-blue): Fred's strength is maximum at 15 and reduces by one each time a
+<span style="color: #0969da; font-weight: bold;">Power:</span> Fred's strength is maximum at 15 and reduces by one each time a monster hits...: Fred's strength is maximum at 15 and reduces by one each time a
 monster hits. Two extra units are gained each time the magic elixir of
 Nefertiti is drunk and when he reaches the exit.
 
-![Title](https://img.shields.io/badge/Weapons-blue): Fred has a gun and six bullets which he can replenish en route. He
+<span style="color: #0969da; font-weight: bold;">Weapons:</span> Fred has a gun and six bullets which he can replenish en route. He
 cannot shoot whilst climbing a rope.
 
-![Title](https://img.shields.io/badge/Treasures-blue): Varying in value, they may be picked up by just walking over them,
+<span style="color: #0969da; font-weight: bold;">Treasures:</span> Varying in value, they may be picked up by just walking over them,
 with bonus points on exit.
 
-![Title](https://img.shields.io/badge/Map-blue): A map is displayed when Fred discovers one in the maze. Fred is in the
-centre.
+<span style="color: #0969da; font-weight: bold;">Map:</span> A minimap is displayed when Fred discovers one in the maze. Fred is in the
+centre. Corridors are shown in white.
 
 <div style="overflow-x:auto;">
 <table style="background-color: black; color: white;">

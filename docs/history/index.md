@@ -11,7 +11,7 @@ nav_order: 2
 
 [*Fred*](https://worldofspectrum.org/archive/software/games/fred-investronica-sa) is an action video game developed by [Carlos Granados (Charlie)](https://amstrad.es/doku.php?id=programadores:carlos_granados_charlie), [Fernando Rada](https://es.wikipedia.org/wiki/Fernando_Rada) and [Paco Menéndez](https://en.wikipedia.org/wiki/Paco_Men%C3%A9ndez) for the ZX Spectrum in 1983, and published by [Indescomp, SA](https://es.wikipedia.org/wiki/Indescomp) in Spain and by [Quicksilva, Ltd](https://en.wikipedia.org/wiki/Quicksilva) in the UK, with cover art by [David Rowe](https://www.davidrowe.net/). Versions for Commodore 64 and Amstrad CPC 464 were released in 1984.
 
-*Fred* incorporates elements—such as procedural generation maze and a single-life structure—that would later become characteristic of rogue-like games, despite differing in its real-time, platform-based gameplay.
+*Fred* incorporates elements—such as procedural generation maze and a single-life structure—that align with features later associated with rogue-like games.
 
 It is considered one of the earliest video games developed in Spain for the Sinclair ZX Spectrum, along with its contemporary *Bugaboo (The Flea)*. Although an agreement was reached with Quicksilva to market both titles in the United Kingdom in the autumn of 1983, they were released a few weeks apart: at the end of that year and the beginning of 1984, respectively. Both were major commercial successes in Spain (distributed by [Investrónica, SA](https://es.wikipedia.org/wiki/Investr%C3%B3nica)) and the UK.
 
