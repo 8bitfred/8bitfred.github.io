@@ -115,7 +115,7 @@ Other Ports and Remakes
     <td align="left">
       2023<br>
       ZX Spectrum<br>
-      <a href="https://github.com/kmatveev/zx-fred-reveng/tree/main/turbofred-1">Turbo Fred</a> by kmatveev
+      <a href="https://github.com/kmatveev/zx-fred-reveng/tree/main/turbofred-1">Turbo Fred</a> by <a href="https://habr.com/ru/articles/721386/">kmatveev</a>
     </td>
   </tr>
   <tr>
