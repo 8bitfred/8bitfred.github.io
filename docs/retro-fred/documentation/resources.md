@@ -10,9 +10,11 @@ has_toc: false
 Sprites 
 -------
 
-[ZX Spectrum sprite sheets](/assets/images/sprites/sprites_zx.zip)
+[Download ZX Spectrum sprite sheets in PNG format](/assets/images/sprites/sprites_zx.zip)
+
+[Download Scratch sprites in PNG format](/assets/images/sprites/sprites_scratch.zip)
 
 Audio
 -----
 
-[Music tracks and sound effects in WAV format](/assets/audio/audio.zip)
+[Download music tracks and sound effects in WAV format](/assets/audio/audio.zip)

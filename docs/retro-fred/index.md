@@ -16,7 +16,7 @@ has_toc: true
   2021 -- 2026
 </p>
 
-Aims to faithfully bring *Fred* to modern platforms through reverse engineering of the original Z80 code.
+Aims to faithfully bring *Fred* to modern platforms through reverse engineering of the original Zilog Z80 code.
 
 
 

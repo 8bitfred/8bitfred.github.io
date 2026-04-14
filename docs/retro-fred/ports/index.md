@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ports
+title: C++ and Scratch
 parent: Retro-Fred Project
 nav_order: 1
 has_toc: true
@@ -34,7 +34,7 @@ Conversion of Fred to Scratch.
 * [Sprites and audio](/docs/retro-fred/documentation/resources)
 * [Variables](/docs/retro-fred/documentation/variables)
 
-Early Retro-Fred Projects
+Retro-Fred's Early Projects (1993-1994)
 -------------------------
 
 <div style="overflow-x:auto;">
