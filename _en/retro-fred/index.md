@@ -6,6 +6,7 @@ has_children: true
 has_toc: true
 lang: en
 ref: retro-fred
+permalink: /en/retro-fred/
 ---
 
 

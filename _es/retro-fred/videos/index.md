@@ -5,6 +5,7 @@ parent: Proyecto Retro-Fred
 nav_order: 4
 lang: es
 ref: videos
+permalink: /es/retro-fred/videos
 ---
 
 

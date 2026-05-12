@@ -86,3 +86,13 @@
   border: none;
   background: white;
 }
+
+html[data-lang="en"] .nav-category:nth-of-type(2),
+html[data-lang="en"] .nav-category:nth-of-type(2) + .nav-list {
+  display: none !important;
+}
+
+html[data-lang="es"] .nav-category:nth-of-type(1),
+html[data-lang="es"] .nav-category:nth-of-type(1) + .nav-list {
+  display: none !important;
+}

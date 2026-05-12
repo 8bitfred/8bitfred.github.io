@@ -5,6 +5,7 @@ parent: Proyecto Retro-Fred
 nav_order: 3
 lang: es
 ref: snapshots
+permalink: /es/retro-fred/snapshots
 ---
 
 Retro-Fred Snapshots

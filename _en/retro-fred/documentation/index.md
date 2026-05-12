@@ -8,6 +8,7 @@ has_children: true
 has_toc: true
 lang: en
 ref: documentation
+permalink: /en/retro-fred/documentation
 ---
 
 

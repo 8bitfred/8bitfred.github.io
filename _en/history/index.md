@@ -4,6 +4,7 @@ title: Fred History
 nav_order: 2
 lang: en
 ref: history
+permalink: /en/history/
 ---
 
 <p align="center">

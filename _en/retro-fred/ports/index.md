@@ -6,6 +6,7 @@ nav_order: 1
 has_toc: true
 lang: en
 ref: c++andscratch
+permalink: /en/retro-fred/ports
 ---
 
 Retro-Fred in C++ (2021-2024)
@@ -30,11 +31,11 @@ Conversion of Fred to Scratch.
 * [Scratch page](https://scratch.mit.edu/projects/1053158449)
 * [Source code in GitHub](https://github.com/8bitfred/retro-fred-scratch)
 * [Releases](https://github.com/8bitfred/retro-fred-scratch/releases)
-* [Book](/en/docs/retro-fred/documentation/book)
-* [Diagrams](/en/docs/retro-fred/documentation/diagrams)
-* [Code in PDF and SVG](/en/docs/retro-fred/documentation/scratchcode)
-* [Sprites and audio](/en/docs/retro-fred/documentation/resources)
-* [Variables](/en/docs/retro-fred/documentation/scratchvariables)
+* [Book](/en/retro-fred/documentation/book)
+* [Diagrams](/en/retro-fred/documentation/diagrams)
+* [Code in PDF and SVG](/en/retro-fred/documentation/scratchcode)
+* [Sprites and audio](/en/retro-fred/documentation/resources)
+* [Variables](/en/retro-fred/documentation/scratchvariables)
 
 Retro-Fred's Early Projects (1993-1994)
 -------------------------
