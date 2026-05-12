@@ -1,0 +1,41 @@
+Listado de rutas de carpetas para el volumen Cardoso
+El número de serie del volumen es 204F-3066
+E:.
+|   about.md
+|   estructura.txt
+|   fredontheweb.md
+|   otherportsandremakes.md
+|   privacy.md
+|   thegame.md
+|   webserver.txt
+|   
++---history
+|       Crash03-Apr84-p84.pdf
+|       Home_Computing_Weekly_052-p22.pdf
+|       index.md
+|       YourComputer_1984_04-p59.pdf
+|       YourSpectrum03-May84-p70.pdf
+|       
+\---retro-fred
+    |   index.md
+    |   
+    +---documentation
+    |       book.md
+    |       book.txt
+    |       diagrams.md
+    |       index.md
+    |       resources.md
+    |       scratchcode.md
+    |       scratchvariables.md
+    |       
+    +---ports
+    |       fredhp48.md
+    |       fredpc.md
+    |       index.md
+    |       
+    +---snapshots
+    |       index.md
+    |       
+    \---videos
+            index.md
+            
