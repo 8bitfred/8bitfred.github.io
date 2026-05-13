@@ -4,19 +4,19 @@
    | where: "ref", page.ref
    | where_exp: "item", "item.lang != page.lang" %}
 
-<div class="lang-switch">
+<div id="lang-switch-template" style="display:none;">
 {% for t in translations %}
-    <a href="{{ t.url | relative_url }}"
-    title="{% if t.lang == 'en' %}English{% endif %}{% if t.lang == 'es' %}Español{% endif %}">
-
+  <a href="{{ t.url | relative_url }}"
+     title="{% if t.lang == 'en' %}English{% endif %}{% if t.lang == 'es' %}Español{% endif %}">
+    
     {% if t.lang == "en" %}
-        <img src="/assets/flags/gb.png" alt="English">
+      <img src="/assets/flags/gb.png" alt="English">
     {% endif %}
 
     {% if t.lang == "es" %}
-        <img src="/assets/flags/es.png" alt="Español">
+      <img src="/assets/flags/es.png" alt="Español">
     {% endif %}
 
-    </a>
+  </a>
 {% endfor %}
 </div>
