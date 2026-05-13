@@ -20,32 +20,26 @@ ref: game
 </div>
 
 
-The Game
+El juego
 --------
-The more tombs (mazes) Fred explores, the tougher the going. The number of
-monsters increases and they get meaner and faster.
+Cuantas más tumbas (laberintos) explore Fred, más difícil será avanzar. El número de monstruos aumentará y serán cada vez más agresivos y rápidos.
 
-Monsters
+Enemigos
 --------
 
-<span style="color: #0969da; font-weight: bold;">Rats:</span> These run through the labyrinth, the only way to avoid them is to jump
-at the right moment.
+<span style="color: #0969da; font-weight: bold;">Ratas:</span> Se desplazan por el laberinto, y la única forma de evitarlas es saltar en el momento preciso.
 
-<span style="color: #0969da; font-weight: bold;">Acid Drops:</span> From the decomposing mixtures of the Egyptian Magicians.
-Careful timing is needed to get past them.
+<span style="color: #0969da; font-weight: bold;">Gotas de ácido:</span> Resultado de las mezclas en descomposición elaboradas por los sacerdotes egipcios. Será necesario calcular bien el momento adecuado para pasar junto a ellas.
 
-<span style="color: #0969da; font-weight: bold;">Ghosts:</span> Beware, they can go through walls. They change direction when shot.
+<span style="color: #0969da; font-weight: bold;">Fantasmas:</span> Cuidado con ellos: pueden atravesar las paredes. Cambian de dirección al recibir un disparo.
 
-<span style="color: #0969da; font-weight: bold;">Chameleons:</span> They can be passed by climbing the rope on the opposite side, but
-they can change sides too!!
+<span style="color: #0969da; font-weight: bold;">Camaleones:</span> Puedes evitarlos trepando por la cuerda del lado opuesto, ¡pero ellos también pueden cambiar de lado!
 
-<span style="color: #0969da; font-weight: bold;">Mummies:</span> They fall through the vertical corridors. They can teleport when
-they stop falling or are hit by a bullet.
+<span style="color: #0969da; font-weight: bold;">Momias:</span> Caen a través de los corredores verticales. Pueden teletransportarse cuando terminan de caer o al recibir un disparo.
 
-<span style="color: #0969da; font-weight: bold;">Vampires:</span> They chase through the maze and can stop flying or even develop a
-high speed. They can be stopped by being shot.
+<span style="color: #0969da; font-weight: bold;">Vampiros:</span> Persiguen a Fred por el laberinto y pueden dejar de volar o incluso moverse a gran velocidad. Pueden detenerse disparándoles.
 
-<span style="color: #0969da; font-weight: bold;">Skeletons:</span> They chase relentlessly, and can only be stopped by being shot.
+<span style="color: #0969da; font-weight: bold;">Esqueletos:</span> Persiguen a Fred sin descanso y solo pueden detenerse con disparos.
 
 <div style="overflow-x:auto;">
 <table style="background-color: black; color: white;">
@@ -65,16 +59,16 @@ high speed. They can be stopped by being shot.
   </tr>
   <tr>
     <td align="center" style="background-color:black; color:white;">
-      Ghost
+      Fantasma
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Rat
+      Rata
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Acid Drop
+      Gota de ácido
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Vampire
+      Vampiro
     </td>
   </tr>
   <tr>
@@ -93,13 +87,13 @@ high speed. They can be stopped by being shot.
   </tr>
   <tr>
     <td align="center" style="background-color:black; color:white;">
-      Mummy
+      Momia
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Chameleon
+      Camaleón
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Skeleton
+      Esqueleto
     </td>
     <td align="center" style="background-color:black; color:white;">
       <!-- celda vacía para mantener alineación -->
@@ -108,21 +102,16 @@ high speed. They can be stopped by being shot.
 </table>
 </div>
 
-Objects
+Objetos
 -------
 
-<span style="color: #0969da; font-weight: bold;">Power:</span> Fred's strength is maximum at 15 and reduces by one each time a monster hits...: Fred's strength is maximum at 15 and reduces by one each time a
-monster hits. Two extra units are gained each time the magic elixir of
-Nefertiti is drunk and when he reaches the exit.
+<span style="color: #0969da; font-weight: bold;">Vida:</span> Fred dispone de un máximo de 15 unidades de energía, que disminuirán cuando un monstruo lo alcance. Recuperará dos unidades cada vez que beba el elixir mágico de Nefertiti y al llegar a la salida.
 
-<span style="color: #0969da; font-weight: bold;">Weapons:</span> Fred has a gun and six bullets which he can replenish en route. He
-cannot shoot whilst climbing a rope.
+<span style="color: #0969da; font-weight: bold;">Balas:</span> Cuenta con una pistola y seis balas, que podrá recuperar durante el recorrido. No puede disparar mientras trepa por una cuerda.
 
-<span style="color: #0969da; font-weight: bold;">Treasures:</span> Varying in value, they may be picked up by just walking over them,
-with bonus points on exit.
+<span style="color: #0969da; font-weight: bold;">Tesoros:</span> Su valor varía y pueden recogerse simplemente pasando sobre ellos. Al llegar a la salida se concederán puntos extra.
 
-<span style="color: #0969da; font-weight: bold;">Map:</span> A minimap is displayed when Fred discovers one in the maze. Fred is in the
-centre. Corridors are shown in white.
+<span style="color: #0969da; font-weight: bold;">Mapa:</span> Al encontrar un minimapa en el laberinto, este aparecerá en pantalla. Fred se mostrará en el centro y los corredores se representarán en blanco.
 
 <div style="overflow-x:auto;">
 <table style="background-color: black; color: white;">
@@ -142,16 +131,16 @@ centre. Corridors are shown in white.
   </tr>
   <tr>
     <td align="center" style="background-color:black; color:white;">
-      Map
+      Mapa
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Power
+      Vida
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Treasure-Bust
+      Tesoro-Busto
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Treasure-Hieroglyph
+      Tesoro-Tablilla jeroglífica
     </td>
   </tr>
   <tr>
@@ -170,33 +159,31 @@ centre. Corridors are shown in white.
   </tr>
   <tr>
     <td align="center" style="background-color:black; color:white;">
-      Weapons
+      Balas
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Treasure-Statuette
+      Tesoro-Estatuílla
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Treasure-Mask
+      Tesoro-Máscara
     </td>
     <td align="center" style="background-color:black; color:white;">
-      Treasure-Cross
+      Tesoro-Amuleto
     </td>
   </tr>
 </table>
 </div>
 
-Screen Layout
+Elementos de la pantalla
 -------------
 
 <p align="center">
   <img src="{{ '/assets/images/sprites/frame-zones.png' | relative_url }}" width="500">
 </p>
 
-Levels
+Niveles
 -------
-There are six screens, increasing in difficulty, followed by the
-option to return to screen 1 or redefine the maze. The number of monsters
-has to be defined with two figures, e.g. 09, etc.
+Existen seis pantallas de dificultad creciente. Tras completarlas, podrá regresar a la pantalla 1 o redefinir el laberinto. El número de monstruos deberá introducirse utilizando dos cifras; por ejemplo, 09.
 
 
 <div style="display: flex; align-items: left; gap: 10px;">
@@ -205,7 +192,7 @@ has to be defined with two figures, e.g. 09, etc.
   </a>
   <div>
     <a href="/assets/images/levels/level_1.png">Level 1</a><br>
-    <sub> acid drops, ghosts and rats</sub>
+    <sub> gotas de ácido, fantasmas y ratas</sub>
   </div>
 </div>
 
@@ -215,8 +202,8 @@ has to be defined with two figures, e.g. 09, etc.
   </a>
   <div>
     <a href="/assets/images/levels/level_2.png">Level 2</a><br>
-    <sub> acid drops, chameleons, mummies,</sub><br>
-    <sub> ghosts and rats </sub>
+    <sub> gotas de ácido, camaleones, momias,</sub><br>
+    <sub> fantasmas y ratas </sub>
   </div>
 </div>
 
@@ -226,8 +213,8 @@ has to be defined with two figures, e.g. 09, etc.
   </a>
   <div>
     <a href="/assets/images/levels/level_3.png">Level 3</a><br>
-    <sub> acid drops, chameleons, mummies,</sub><br>
-    <sub> ghosts, rats and vampires </sub>
+    <sub> gotas de ácido, camaleones, momias,</sub><br>
+    <sub> fantasmas, ratas y vampiros </sub>
   </div>
 </div>
 
@@ -237,8 +224,8 @@ has to be defined with two figures, e.g. 09, etc.
   </a>
   <div>
     <a href="/assets/images/levels/level_4.png">Level 4</a><br>
-    <sub> acid drops, chameleons, mummies,</sub><br>
-    <sub> ghosts, rats, skeletons and vampires</sub>
+    <sub> gotas de ácido, camaleones, momias,</sub><br>
+    <sub> fantasmas, ratas, esqueletos y vampiros</sub>
   </div>
 </div>
 
@@ -248,8 +235,8 @@ has to be defined with two figures, e.g. 09, etc.
   </a>
   <div>
     <a href="/assets/images/levels/level_5.png">Level 5</a><br>
-    <sub> acid drops, chameleons, mummies,</sub><br>
-    <sub> ghosts, rats, skeletons and vampires</sub>
+    <sub> gotas de ácido, camaleones, momias,</sub><br>
+    <sub> fantasmas, ratas, esqueletos y vampiros</sub>
   </div>
 </div>
 
@@ -259,12 +246,12 @@ has to be defined with two figures, e.g. 09, etc.
   </a>
   <div>
     <a href="/assets/images/levels/level_6.png">Level 6</a><br>
-    <sub> specified number of enemies</sub>
+    <sub> número de enemigos especificado</sub>
   </div>
 </div>
 
 
-Tape inlays
+Carátulas de casete
 -----------
 
 <div style="overflow-x:auto;">

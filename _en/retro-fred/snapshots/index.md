@@ -3,7 +3,7 @@ layout: page
 title: Snapshots
 parent: Retro-Fred Project
 nav_order: 3
-lang: en+
+lang: en
 ref: snapshots
 ---
 

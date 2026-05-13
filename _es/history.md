@@ -1,0 +1,29 @@
+---
+layout: page
+title: Historia de Fred
+nav_order: 2
+lang: es
+ref: history
+permalink: /es/history/
+---
+
+<p align="center">
+  <img src="{{ '/assets/images/MadeInSpain/InputSinclair_1986_feb.png' | relative_url }}" width="400"><br>
+  <sub>De izquierda a derecha: Cela, Granados, Menéndez y Rada. Input Sinclair, febrero de 1986.</sub>
+</p>
+
+[*Fred*](https://worldofspectrum.org/archive/software/games/fred-investronica-sa) es un videojuego de acción desarrollado por [Carlos Granados (Charlie)](https://amstrad.es/doku.php?id=programadores:carlos_granados_charlie), [Fernando Rada](https://es.wikipedia.org/wiki/Fernando_Rada) y [Paco Menéndez](https://en.wikipedia.org/wiki/Paco_Men%C3%A9ndez) para el Sinclair ZX Spectrum en 1983, publicado por [Indescomp, S.A.](https://es.wikipedia.org/wiki/Indescomp) en España y por [Quicksilva, Ltd](https://en.wikipedia.org/wiki/Quicksilva) en Reino Unido. La ilustración de la carátula fue elaborada por [David Rowe](https://www.davidrowe.net/). Durante 1984 se publicaron versiones para Commodore 64 y Amstrad CPC 464.
+
+*Fred* incorpora elementos —como la generación procedural de laberintos, la exploración, la gestión de recursos y la elevada dificultad— que anticipan características asociadas posteriormente a los juegos de tipo [*Rogue*](https://en.wikipedia.org/wiki/Rogue_(video_game)).
+
+Está considerado uno de los primeros videojuegos desarrollados en España para esta plataforma, junto con su contemporáneo [*La Pulga*](https://es.wikipedia.org/wiki/La_Pulga). Aunque se alcanzó un acuerdo con Quicksilva para comercializar ambos títulos en Reino Unido durante el otoño de 1983, los lanzamientos se produjeron con unas pocas semanas de diferencia: a finales de ese año y a comienzos de 1984, respectivamente. Ambos fueron grandes éxitos comerciales tanto en España (distribuidos por [Investrónica, S.A.](https://es.wikipedia.org/wiki/Investr%C3%B3nica)) como en Reino Unido (distribuidos por Quicksilva, Ltd).
+
+La conversión para Amstrad CPC fue escrita por el mismo equipo, incluyendo a [Camilo Cela](https://www.devuego.es/bd/fdesarrollador/camilo-cela), y fue publicada por [Amsoft](https://en.wikipedia.org/wiki/Amsoft) con el título [*Roland on the Ropes*](https://www.cpcwiki.eu/index.php/Roland_on_the_Ropes) en la primavera de 1984, formando parte de la serie de videojuegos [Roland](https://en.wikipedia.org/wiki/Roland_(game_character)). Curiosamente, [Alan Sugar](https://en.wikipedia.org/wiki/Alan_Sugar) (director ejecutivo de Amstrad) dio nombre a este personaje en honor a [Roland Perry](https://amstrad.com/about-us/) (ingeniero responsable del desarrollo del CPC 464) mientras jugaba una demo de *Fred*. La versión para Commodore 64 fue desarrollada por [Pedro Ruiz](https://www.devuego.es/bd/fdesarrollador/pedro-ruiz), miembro del equipo de programación de Indescomp.
+
+La historia de *Fred* comienza en el verano de 1983 tras una partida de Granados a la recreativa [*Pengo*](https://en.wikipedia.org/wiki/Pengo_(video_game)). En *Pengo*, el jugador controla un pingüino que debe mover o destruir bloques de hielo en un laberinto para eliminar enemigos y encontrar la salida. Al comienzo de cada nivel, el laberinto [se genera aleatoriamente](https://www.youtube.com/watch?v=6q3bNHvj92c) ante el jugador. Charlie, que acababa de terminar el instituto y estaba a punto de comenzar la carrera de Física, quedó fascinado por aquel sistema de generación de laberintos y se propuso escribir un algoritmo similar en su Spectrum. Lo completó rápidamente y tuvo la idea de utilizarlo para crear un videojuego.
+
+Después de las vacaciones, Charlie se reunió con sus amigos Fernando y Paco, y juntos establecieron las bases del juego: el objetivo sería escapar del laberinto; el protagonista, un aventurero al estilo de Indiana Jones armado con una pistola para enfrentarse a los enemigos; y la ambientación, una pirámide egipcia. El juego quedó terminado en tan solo unas pocas semanas. 
+
+*Fred* recibió críticas muy positivas por parte de la prensa especializada. Crash Magazine ([número 3, p84]({{ '/assets/magazines/Crash03-Apr84-p84.pdf' | relative_url }})) le otorgó una puntuación del 83%, destacando que *«el juego tiene grandes animaciones, especialmente las del propio Fred, y los gráficos son excelentes en general. Incluso el revólver de Fred retrocede al disparar»*. Your Computer ([número de abril de 1984]({{ '/assets/magazines/YourComputer_1984_04-p59.pdf' | relative_url }})) le concedió 4 de 5 estrellas y lo describió como un *«festín de gráficos al estilo Disney»*. Your Spectrum ([número 3, p70]({{ '/assets/magazines/YourSpectrum03-May84-p70.pdf' | relative_url }})) le otorgó un 8 sobre 10. Y obtuvo una puntuación del 100% en Home Computing Weekly ([número 52, p22]({{ '/assets/magazines/Home_Computing_Weekly_052-p22.pdf' | relative_url }})).
+
+Después de *Fred*, fundaron el estudio Made in Spain y la distribuidora [Zigurat](https://en.wikipedia.org/wiki/Zigurat_(company)). A lo largo de los años produjeron una larga lista de videojuegos para plataformas de 8 y 16 bits, incluidos varios títulos para recreativas (*arcade*).

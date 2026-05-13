@@ -19,7 +19,7 @@ permalink: /es/retro-fred/
   2021 -- 2026
 </p>
 
-Aims to faithfully bring *Fred* to modern platforms through reverse engineering of the original Zilog Z80 code.
+Su objetivo es portar fielmente *Fred* a plataformas modernas realizando ingeniería inversa del código original en Zilog Z80.
 
 
 
