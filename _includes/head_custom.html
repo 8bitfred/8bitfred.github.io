@@ -28,19 +28,3 @@ body::before {
 document.documentElement.setAttribute("data-lang", "{{ page.lang }}");
 </script>
 
-{% assign translations = site.en | concat: site.es | where: "ref", page.ref %}
-
-<div style="position:absolute; top:12px; right:20px; z-index:9999;">
-{% for t in translations %}
-  {% if t.lang != page.lang %}
-    <a href="{{ t.url | relative_url }}"
-       style="color:white; font-weight:bold; text-decoration:none;">
-      {% if t.lang == "en" %}
-        English
-      {% elsif t.lang == "es" %}
-        Español
-      {% endif %}
-    </a>
-  {% endif %}
-{% endfor %}
-</div>
