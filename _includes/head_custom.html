@@ -22,9 +22,52 @@ body::before {
 .site-header {
   margin-top: 0;
 }
+
+.site-nav .nav-category {
+  display: none;
+}
+</style>
+
+
+
+<style>
+.lang-switch {
+  position: fixed;
+  top: 0.3rem;
+  right: 4.5rem;
+  z-index: 200;
+}
+
+.lang-switch a {
+  text-decoration: none;
+  font-size: 1.4rem;
+  margin-left: 0.4rem;
+}
+
+.lang-switch img {
+  width: 20px;
+  height: auto;
+  vertical-align: middle;
+}
+
+/* móvil */
+@media (max-width: 800px) {
+  .lang-switch {
+    right: 3.2rem;
+    top: 0.3rem;
+  }
+
+  .lang-switch a {
+    font-size: 1.2rem;
+  }
+
+  .lang-switch img {
+    width: 18px;
+  }
+
+}
 </style>
 
 <script>
 document.documentElement.setAttribute("data-lang", "{{ page.lang }}");
 </script>
-
