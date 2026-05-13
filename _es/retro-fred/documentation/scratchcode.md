@@ -9,14 +9,14 @@ lang: es
 ref: scratch
 ---
 
-Individual Files
+Archivos individuales
 ----------------
 
-[Download All in PDF](/assets/pdf/ScratchCodePDF.zip)
+[Descargar todo en PDF](/assets/pdf/ScratchCodePDF.zip)
 
-[Download All in SVG](/assets/svg/ScratchCodeSVG.zip)
+[Descargar todo en SVG](/assets/svg/ScratchCodeSVG.zip)
 
-Script Viewer by Object
+Visor de scripts por objeto
 -----------------------
 
 <div style="margin-bottom: 20px;"></div>

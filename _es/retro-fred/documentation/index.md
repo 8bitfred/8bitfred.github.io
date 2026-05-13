@@ -12,4 +12,4 @@ permalink: /es/retro-fred/documentation
 ---
 
 
-Retro-Fred project documentation, including the official book, state diagrams, sprites and audio files, Scratch scripts in PDF and SVG format, and the variables from the Scratch code.
+Documentación del proyecto *Retro-Fred*, incluido el libro oficial, diagramas de estados, sprites y archivos de audio, scripts de Scratch en formato PDF y SVG, y las variables del código Scratch.

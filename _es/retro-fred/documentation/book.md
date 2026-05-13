@@ -13,44 +13,46 @@ ref: book
   <img src="{{ '/assets/images/book/book_transparent.png' | relative_url }}" width="400" alt="Portada">
 </p>
 
-A step-by-step guide to porting Fred to Scratch while preserving 100% of the original gameplay experience, with more than 750 pages, hundreds of figures, and dozens of diagrams explaining in detail how the original game works.
+<h2 id="global">Guía del programador de Scratch avanzado</h2>
 
-Code, illustrations, and diagrams in English.
+Una guía paso a paso para portar Fred a Scratch preservando al 100% la experiencia del título original, con más de 750 páginas, cientos de figuras y decenas de diagramas que explican en detalle su funcionamiento.
+
+Código, ilustraciones y diagramas en inglés.
 
 ---
 
-Making the leap from a beginner programmer to an advanced developer is not about learning more blocks, but about learning to think differently.
+Dar el salto de programador básico a desarrollador avanzado no consiste en aprender más bloques, sino en aprender a pensar de otra manera.
 
-Many Scratch users master the basics, but encounter difficulties when trying to build complex projects, organize their code, or take the next step toward more sophisticated games.
+Muchos usuarios de Scratch dominan lo esencial, pero encuentran dificultades cuando intentan construir proyectos complejos, organizar su código o dar el siguiente paso hacia videojuegos más elaborados.
 
-In *Guía del programador de Scratch avanzado*, you will find a practical and structured approach to developing these skills. Throughout the book, you will work with more advanced programming techniques, learn how to organize projects clearly, and build reusable systems that will allow you to create more robust and complete games.
+En <span style="color: #0969da; font-weight: bold;">*Guía del programador de Scratch avanzado*</span> encontrarás un enfoque práctico y estructurado para desarrollar esas habilidades. A lo largo del libro, trabajarás técnicas de programación más avanzadas, aprenderás a organizar proyectos de forma clara y construirás sistemas reutilizables que te permitirán crear videojuegos más sólidos y completos.
 
-The journey does not stop at theory. The book carefully dissects one of the pioneering ZX Spectrum video games step by step, showing how to translate its ideas and mechanics into the Scratch environment. This analysis connects modern practice with the origins of game programming, also incorporating a review of the historical context in which these developments emerged in the early 1980s.
+El recorrido no se queda en la teoría. El libro disecciona paso a paso uno de los videojuegos pioneros del ZX Spectrum, mostrando cómo trasladar sus ideas y mecánicas al entorno de Scratch. Este análisis conecta la práctica actual con los orígenes de la programación de videojuegos, incorporando también una revisión del contexto histórico en el que surgieron estos desarrollos a comienzos de los años 80.
 
-This book is aimed at Scratch programmers with prior experience who want to progress to an intermediate–advanced level, as well as those interested in retro computing who wish to understand how many of the concepts we still use today were originally developed.
+Este libro está dirigido a programadores de Scratch con experiencia previa que quieren avanzar hacia un nivel intermedio-avanzado, así como a quienes sienten interés por la retroinformática y desean entender cómo nacieron muchos de los conceptos que todavía utilizamos hoy.
 
-If you want to stop improvising and start building your projects with a solid methodology, this book offers a clear step-by-step path.
+Si quieres dejar de improvisar y empezar a construir tus proyectos con método, este libro te ofrece el camino paso a paso.
 
 <a href="{{ '/assets/pdf/TableOfContents.pdf' | relative_url }}">
-  Table of Contents
+  Índice de contenido
 </a>
 
 <a href="{{ '/assets/pdf/Sample_1.pdf' | relative_url }}">
-  Sample 1
+  Muestra 1
 </a>
 
 <a href="{{ '/assets/pdf/Sample_2.pdf' | relative_url }}">
-  Sample 2
+  Muestra 2
 </a>
 
 <a href="{{ '/assets/pdf/Sample_3.pdf' | relative_url }}">
-  Sample 3
+  Muestra 3
 </a>
 
 <a href="{{ '/assets/pdf/Sample_4.pdf' | relative_url }}">
-  Sample 4
+  Muestra 4
 </a>
 
 <a href="{{ '/assets/pdf/Sample_5.pdf' | relative_url }}">
-  Sample 5
+  Muestra 5
 </a>

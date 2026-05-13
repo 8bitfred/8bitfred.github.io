@@ -9,35 +9,34 @@ ref: c++andscratch
 permalink: /es/retro-fred/ports
 ---
 
-Retro-Fred in C++ (2021-2024)
+Retro-Fred en C++ (2021-2024)
 -----------------------------
-<sub>by Miguel Catalina</sub>
+<sub>por Miguel Catalina</sub>
 
-A conversion of Fred to C++ using SDL. It runs on Linux, Windows,
-MacOS, iOS and Android.
+Una conversión de Fred en C++ utilizando SDL. Funciona en Linux, Windows, MacOS, iOS y Android.
 
-* [Source code in GitHub](https://github.com/8bitfred/retro-fred)
+* [Código fuente en GitHub](https://github.com/8bitfred/retro-fred)
 * [Releases](https://github.com/8bitfred/retro-fred/releases)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.eightbitfred.retro_fred&hl=en)
 * [App Store](https://apps.apple.com/us/app/retro-fred/id6738402036)
 
 
-Retro-Fred in Scratch (2021-2024)
+Retro-Fred en Scratch (2021-2024)
 ---------------------------------
-<sub>by Alfredo Catalina</sub>
+<sub>por Alfredo Catalina</sub>
 
-Conversion of Fred to Scratch.
+Conversion de Fred para Scratch.
 
-* [Scratch page](https://scratch.mit.edu/projects/1053158449)
-* [Source code in GitHub](https://github.com/8bitfred/retro-fred-scratch)
+* [Página de Scratch](https://scratch.mit.edu/projects/1053158449)
+* [Código fuente en GitHub](https://github.com/8bitfred/retro-fred-scratch)
 * [Releases](https://github.com/8bitfred/retro-fred-scratch/releases)
-* [Book](/en/docs/retro-fred/documentation/book)
-* [Diagrams](/en/docs/retro-fred/documentation/diagrams)
-* [Code in PDF and SVG](/en/docs/retro-fred/documentation/scratchcode)
-* [Sprites and audio](/en/docs/retro-fred/documentation/resources)
+* [Libro](/en/docs/retro-fred/documentation/book)
+* [Diagramas](/en/docs/retro-fred/documentation/diagrams)
+* [Código en PDF y SVG](/en/docs/retro-fred/documentation/scratchcode)
+* [Sprites y audio](/en/docs/retro-fred/documentation/resources)
 * [Variables](/en/docs/retro-fred/documentation/scratchvariables)
 
-Retro-Fred's Early Projects (1993-1994)
+Proyectos iniciales de Retro-Fred (1993-1994)
 -------------------------
 
 <div style="overflow-x:auto;">
@@ -52,7 +51,7 @@ Retro-Fred's Early Projects (1993-1994)
         <td align="left">
           1993<br>
           MSDOS<br>
-          <a href="fredpc">Snapshots</a>
+          <a href="fredpc">Capturas</a>
         </td>
       </tr>
       <tr>
@@ -64,7 +63,7 @@ Retro-Fred's Early Projects (1993-1994)
         <td align="left">
           1994<br>
           HP48<br>
-          <a href="fredhp48">Snapshots</a>
+          <a href="fredhp48">Capturas</a>
         </td>
       </tr>
     </table>

@@ -12,11 +12,11 @@ ref: resources
 Sprites 
 -------
 
-[Download ZX Spectrum sprite sheets in PNG format](/assets/images/sprites/sprites_zx.zip)
+[Descarga de sprite sheets de ZX Spectrum en formato PNG](/assets/images/sprites/sprites_zx.zip)
 
-[Download Scratch sprites in PNG format](/assets/images/sprites/sprites_scratch.zip)
+[Descarga de sprites de Scratch sprites en formato PNG](/assets/images/sprites/sprites_scratch.zip)
 
 Audio
 -----
 
-[Download music tracks and sound effects in WAV format](/assets/audio/audio.zip)
+[Descarga de las pistas de música y los efectos sonoros en formato WAV](/assets/audio/audio.zip)

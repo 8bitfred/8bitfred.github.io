@@ -6,7 +6,7 @@ lang: es
 ref: portsandremakes
 ---
 
-Other Ports and Remakes
+Otros ports y remakes
 -----------------------
 
 <div style="overflow-x:auto;">
@@ -20,7 +20,7 @@ Other Ports and Remakes
     <td align="left">
       1985<br>
       Texas Instruments TI-99/4A<br>
-      <a href="https://www.tigameshelf.net/asm.htm">Freddy</a> by Arnd Russmann (Saurussoft)
+      <a href="https://www.tigameshelf.net/asm.htm">Freddy</a> por Arnd Russmann (Saurussoft)
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ Other Ports and Remakes
     <td align="left">
       1997<br>
       Windows<br>
-      <a href="https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en">Fred Remake</a> by Sarasoft
+      <a href="https://computeremuzone.com/ficha/100/fred-remake-sarasoft&l=en">Fred Remake</a> por Sarasoft
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Other Ports and Remakes
     <td align="left">
       2002<br>
       Windows<br>
-      <a href="https://www.classic-retro-games.com/games/platform/fred-128">Fred PC</a> by PeeJay
+      <a href="https://www.classic-retro-games.com/games/platform/fred-128">Fred PC</a> por PeeJay
     </td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ Other Ports and Remakes
     <td align="left">
       2002<br>
       Windows<br>
-      <a href="https://www.mobygames.com/game/45287/fred-the-remake/">Fred: The Remake</a> by <a href="http://www.fzero.co.uk/">FZero Software</a>
+      <a href="https://www.mobygames.com/game/45287/fred-the-remake/">Fred: The Remake</a> por <a href="http://www.fzero.co.uk/">FZero Software</a>
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ Other Ports and Remakes
     <td align="left">
       2018<br>
       JS/HTML5<br>
-      <a href="https://uprk.cz/">Uprk.cz</a> by Lubomír "Bob" Březina
+      <a href="https://uprk.cz/">Uprk.cz</a> por Lubomír "Bob" Březina
     </td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ Other Ports and Remakes
     <td align="left">
       2018<br>
       Python<br>
-      <a href="https://www.pygame.org/project/3494/">Roland On The Ropes - Remake</a> by Fernando Paniagua
+      <a href="https://www.pygame.org/project/3494/">Roland On The Ropes - Remake</a> por Fernando Paniagua
     </td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@ Other Ports and Remakes
     <td align="left">
       2020<br>
       Windows<br>
-      <a href="https://store.steampowered.com/app/1270280/Pharao_Reloaded/">Pharao Reloaded</a> by Nethelpers Games
+      <a href="https://store.steampowered.com/app/1270280/Pharao_Reloaded/">Pharao Reloaded</a> por Nethelpers Games
     </td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ Other Ports and Remakes
     <td align="left">
       2023<br>
       Android<br>
-      <a href="https://www.taptap.io/es/app/33616840">Fred Android Remake</a> by Juan Luis Perea
+      <a href="https://www.taptap.io/es/app/33616840">Fred Android Remake</a> por Juan Luis Perea
     </td>
   </tr>
   <tr>
@@ -116,7 +116,7 @@ Other Ports and Remakes
     <td align="left">
       2023<br>
       ZX Spectrum<br>
-      <a href="https://github.com/kmatveev/zx-fred-reveng/tree/main/turbofred-1">Turbo Fred</a> by <a href="https://habr.com/ru/articles/721386/">kmatveev</a>
+      <a href="https://github.com/kmatveev/zx-fred-reveng/tree/main/turbofred-1">Turbo Fred</a> por <a href="https://habr.com/ru/articles/721386/">kmatveev</a>
     </td>
   </tr>
   <tr>
@@ -128,7 +128,7 @@ Other Ports and Remakes
     <td align="left">
       2024<br>
       Commodore 64<br>
-      <a href="https://csdb.dk/release/index.php?id=241469">Kazik in the Underworld of Tema +3D</a> by Laxity, Onslaught
+      <a href="https://csdb.dk/release/index.php?id=241469">Kazik in the Underworld of Tema +3D</a> por Laxity, Onslaught
     </td>
   </tr>
   <tr>
@@ -140,7 +140,7 @@ Other Ports and Remakes
     <td align="left">
       2025<br>
       Windows<br>
-      <a href="https://lvideo4867.itch.io/fred">Fred</a> by Langford Productions
+      <a href="https://lvideo4867.itch.io/fred">Fred</a> por Langford Productions
     </td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ Other Ports and Remakes
     <td align="left">
       2026<br>
       ZX Spectrum<br>
-      <a href="https://planetasinclair.blogspot.com/2026/03/fred-deluxe.html">Fred Deluxe</a> by Planeta Sinclair
+      <a href="https://planetasinclair.blogspot.com/2026/03/fred-deluxe.html">Fred Deluxe</a> por Planeta Sinclair
     </td>
   </tr>
 </table>

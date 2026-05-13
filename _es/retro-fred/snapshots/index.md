@@ -23,7 +23,7 @@ Capturas de Retro-Fred
   <a href="/assets/images/snapshots/hall-of-fame.png">
     <img src="/assets/images/snapshots/hall-of-fame.png" width="150">
   </a>
-  <a href="/assets/images/snapshots/hall-of-fame.png">Galería de la fama</a>
+  <a href="/assets/images/snapshots/hall-of-fame.png">Salón de la fama</a>
 </div>
 
 

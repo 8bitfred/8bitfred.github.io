@@ -7,7 +7,7 @@ ref: hp48
 ---
 
 
-HP48 Calculator Port
+Port para la calculadora HP48
 --------------------
 
 ![Screenshot](/assets/images/FredHP48/Captura_01.png)

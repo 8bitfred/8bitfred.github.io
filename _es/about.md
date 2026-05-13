@@ -6,12 +6,10 @@ lang: es
 ref: about
 ---
 
-8bitfred.com and Retro-Fred created by Alfredo Catalina and Miguel Catalina, 2024.
+8bitfred.com and *Retro-Fred* han sido creados por Alfredo Catalina y Miguel Catalina, 2024.
 
-Please contact [Miguel](mailto:miguel@8bitfred.com) or
-[Alfredo](mailto:alfredo@8bitfred.com) for any questions on 8bitfred.com and
-Retro-Fred.
+Por favor, contacta a [Miguel](mailto:miguel@8bitfred.com) o
+[Alfredo](mailto:alfredo@8bitfred.com) para preguntas sobre 8bitfred.com y
+*Retro-Fred*.
 
-This site uses [Just the
-Docs](https://github.com/just-the-docs/just-the-docs), a theme for
-[Jekyll](https://jekyllrb.com/)
+Este sitio usa [Just the Docs](https://github.com/just-the-docs/just-the-docs), un tema para [Jekyll](https://jekyllrb.com/)

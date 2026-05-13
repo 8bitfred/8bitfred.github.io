@@ -7,7 +7,7 @@ ref: fredpc
 ---
 
 
-MSDOS Port
+Port para MSDOS
 --------------------
 
 ![Screenshot](/assets/images/FredPC/Captura_01.jpg)

@@ -26,21 +26,21 @@ ref: variables
 </style>
 
 <div style="margin-bottom:20px;">
-  <strong>Contents</strong>
+  <strong>Contenido</strong>
   <ul>
-    <li><a href="#global">Global</a></li>
-    <li><a href="#local">Local</a></li>
+    <li><a href="#global">Globales</a></li>
+    <li><a href="#local">Locales</a></li>
   </ul>
 </div>
 
-<h2 id="global">Global</h2>
+<h2 id="global">Globales</h2>
 
 
 <div style="overflow-x:auto;">
 <table class="table-global" style="border-collapse: collapse; width: auto;">
   <tr>
-    <th style="text-align:left; padding:6px;">Variable name</th>
-    <th style="text-align:left; padding:6px;">Description</th>
+    <th style="text-align:left; padding:6px;">Nombre de la varible</th>
+    <th style="text-align:left; padding:6px;">Descripción</th>
   </tr>
 
   <tr><td>gBlockType</td><td>Block type: empty, stone, stone1, stone2, stone3, rope start, rope main, rope end, sky, sand, trapdoor.</td></tr>
@@ -97,15 +97,15 @@ ref: variables
 </div>
 
 
-<h2 id="local">Local</h2>
+<h2 id="local">Locales</h2>
 -----
 
 <div style="overflow-x:auto;">
 <table class="table-local" style="border-collapse: collapse; width: auto;">
 <tr>
-<th>Object</th>
-<th>Variable name</th>
-<th>Description</th>
+<th>Objeto</th>
+<th>Nombre de la variable</th>
+<th>Descripción</th>
 </tr>
 
 <tr><td>Acid Drop</td><td>sBlk</td><td>Block type name: empty, stone, rope start, rope main, rope end, sky, sand, trapdoor.</td></tr>

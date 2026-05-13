@@ -9,11 +9,11 @@ lang: es
 ref: diagrams
 ---
 
-State diagrams
+Diagramas de estados
 --------------
 
 <a href="/assets/images/state/state%20diagrams.zip" download>
-  Download All (PDF and SVG)
+  Descargar todo (PDF y SVG)
 </a>
 
 <style>
@@ -42,8 +42,8 @@ State diagrams
 <div class="table-container">
 <table class="compact-table">
   <tr>
-    <th>Object</th>
-    <th>Diagrams</th>
+    <th>Objeto</th>
+    <th>Diagramas</th>
   </tr>
   <tr>
     <td>Fred</td>

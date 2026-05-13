@@ -1,0 +1,7 @@
+<a href="{% if page.lang == 'es' %}/es/{% else %}/en/{% endif %}" class="site-title lh-tight">
+  {% if site.logo %}
+    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="site-logo">
+  {% else %}
+    {{ site.title }}
+  {% endif %}
+</a>
