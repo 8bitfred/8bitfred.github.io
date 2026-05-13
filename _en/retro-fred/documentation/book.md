@@ -13,7 +13,9 @@ ref: book
   <img src="{{ '/assets/images/book/book_transparent.png' | relative_url }}" width="400" alt="Portada">
 </p>
 
-A step-by-step guide to porting Fred to Scratch while preserving 100% of the original gameplay experience, with hundreds of figures and diagrams explaining in detail how the original game works.
+A step-by-step guide to porting Fred to Scratch while preserving 100% of the original gameplay experience, with more than 750 pages, hundreds of figures, and dozens of diagrams explaining in detail how the original game works.
+
+Code, illustrations, and diagrams in English.
 
 ---
 
