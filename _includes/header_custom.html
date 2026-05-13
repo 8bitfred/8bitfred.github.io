@@ -1,8 +1,7 @@
 {% assign translations = site.pages
    | concat: site.en
    | concat: site.es
-   | where: "ref", page.ref
-   | where_exp: "item", "item.lang != page.lang" %}
+   | where: "ref", page.ref %}
 
 <div id="lang-switch-template" style="display:none;">
 {% for t in translations %}
@@ -10,13 +9,18 @@
      title="{% if t.lang == 'en' %}English{% endif %}{% if t.lang == 'es' %}Español{% endif %}">
     
     {% if t.lang == "en" %}
-      <img src="/assets/flags/gb.png" alt="English">
+      <img src="/assets/flags/gb.png"
+           alt="English"
+           style="width:28px; height:auto; opacity:{% if page.lang == 'en' %}1{% else %}0.55{% endif %};">
     {% endif %}
 
     {% if t.lang == "es" %}
-      <img src="/assets/flags/es.png" alt="Español">
+      <img src="/assets/flags/es.png"
+           alt="Español"
+           style="width:28px; height:auto; opacity:{% if page.lang == 'es' %}1{% else %}0.55{% endif %};">
     {% endif %}
 
   </a>
 {% endfor %}
 </div>
+
