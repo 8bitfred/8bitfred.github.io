@@ -17,6 +17,8 @@ ref: book
 
 A step-by-step guide to porting Fred to Scratch while preserving 100% of the original gameplay experience, with more than 750 pages, hundreds of figures, and dozens of diagrams explaining in detail its mechanics.
 
+In addition, it recounts the history of the game’s development and commercial release, reviews the coverage published in specialized magazines, and analyzes the different remakes released over the years, drawing on more than 160 references from magazines, books, blogs, and podcasts.
+
 Code, illustrations, and diagrams in English.
 
 ---

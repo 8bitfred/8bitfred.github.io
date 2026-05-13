@@ -47,7 +47,7 @@ Capturas de Retro-Fred
   <a href="/assets/images/snapshots/Retro-Fred_Snapshot_Level1_red.jpg">
     <img src="/assets/images/snapshots/Retro-Fred_Snapshot_Level1_red.jpg" width="150">
   </a>
-  <a href="/assets/images/snapshots/Retro-Fred_Snapshot_Level1_red.jpg">Vista a tamaño completo 1</a>
+  <a href="/assets/images/snapshots/Retro-Fred_Snapshot_Level1_red.jpg">Vista de pantalla completa 1</a>
 </div>
 
 
@@ -55,7 +55,7 @@ Capturas de Retro-Fred
   <a href="/assets/images/snapshots/Retro-Fred_Snapshot_Level4_red.jpg">
     <img src="/assets/images/snapshots/Retro-Fred_Snapshot_Level4_red.jpg" width="150">
   </a>
-  <a href="/assets/images/snapshots/Retro-Fred_Snapshot_Level4_red.jpg">Vista a tamaño completo 2</a>
+  <a href="/assets/images/snapshots/Retro-Fred_Snapshot_Level4_red.jpg">Vista de pantalla completa 2</a>
 </div>
 
 

@@ -17,6 +17,8 @@ ref: book
 
 Una guía paso a paso para portar Fred a Scratch preservando al 100% la experiencia del título original, con más de 750 páginas, cientos de figuras y decenas de diagramas que explican en detalle su funcionamiento.
 
+Además, narra la historia de su desarrollo y comercialización, repasa las críticas aparecidas en las revistas especializadas y analiza los distintos remakes publicados a lo largo de los años, apoyándose en más de 160 referencias procedentes de revistas, libros, blogs y podcasts.
+
 Código, ilustraciones y diagramas en inglés.
 
 ---

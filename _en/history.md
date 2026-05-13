@@ -8,8 +8,8 @@ permalink: /en/history/
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/MadeInSpain/InputSinclair_1986_feb.png' | relative_url }}" width="400"><br>
-  <sub>From left to right: Cela, Granados, Menéndez and Rada. Input Sinclair, February 1986.</sub>
+  <img src="{{ '/assets/images/MadeInSpain/Polaroid.jpg' | relative_url }}" width="400"><br>
+  <sub>From left to right: Cela, Granados, Menéndez and Rada. Input Sinclair, Madrid (Spain), February 1986.</sub>
 </p>
 
 [*Fred*](https://worldofspectrum.org/archive/software/games/fred-investronica-sa) is an action video game developed by [Carlos Granados (Charlie)](https://amstrad.es/doku.php?id=programadores:carlos_granados_charlie), [Fernando Rada](https://es.wikipedia.org/wiki/Fernando_Rada) and [Paco Menéndez](https://en.wikipedia.org/wiki/Paco_Men%C3%A9ndez) for the Sinclair ZX Spectrum in 1983, and published by [Indescomp, SA](https://es.wikipedia.org/wiki/Indescomp) in Spain and by [Quicksilva, Ltd](https://en.wikipedia.org/wiki/Quicksilva) in the UK, with cover art by [David Rowe](https://www.davidrowe.net/). Versions for Commodore 64 and Amstrad CPC 464 were released throughout 1984.

@@ -289,7 +289,6 @@ Object:
 - WhenIReceive_DeleteSprites
 - WhenIReceive_DrawObjects
 - WhenIStartAsAClone
-- corte
 Piece:
 - SetCostume
 - WhenGreenFlagClicked
