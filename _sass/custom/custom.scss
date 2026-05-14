@@ -101,3 +101,28 @@ p:not([align="center"]) {
   text-align: justify;
   hyphens: auto;
 }
+
+/* ===== LOGO HEADER ===== */
+
+.site-title {
+  display: flex;
+  align-items: center;
+}
+
+.site-logo {
+  height: 36px !important;
+  width: auto !important;
+  max-height: 36px !important;
+  display: block;
+}
+
+/* ===== MÓVIL ===== */
+
+@media (max-width: 50rem) {
+
+  .site-logo {
+    height: 26px !important;
+    max-height: 26px !important;
+  }
+
+}
