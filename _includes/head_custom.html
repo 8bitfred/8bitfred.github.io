@@ -7,9 +7,20 @@
   font-weight: bold;
 }
 
-/* Estilo visual del banner */
-body::before {
+/* Banner inglés */
+html[data-lang="en"] body::before {
   content: "Retro-Fred Project";
+  display: block;
+  background: linear-gradient(90deg, #ff6600, #ff9900);
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+}
+
+/* Banner español */
+html[data-lang="es"] body::before {
+  content: "Proyecto Retro-Fred";
   display: block;
   background: linear-gradient(90deg, #ff6600, #ff9900);
   color: white;

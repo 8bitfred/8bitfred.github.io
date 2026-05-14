@@ -10,7 +10,7 @@ ref: home
 </p>
 
 *Fred* is one of the first video games ever developed in Spain for the ZX Spectrum. Here you can
-learn about its [history]({{ '/en/history/' | relative_url }}) and [gameplay]({{ '/en/thegame/' | relative_url }}), or play *Retro-Fred*, a multiplatform [version](/en/retro-fred/ports/) of the original game.
+learn about its [history]({{ '/en/history/' | relative_url }}) and [gameplay]({{ '/en/thegame/' | relative_url }}), or play *Retro-Fred*, a multiplatform [version]({{ '/en/retro-fred/ports/' | relative_url }}) of the original game.
 
 A [book](/en/retro-fred/documentation/book) about *Retro-Fred* is also available, with step-by-step instructions for developing the game. Enjoy!
 
