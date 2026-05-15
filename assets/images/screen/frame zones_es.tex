@@ -1,0 +1,122 @@
+% !TEX root = frame zones_es.tex
+% !TEX program = context
+% Visual Studio Code - Latex Workshop declaration header
+
+\setupwhitespace[medium]
+\setuppagenumbering[location=]
+
+\setupbackend[
+  format=PDF,
+  background=transparent
+]
+
+% Fit paper size to graphic extent
+\startTEXpage[offset=0pt]
+
+% Metafun font initialization
+\startMPinitializations
+defaultfont := "file:texgyreadventor-regular*default" ;
+defaultscale := 0.7pt
+\stopMPinitializations
+
+\startuseMPgraphic{sprite}
+numeric u;
+color c;
+c:=white;
+
+u:=1.000mm; linecap:=butt; linejoin:=mitered; path pp; picture pic; labeloffset:=0;
+pp:=(72.22u,91.00u)--(132.32u,91.00u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+pp:=(72.22u,91.00u)--(75.02u,90.30u)--(75.02u,91.70u)--(72.22u,91.00u);
+fill pp--cycle withcolor c;
+pp:=(72.22u,91.00u)--(75.02u,90.30u)--(75.02u,91.70u)--(72.22u,91.00u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+pp:=(132.32u,91.00u)--(129.52u,91.70u)--(129.52u,90.30u)--(132.32u,91.00u);
+fill pp--cycle withcolor c;
+pp:=(132.32u,91.00u)--(129.52u,91.70u)--(129.52u,90.30u)--(132.32u,91.00u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+pp:=(69.85u,20.30u)--(149.98u,20.30u)--(149.98u,80.39u)--(69.85u,80.39u);
+% Black frame
+%draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+textX:=87.51u+4u; textY:=96.31u-2u; pic:=thelabel.urt(btex {Ventana de juego} etex scaled 1.00,(0,0)); draw pic shifted (textX, textY) withcolor c;
+pp:=(135.19u,91.00u)--(149.50u,91.00u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+pp:=(135.19u,91.00u)--(137.99u,90.30u)--(137.99u,91.70u)--(135.19u,91.00u);
+fill pp--cycle withcolor c;
+pp:=(135.19u,91.00u)--(137.99u,90.30u)--(137.99u,91.70u)--(135.19u,91.00u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+pp:=(149.50u,91.00u)--(146.70u,91.70u)--(146.70u,90.30u)--(149.50u,91.00u);
+fill pp--cycle withcolor c;
+pp:=(149.50u,91.00u)--(146.70u,91.70u)--(146.70u,90.30u)--(149.50u,91.00u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+textX:=131.68u+2u; textY:=96.23u-2u; pic:=thelabel.urt(btex {Marcador} etex scaled 1.00,(0,0)); draw pic shifted (textX, textY) withcolor c;
+pp:=(71.70u,93.30u)--(71.70u,83.30u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+pp:=(132.60u,93.30u)--(132.60u,83.30u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+pp:=(134.90u,93.30u)--(134.90u,83.30u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.00u,93.30u)--(150.00u,83.30u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+textX:=170.00u; textY:=59.00u; pic:=thelabel.urt(btex {Nivel del mapa} etex scaled 1.00,(0,0)); draw pic shifted (textX, textY) withcolor c;
+textX:=170.00u; textY:=66.00u; pic:=thelabel.urt(btex {Nivel de juego} etex scaled 1.00,(0,0)); draw pic shifted (textX, textY) withcolor c;
+textX:=170.00u; textY:=73.00u; pic:=thelabel.urt(btex {Balas} etex scaled 1.00,(0,0)); draw pic shifted (textX, textY) withcolor c;
+textX:=170.00u; textY:=51.00u; pic:=thelabel.urt(btex {Minimapa} etex scaled 1.00,(0,0)); draw pic shifted (textX, textY) withcolor c;
+textX:=170.00u; textY:=44.00u; pic:=thelabel.urt(btex {Vida} etex scaled 1.00,(0,0)); draw pic shifted (textX, textY) withcolor c;
+textX:=170.00u; textY:=37.00u; pic:=thelabel.urt(btex {Puntuación} etex scaled 1.00,(0,0)); draw pic shifted (textX, textY) withcolor c;
+textX:=170.00u; textY:=30.00u; pic:=thelabel.urt(btex {Máxima} etex scaled 1.00,(0,0)); draw pic shifted (textX, textY) withcolor c;
+pp:=(150.24u,45.01u)..controls(154.92u,45.01u)and(161.55u,45.01u)..(169.62u,45.01u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.24u,45.01u)--(153.04u,44.31u)--(153.04u,45.71u)--(150.24u,45.01u);
+fill pp--cycle withcolor c;
+pp:=(150.24u,45.01u)--(153.04u,44.31u)--(153.04u,45.71u)--(150.24u,45.01u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.37u,35.32u)..controls(156.84u,35.32u)and(163.22u,36.17u)..(168.98u,38.16u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+
+pp:=(150.37u,35.32u)--(153.18u,34.69u)--(153.15u,36.09u)--(150.37u,35.32u);
+fill pp--cycle withcolor c;
+pp:=(150.37u,35.32u)--(153.18u,34.69u)--(153.15u,36.09u)--(150.37u,35.32u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.37u,27.43u)..controls(156.59u,27.72u)and(163.19u,30.33u)..(168.98u,31.70u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.37u,27.43u)--(153.23u,27.05u)--(153.07u,28.44u)--(150.37u,27.43u);
+fill pp--cycle withcolor c;
+pp:=(150.37u,27.43u)--(153.23u,27.05u)--(153.07u,28.44u)--(150.37u,27.43u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.24u,76.42u)..controls(156.54u,76.42u)and(162.96u,75.79u)..(168.98u,74.35u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.24u,76.42u)--(153.02u,75.66u)--(153.05u,77.06u)--(150.24u,76.42u);
+fill pp--cycle withcolor c;
+pp:=(150.24u,76.42u)--(153.02u,75.66u)--(153.05u,77.06u)--(150.24u,76.42u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.11u,71.25u)..controls(157.10u,71.25u)and(158.13u,64.41u)..(165.49u,62.20u)..controls(166.36u,61.91u)and(167.29u,62.07u)..(168.20u,62.07u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.11u,71.25u)--(152.72u,70.02u)--(152.99u,71.39u)--(150.11u,71.25u);
+fill pp--cycle withcolor c;
+pp:=(150.11u,71.25u)--(152.72u,70.02u)--(152.99u,71.39u)--(150.11u,71.25u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+
+pp:=(150.11u,60.13u)..controls(158.21u,60.13u)and(159.44u,55.97u)..(164.97u,53.80u)..controls(166.28u,53.29u)and(167.85u,53.40u)..(169.37u,53.41u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.11u,60.13u)--(152.84u,59.18u)--(152.96u,60.58u)--(150.11u,60.13u);
+fill pp--cycle withcolor c;
+pp:=(150.11u,60.13u)--(152.84u,59.18u)--(152.96u,60.58u)--(150.11u,60.13u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+pp:=(150.24u,73.96u)..controls(156.73u,73.96u)and(158.23u,70.14u)..(163.94u,68.66u)..controls(165.64u,68.22u)and(167.42u,68.25u)..(169.24u,68.27u);
+draw pp withpen pencircle scaled 0.30mm withcolor c;
+
+pp:=(150.24u,73.96u)--(152.93u,72.91u)--(153.10u,74.30u)--(150.24u,73.96u);
+fill pp--cycle withcolor c;
+pp:=(150.24u,73.96u)--(152.93u,72.91u)--(153.10u,74.30u)--(150.24u,73.96u);
+draw pp--cycle withpen pencircle scaled 0.30mm withcolor c;
+
+setbounds currentpicture to (67.85u,18.30u)--(197.56u,18.30u)--(197.56u,102.23u)--(67.85u,102.23u)--cycle;
+
+%draw externalfigure "aciddrops1.png" xscaled 80.13u yscaled 60.09u shifted (69.85u,20.30u) ;
+
+draw externalfigure "snapshot.png" scaled 0.311u shifted (70u,20.4u);
+
+\stopuseMPgraphic
+\useMPgraphic{sprite}
+\stopTEXpage

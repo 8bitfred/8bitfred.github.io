@@ -189,7 +189,7 @@ Screen Layout
 -------------
 
 <p align="center">
-  <img src="{{ '/assets/images/sprites/frame-zones.png' | relative_url }}" width="500">
+  <img src="{{ '/assets/images/screen/frame zones_en.png' | relative_url }}" width="500">
 </p>
 
 Levels

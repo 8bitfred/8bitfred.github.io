@@ -1,0 +1,177 @@
+system          > 
+system          > ConTeXt  ver: 2025.11.24 17:55 LMTX  fmt: 2025.11.25  int: english/english
+system          > 
+system          > 'cont-new.mkxl' loaded
+open source     > level 1, order 1, name 'C:/context/tex/texmf-context/tex/context/base/mkxl/cont-new.mkxl'
+system          > beware: some patches loaded from cont-new.mkiv
+close source    > level 1, order 1, name 'C:/context/tex/texmf-context/tex/context/base/mkxl/cont-new.mkxl'
+system          > files > jobname 'e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en', input 'e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en.tex', result 'e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > level 1, order 2, name 'e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en.tex'
+backend         > profiles > error, format 'PDF' is not supported, valid formats: 
+system          > auto \starttext ... \stoptext
+fonts           > preloading latin modern fonts (second stage)
+fonts           > 'fallback modern rm 12pt' is loaded
+metapost        > initializing instance 'metafun:1' using format 'metafun' and method 'double'
+metapost        > loading 'metafun' as 'C:/context/tex/texmf-context/metapost/context/base/mpxl/metafun.mpxl' using method 'double'
+metapost        > initializing number mode 'double'
+metapost        > trace > This is MPLIB for LuaMetaTeX, version 3.15, running in double mode.
+metapost        > trace > 
+metapost        > trace > loading metafun for lmtx, including the plain 1.004 base definitions
+metapost        > trace > 
+metapost        > use 'textext(.....)' instead of 'btex ..... etex'
+graphics        > compactors > registered: preset : default | demo | merge | tikz | yes
+graphics        > compactors > using: preset : default
+pages           > flushing realpage 1, userpage 1, subpage 1
+close source    > level 1, order 2, name 'e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en.tex'
+backend         > xmp > using file 'C:/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml'
+system          > start used files
+system          > text: frame zones_en
+system          > stop used files
+system          > start used files
+system          >    1: filename=publ-imp-default.lua filetype=lua foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+system          >    2: filename=cont-new.mkxl filetype=tex foundname=C:/context/tex/texmf-context/tex/context/base/mkxl/cont-new.mkxl fullname=C:/context/tex/texmf-context/tex/context/base/mkxl/cont-new.mkxl usedmethod=database
+system          >    3: filename=lang-exc.lua filetype=lua foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/lang-exc.lua fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/lang-exc.lua usedmethod=database
+system          >    4: filename=lang-us.lua filetype=lua foundname=C:/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua fullname=C:/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+system          >    5: filename=e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en.tex format=tex foundname=e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en.tex fullname=e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en.tex usedmethod=direct
+system          >    6: filename=context-libraries.tma filetype=lua foundname=C:/context/tex/texmf-context/tex/context/base/mkxl/context-libraries.tma fullname=C:/context/tex/texmf-context/tex/context/base/mkxl/context-libraries.tma usedmethod=database
+system          >    7: filename=lm.lfg filetype=tex foundname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/lm.lfg fullname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/lm.lfg usedmethod=database
+system          >    8: filename=lmroman10-regular filetype=otf format=otf foundname=C:/context/tex/texmf/fonts/data/gust/lm/lmroman10-regular.otf fullname=C:/context/tex/texmf/fonts/data/gust/lm/lmroman10-regular.otf usedmethod=database
+system          >    9: filename=modern-text.lfg filetype=tex foundname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/modern-text.lfg fullname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/modern-text.lfg usedmethod=database
+system          >   10: filename=latinmodern-math.otf filetype=otf format=otf foundname=C:/context/tex/texmf/fonts/data/gust/lm/latinmodern-math.otf fullname=C:/context/tex/texmf/fonts/data/gust/lm/latinmodern-math.otf usedmethod=database
+system          >   11: filename=modern-math.lfg filetype=tex foundname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/modern-math.lfg fullname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/modern-math.lfg usedmethod=database
+system          >   12: filename=common-math.lfg filetype=tex foundname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/common-math.lfg fullname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/common-math.lfg usedmethod=database
+system          >   13: filename=latinmodernmathcompanion-regular.otf filetype=otf format=otf foundname=C:/context/tex/texmf/fonts/data/cms/companion/LatinModernMathCompanion-Regular.otf fullname=C:/context/tex/texmf/fonts/data/cms/companion/LatinModernMathCompanion-Regular.otf usedmethod=database
+system          >   14: filename=metafun.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/metafun.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/metafun.mpxl usedmethod=database
+system          >   15: filename=mp-base.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-base.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-base.mpxl usedmethod=database
+system          >   16: filename=mp-tool.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-tool.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-tool.mpxl usedmethod=database
+system          >   17: filename=mp-luas.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-luas.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-luas.mpxl usedmethod=database
+system          >   18: filename=mp-mlib.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-mlib.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-mlib.mpxl usedmethod=database
+system          >   19: filename=mp-math.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-math.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-math.mpxl usedmethod=database
+system          >   20: filename=mp-cont.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-cont.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-cont.mpxl usedmethod=database
+system          >   21: filename=mp-page.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-page.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-page.mpxl usedmethod=database
+system          >   22: filename=mp-butt.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-butt.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-butt.mpxl usedmethod=database
+system          >   23: filename=mp-shap.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-shap.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-shap.mpxl usedmethod=database
+system          >   24: filename=mp-grph.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-grph.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-grph.mpxl usedmethod=database
+system          >   25: filename=mp-grid.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-grid.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-grid.mpxl usedmethod=database
+system          >   26: filename=mp-form.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-form.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-form.mpxl usedmethod=database
+system          >   27: filename=mp-figs.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-figs.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-figs.mpxl usedmethod=database
+system          >   28: filename=mp-func.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-func.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-func.mpxl usedmethod=database
+system          >   29: filename=mp-node.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-node.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-node.mpxl usedmethod=database
+system          >   30: filename=mp-apos.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-apos.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-apos.mpxl usedmethod=database
+system          >   31: filename=mp-abck.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-abck.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-abck.mpxl usedmethod=database
+system          >   32: filename=mp-asnc.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-asnc.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-asnc.mpxl usedmethod=database
+system          >   33: filename=mp-blob.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-blob.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-blob.mpxl usedmethod=database
+system          >   34: filename=mp-lmtx.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-lmtx.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-lmtx.mpxl usedmethod=database
+system          >   35: filename=mp-text.mpxl filetype=mp foundname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-text.mpxl fullname=C:/context/tex/texmf-context/metapost/context/base/mpxl/mp-text.mpxl usedmethod=database
+system          >   36: filename=snapshot.png foundname=snapshot.png fullname=e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/snapshot.png usedmethod=direct
+system          >   37: filename=compactors-preset.lua filetype=lua foundname=C:/context/tex/texmf-context/tex/context/base/mkxl/compactors-preset.lua fullname=C:/context/tex/texmf-context/tex/context/base/mkxl/compactors-preset.lua usedmethod=database
+system          >   38: filename=lpdf-pdx.xml filetype=tex foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+system          > stop used files
+system          > start commandline options
+system          >   currentrun="1"
+system          >   file-line-error="true"
+system          >   fulljobname="e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en.tex"
+system          >   input="e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en.tex"
+system          >   interaction="nonstopmode"
+system          >   kindofrun="1"
+system          >   maxnofruns="9"
+system          >   synctex="1"
+system          >   texmfbinpath="C:/context/tex/texmf-win64/bin"
+system          > stop commandline options
+system          > start commandline files
+system          >    1: e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en.tex
+system          > stop commandline files
+modules         > start used modules
+modules         > stop used modules
+system          > 
+system          > status after finishing run
+system          > 
+system          >   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+system          >           string       pool       hash     lookup       node      token     buffer      input       file       nest  parameter       save       font   language       mark     insert        mvl
+system          >   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+system          >   max    2097152  100000000    2097152    2097152  100000000   10000000  100000000     100000       2000      10000     100000     500000     100000      10000      10000        500        500
+system          >   min     150000   10000000     150000     150000   10000000    2000000    1000000      10000        500       1000      20000     100000        250        250         50         25         10
+system          >   set     500000   10000000     250000     250000   50000000   10000000   10000000     100000       2000      10000     100000     500000     100000        250        250        250         10
+system          >   stp     100000    1000000     100000     100000    5000000    1000000    1000000      10000        250       1000      10000      10000        250        250         50         25         10
+system          > 
+system          >   mem     150000    1028368     150000              10000000    2000000    1000000      10000        500       1000      20000      10000        250        250         50         25         10
+system          >   itm         16          1         16                     9          8          1         32         32         80          4         16          8          8         28         56         80
+system          >   ext          0          0          0          0       1032          0          0          0          0          0          0          0    2486384         96          0          0          0
+system          >   all    2400000    1028368    2400000          1   90001032   16000000    1000000     320000      16000      80000      80000     160000    2488384       2096       1400       1400        800
+system          > 
+system          >   ini    2149739    1009924          0      52570          0     580598                                                                                       0                                 
+system          >   ptr      53319                  7952      53302                588797          0          0          0          0          0          0          7          0          0         11          0
+system          >   top      53320                938218     262146       9810     621017        212         42          7         13         41        406        250        250         50         25         10
+system          >   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+system          > 
+system          >   current input type    : initial
+system          > 
+system          >   approximate memory    : 118870088 (113 MB)
+system          > 
+system          >   expansion depth       : min: 10000, max: 1000000, set: 10000, top: 6
+system          > 
+system          >   luabytecode registers : 1032
+system          >   luabytecode bytes     : 16528 (0 MB)
+system          >   luastate bytes now    : 50745848 (48 MB)
+system          >   luastate bytes max    : 50745848 (48 MB)
+system          > 
+system          >   file callbacks        : 162
+system          >   saved callbacks       : 76
+system          >   direct callbacks      : 5
+system          >   function callbacks    : 869
+system          >   value callbacks       : 431
+system          >   message callbacks     : 0
+system          >   bytecode callbacks    : 638
+system          > 
+system          >   mp instances          : 1
+system          >   mp estimated memory   : 0 (0 MB)
+system          >   mp file callbacks     : 15219
+system          >   mp text callbacks     : 9
+system          >   mp script callbacks   : 424
+system          >   mp log callbacks      : 20
+system          > 
+system          >   total callbacks       : 2181
+system          >   mp total callbacks    : 15672
+system          >   backend callbacks     : 0
+system          > 
+system          >   linebreak statistics  : context      calls     first    second     final  passonly   subpass
+system          > 
+system          >   linebreak statistics  : normal           2         2         0         0         0         0
+system          >   linebreak statistics  : vbox             4         4         0         0         0         0
+system          > 
+system          >   linebreak statistics  :                  6         6         0         0         0         0
+system          > 
+system          >   hyphenation state     : checked          18
+system          >   hyphenation state     : hyphenated        8
+system          >   hyphenation state     : lists            18
+system          >   hyphenation state     : nothing          10
+system          >   hyphenation state     : words            18
+system          > 
+mkxl run stats  > used config file: selfautoparent:/texmf/web2c/texmfcnf.lua
+mkxl run stats  > used cache path: C:/context/tex/texmf-cache/luametatex-cache/context/5fe67e0bfe781ce0dde776fb1556f32e
+mkxl run stats  > resource resolver: loadtime 0.008 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 38 found files, scanned paths: <none>
+mkxl run stats  > stored bytecode data: 532 modules (0.249 sec), 106 tables (0.015 sec), 638 chunks (0.264 sec)
+mkxl run stats  > traced context lua functions: maxstack: 1890, freed: 2, unreachable: 1888
+mkxl run stats  > cleaned up reserved nodes: 79 nodes, 8 lists of 445
+mkxl run stats  > node memory usage: 12 attribute, 6 attributelist, 6 fontspec, 3 glue, 135 gluespec, 1 kern, 661 mathspec, 4 penalty, 37 specification, 2 temp
+mkxl run stats  > node list callback tasks: 17 unique task lists, 11 instances (re)created, 55 calls
+mkxl run stats  > used backend: pdf
+mkxl run stats  > randomizer: resumed with value 0.35811933631591442
+mkxl run stats  > jobdata time: 0.003 seconds saving, 0.001 seconds loading
+mkxl run stats  > callbacks: file: 162, saved: 76, direct: 5, function: 869, value: 431, message: 0, bytecode: 638, late 0, total: 2181 (2181 per page)
+mkxl run stats  > loaded patterns: en::1, load time: 0.000
+mkxl run stats  > loaded fonts: 3 files: latinmodernmathcompanion-regular.otf, latinmodern-math.otf, lmroman10-regular.otf
+mkxl run stats  > font engine: otf 3.145, afm 1.541, tfm 1.000, 5 instances, 2 shared in backend, 2 common vectors, 0 common hashes, load time 0.136 seconds 
+mkxl run stats  > metapost: 0.012 seconds, loading: 0.058, execution: 0.003, n: 3, average: 0.024, instances: 1, luacalls: 15672 (file: 15219, text: 9, script: 424, log: 20), memory: 0.000 M
+mkxl run stats  > math tweaking time: 0.054 seconds, 6 math goodie tables
+mkxl run stats  > graphics processing time: 0.006 seconds including tex, 1 processed images, 2 unique asked, 0 bad names
+mkxl run stats  > font embedding time: 0.003 seconds, 1 fonts
+mkxl run stats  > result saved in file: e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_en.pdf, compresslevel 1, objectcompresslevel 3, 7 streams, 1 uncompressed, 5 compressed, 1 not compressed, threshold 40
+mkxl run stats  > positions: 4 collected, 0 deltas, 0 shared partials, 0 partial entries
+mkxl run stats  > used platform: win64, type: windows, binary subtree: texmf-win64
+mkxl run stats  > used engine: luametatex version: 2.11.08, functionality level: 20251122, format id: 725, compiler: gcc
+mkxl run stats  > tex properties: 938218 hash slots used of 2097152, 53302 control sequences, approximate memory usage: 113 MB
+mkxl run stats  > lua properties: engine: lua 5.5, format 3, used memory: 50 MB, ctx: 48 MB, max: 48 MB, symbol mask: utf (τεχ)
+mkxl run stats  > runtime: 0.587 seconds, 1 processed pages, 1 shipped pages, 1.704 pages/second

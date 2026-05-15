@@ -13,11 +13,33 @@ ref: book
   <img src="{{ '/assets/images/book/book_transparent.png' | relative_url }}" width="400" alt="Portada">
 </p>
 
+<!-- <div style="text-align:center; margin-top:40px;">
+
+<a href="/es/buy/"
+   style="
+      display:inline-block;
+      background:linear-gradient(90deg,#ff6600,#ff9900);
+      color:white;
+      padding:16px 34px;
+      border-radius:10px;
+      text-decoration:none;
+      font-size:22px;
+      font-weight:bold;
+      letter-spacing:0.5px;
+      box-shadow:0 4px 14px rgba(0,0,0,0.35);
+   ">
+
+🛒 Comprar
+
+</a>
+
+</div> -->
+
 <h2 id="global">Guía del programador de Scratch avanzado</h2>
 
-Una guía paso a paso para portar Fred a Scratch preservando al 100% la experiencia del título original, con más de 750 páginas, cientos de figuras y decenas de diagramas que explican en detalle su funcionamiento.
+Una guía paso a paso para portar Fred a Scratch preservando al 100% la experiencia del título original, con más de 750 páginas, cientos de figuras y decenas de diagramas que explican en detalle su funcionamiento. Gracias a la sintaxis de Scratch próxima al pseudocódigo, la lectura del código resulta muy sencilla.
 
-Además, narra la historia de su desarrollo y comercialización, repasa las críticas aparecidas en las revistas especializadas y analiza los distintos remakes publicados a lo largo de los años, apoyándose en más de 160 referencias procedentes de revistas, libros, blogs y podcasts.
+Uno de los tres apéndices incluidos narra la historia de su desarrollo y comercialización; también repasa las críticas aparecidas en las revistas especializadas, todo ello incorporando más de 160 referencias procedentes de revistas, libros, blogs y podcasts; finalmente, relaciona los remakes y ports publicados a lo largo de los años.
 
 Código, ilustraciones y diagramas en inglés.
 

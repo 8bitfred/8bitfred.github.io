@@ -178,7 +178,7 @@ Elementos de la pantalla
 -------------
 
 <p align="center">
-  <img src="{{ '/assets/images/sprites/frame-zones.png' | relative_url }}" width="500">
+  <img src="{{ '/assets/images/screen/frame zones_es.png' | relative_url }}" width="500">
 </p>
 
 Niveles

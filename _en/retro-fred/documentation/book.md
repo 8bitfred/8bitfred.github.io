@@ -13,11 +13,38 @@ ref: book
   <img src="{{ '/assets/images/book/book_transparent.png' | relative_url }}" width="400" alt="Portada">
 </p>
 
+
+
+<!-- <div style="text-align:center; margin-top:40px;">
+
+<a href="/en/buy/"
+   style="
+      display:inline-block;
+      background:linear-gradient(90deg,#ff6600,#ff9900);
+      color:white;
+      padding:16px 34px;
+      border-radius:10px;
+      text-decoration:none;
+      font-size:22px;
+      font-weight:bold;
+      letter-spacing:0.5px;
+      box-shadow:0 4px 14px rgba(0,0,0,0.35);
+   ">
+
+🛒 Buy
+
+</a>
+
+</div> -->
+
+
+
+
 <h2 id="global">Guía del programador de Scratch avanzado</h2>
 
-A step-by-step guide to porting Fred to Scratch while preserving 100% of the original gameplay experience, with more than 750 pages, hundreds of figures, and dozens of diagrams explaining in detail its mechanics.
+A step-by-step guide to porting Fred to Scratch while preserving 100% of the original game’s experience, with more than 750 pages, hundreds of figures, and dozens of diagrams explaining in detail how it works. Thanks to Scratch’s pseudocode-like syntax, the code is very easy to follow.
 
-In addition, it recounts the history of the game’s development and commercial release, reviews the coverage published in specialized magazines, and analyzes the different remakes released over the years, drawing on more than 160 references from magazines, books, blogs, and podcasts.
+One of the three included appendices tells the story of the game’s development and release; it also reviews the articles published in specialized magazines, incorporating more than 160 references from magazines, books, blogs, and podcasts; finally, it covers the remakes and ports released over the years.
 
 Code, illustrations, and diagrams in English.
 
