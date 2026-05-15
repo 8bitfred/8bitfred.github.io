@@ -15,9 +15,10 @@ ref: book
 
 
 
-<!-- <div style="text-align:center; margin-top:40px;">
+<div style="text-align:center; margin-top:40px;">
 
-<a href="/en/buy/"
+<!-- <a href="/en/buy/" -->
+<a href="#"
    style="
       display:inline-block;
       background:linear-gradient(90deg,#ff6600,#ff9900);
@@ -31,11 +32,11 @@ ref: book
       box-shadow:0 4px 14px rgba(0,0,0,0.35);
    ">
 
-🛒 Buy
+🛒 Buy Soon
 
 </a>
 
-</div> -->
+</div>
 
 
 
