@@ -59,9 +59,10 @@ collections:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Site logo 
+# Site logo "8bitfred.com"
 logo: "assets/images/Site Logo/8bitfred2_mini2.png"
 
+# Explorer icon "8F"
 favicon_ico: "/assets/images/Site Logo/8bitf.png"
 
 search_enabled: false
