@@ -8,7 +8,7 @@ permalink: /en/history/
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/MadeInSpain/Polaroid.jpg' | relative_url }}" width="400"><br>
+  <img src="{{ '/assets/images/MadeInSpain/Polaroid2.jpg' | relative_url }}" width="400"><br>
   <sub>From left to right: Cela, Granados, Menéndez and Rada. Input Sinclair, Madrid (Spain), February 1986.</sub>
 </p>
 

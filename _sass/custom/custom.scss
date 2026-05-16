@@ -107,12 +107,21 @@ p:not([align="center"]) {
 .site-title {
   display: flex;
   align-items: center;
+  overflow: visible !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
 }
 
+.site-header {
+  padding-left: 0 !important;
+}
+
+
 .site-logo {
-  height: 36px !important;
+  height: 52px !important;
   width: auto !important;
-  max-height: 36px !important;
+  max-height: 52px !important;
+  max-width: none !important;
   display: block;
 }
 
@@ -121,8 +130,8 @@ p:not([align="center"]) {
 @media (max-width: 50rem) {
 
   .site-logo {
-    height: 26px !important;
-    max-height: 26px !important;
+    height: 40px !important;
+    max-height: 40px !important;
   }
 
 }
