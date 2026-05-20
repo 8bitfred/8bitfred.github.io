@@ -51,15 +51,15 @@ Code, illustrations, and diagrams in English.
 
 ---
 
-Making the leap from a beginner programmer to an advanced developer is not about learning more blocks, but about learning to think differently.
+Making the leap from a novice programmer to an advanced developer is not about learning more blocks, but about learning to think differently.
 
 Many Scratch users master the basics, but encounter difficulties when trying to build complex projects, organize their code, or take the next step toward more sophisticated games.
 
-In <span style="color: #0969da; font-weight: bold;">*Guía del programador de Scratch avanzado*</span>, you will find a practical and structured approach to developing these skills. Throughout the book, you will work with more advanced programming techniques, learn how to organize projects clearly, and build reusable systems that will allow you to create more robust and complete games.
+In <span style="color: #0969da; font-weight: bold;">*Guía del programador de Scratch avanzado*</span>, you will find a practical and structured approach to developing these skills. Throughout the book, you will work with more advanced programming techniques, learn how to organize projects clearly and write reusable code that will allow you to create more robust and sophisticated games.
 
-The journey does not stop at theory. The book carefully dissects one of the pioneering ZX Spectrum video games step by step, showing how to translate its ideas and mechanics into the Scratch environment. This analysis connects modern practice with the origins of game programming, also incorporating a review of the historical context in which these developments emerged in the early 1980s.
+The book goes beyond theory. It carefully dissects one of the pioneering video games for the ZX Spectrum step by step, showing how to translate its ideas and mechanics into the Scratch environment. This analysis connects modern practice with the origins of game programming, while also exploring the historical context in which these developments emerged in the early 1980s.
 
-This book is aimed at Scratch programmers with prior experience who want to progress to an intermediate–advanced level, as well as those interested in retro computing who wish to understand how many of the concepts we still use today were originally developed.
+This book is aimed at Scratch programmers with prior experience who want to progress to an intermediate–advanced level, as well as those interested in retro computing who wish to understand how many of the concepts we still use today first emerged.
 
 If you want to stop improvising and start building your projects with a solid methodology, this book offers a clear step-by-step path.
 
