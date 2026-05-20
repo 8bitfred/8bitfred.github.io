@@ -22,7 +22,7 @@ ref: game
 
 El juego
 --------
-Cuantas más tumbas (laberintos) explore Fred, más difícil será avanzar. El número de monstruos aumentará y serán cada vez más agresivos y rápidos.
+Cuantas más tumbas (laberintos) explore Fred, más difícil será avanzar. El número de enemigos aumentará y serán cada vez más agresivos y rápidos.
 
 Enemigos
 --------
