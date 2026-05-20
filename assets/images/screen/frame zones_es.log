@@ -98,8 +98,8 @@ system          >   stp     100000    1000000     100000     100000    5000000  
 system          > 
 system          >   mem     150000    1028368     150000              10000000    2000000    1000000      10000        500       1000      20000      10000        250        250         50         25         10
 system          >   itm         16          1         16                     9          8          1         32         32         80          4         16          8          8         28         56         80
-system          >   ext          0          0          0          0       1032          0          0          0          0          0          0          0    2486416         96          0          0          0
-system          >   all    2400000    1028368    2400000          1   90001032   16000000    1000000     320000      16000      80000      80000     160000    2488416       2096       1400       1400        800
+system          >   ext          0          0          0          0       1032          0          0          0          0          0          0          0    2486488         96          0          0          0
+system          >   all    2400000    1028368    2400000          1   90001032   16000000    1000000     320000      16000      80000      80000     160000    2488488       2096       1400       1400        800
 system          > 
 system          >   ini    2149739    1009924          0      52570          0     580598                                                                                       0                                 
 system          >   ptr      53319                  7952      53302                588809          0          0          0          0          0          0          7          0          0         11          0
@@ -108,14 +108,14 @@ system          >   ------------------------------------------------------------
 system          > 
 system          >   current input type    : initial
 system          > 
-system          >   approximate memory    : 118870120 (113 MB)
+system          >   approximate memory    : 118870192 (113 MB)
 system          > 
 system          >   expansion depth       : min: 10000, max: 1000000, set: 10000, top: 6
 system          > 
 system          >   luabytecode registers : 1032
 system          >   luabytecode bytes     : 16528 (0 MB)
-system          >   luastate bytes now    : 50458791 (48 MB)
-system          >   luastate bytes max    : 50458791 (48 MB)
+system          >   luastate bytes now    : 50803361 (48 MB)
+system          >   luastate bytes max    : 50803361 (48 MB)
 system          > 
 system          >   file callbacks        : 163
 system          >   saved callbacks       : 76
@@ -151,8 +151,8 @@ system          >   hyphenation state     : words            18
 system          > 
 mkxl run stats  > used config file: selfautoparent:/texmf/web2c/texmfcnf.lua
 mkxl run stats  > used cache path: C:/context/tex/texmf-cache/luametatex-cache/context/5fe67e0bfe781ce0dde776fb1556f32e
-mkxl run stats  > resource resolver: loadtime 0.008 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 38 found files, scanned paths: <none>
-mkxl run stats  > stored bytecode data: 532 modules (0.226 sec), 106 tables (0.010 sec), 638 chunks (0.236 sec)
+mkxl run stats  > resource resolver: loadtime 0.010 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 38 found files, scanned paths: <none>
+mkxl run stats  > stored bytecode data: 532 modules (0.267 sec), 106 tables (0.013 sec), 638 chunks (0.280 sec)
 mkxl run stats  > traced context lua functions: maxstack: 1890, freed: 2, unreachable: 1888
 mkxl run stats  > cleaned up reserved nodes: 79 nodes, 8 lists of 445
 mkxl run stats  > node memory usage: 12 attribute, 6 attributelist, 6 fontspec, 3 glue, 135 gluespec, 1 kern, 661 mathspec, 4 penalty, 37 specification, 2 temp
@@ -163,10 +163,10 @@ mkxl run stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
 mkxl run stats  > callbacks: file: 163, saved: 76, direct: 5, function: 869, value: 431, message: 0, bytecode: 638, late 0, total: 2182 (2182 per page)
 mkxl run stats  > loaded patterns: en::1, load time: 0.000
 mkxl run stats  > loaded fonts: 3 files: latinmodernmathcompanion-regular.otf, latinmodern-math.otf, lmroman10-regular.otf
-mkxl run stats  > font engine: otf 3.145, afm 1.541, tfm 1.000, 5 instances, 2 shared in backend, 2 common vectors, 0 common hashes, load time 0.112 seconds 
-mkxl run stats  > metapost: 0.012 seconds, loading: 0.068, execution: 0.003, n: 3, average: 0.028, instances: 1, luacalls: 15672 (file: 15219, text: 9, script: 424, log: 20), memory: 0.000 M
-mkxl run stats  > math tweaking time: 0.043 seconds, 6 math goodie tables
-mkxl run stats  > graphics processing time: 0.007 seconds including tex, 1 processed images, 2 unique asked, 0 bad names
+mkxl run stats  > font engine: otf 3.145, afm 1.541, tfm 1.000, 5 instances, 2 shared in backend, 2 common vectors, 0 common hashes, load time 0.113 seconds 
+mkxl run stats  > metapost: 0.014 seconds, loading: 0.048, execution: 0.003, n: 3, average: 0.022, instances: 1, luacalls: 15672 (file: 15219, text: 9, script: 424, log: 20), memory: 0.000 M
+mkxl run stats  > math tweaking time: 0.047 seconds, 6 math goodie tables
+mkxl run stats  > graphics processing time: 0.005 seconds including tex, 1 processed images, 2 unique asked, 0 bad names
 mkxl run stats  > font embedding time: 0.002 seconds, 1 fonts
 mkxl run stats  > result saved in file: e:/Documentos/Alfredo/Programas/8bitfred.github.io/assets/images/screen/frame zones_es.pdf, compresslevel 1, objectcompresslevel 3, 7 streams, 1 uncompressed, 5 compressed, 1 not compressed, threshold 40
 mkxl run stats  > positions: 4 collected, 0 deltas, 0 shared partials, 0 partial entries
@@ -174,4 +174,4 @@ mkxl run stats  > used platform: win64, type: windows, binary subtree: texmf-win
 mkxl run stats  > used engine: luametatex version: 2.11.08, functionality level: 20251122, format id: 725, compiler: gcc
 mkxl run stats  > tex properties: 938218 hash slots used of 2097152, 53302 control sequences, approximate memory usage: 113 MB
 mkxl run stats  > lua properties: engine: lua 5.5, format 3, used memory: 50 MB, ctx: 48 MB, max: 48 MB, symbol mask: utf (τεχ)
-mkxl run stats  > runtime: 0.533 seconds, 1 processed pages, 1 shipped pages, 1.878 pages/second
+mkxl run stats  > runtime: 0.561 seconds, 1 processed pages, 1 shipped pages, 1.781 pages/second
