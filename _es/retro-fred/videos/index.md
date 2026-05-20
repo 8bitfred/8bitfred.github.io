@@ -35,7 +35,7 @@ permalink: /es/retro-fred/videos
        image="https://img.youtube.com/vi/A2m3HgWj2Fk/hqdefault.jpg"
        alt="Demo de pantalla completa"
     %}
-    <a href="https://youtu.be/A2m3HgWj2Fk">Demo de pantalla completa</a>
+    <a href="https://youtu.be/A2m3HgWj2Fk">Demo de vista de mapa completo</a>
   </div>
 
   <div style="display: flex; align-items: center; gap: 10px;">
@@ -44,7 +44,7 @@ permalink: /es/retro-fred/videos
        image="https://img.youtube.com/vi/_C33ACkLqi4/hqdefault.jpg"
        alt="Video de pantalla completa"
     %}
-    <a href="https://youtu.be/_C33ACkLqi4">Dentro de la pirámide, pantalla completa</a>
+    <a href="https://youtu.be/_C33ACkLqi4">Dentro de la pirámide, vista de mapa completo</a>
   </div>
 
 </div>
