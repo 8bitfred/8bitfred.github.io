@@ -11,7 +11,7 @@ permalink: /en/retro-fred/
 
 
 <p align="center">
-  <img src="{{ '/assets/images/FredBanner/FredBanner_retrofred.png' | relative_url }}" width="300">
+  <img src="{{ '/assets/images/retro-fred/RFP_3.png' | relative_url }}" width="300">
 </p>
 
 <p style="text-align: center; font-size: 18px; font-family: 'Times New Roman', serif;">
