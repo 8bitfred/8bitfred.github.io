@@ -18,6 +18,11 @@ It features characteristics associated with [roguelike](https://en.wikipedia.org
 
 Likewise, *Fred* is considered one of the earliest video games developed in Spain for the Sinclair ZX Spectrum, alongside its contemporary [*Bugaboo (The Flea)*](https://en.wikipedia.org/wiki/Bugaboo_(The_Flea)). Although Indescomp reached an agreement to market both titles in the United Kingdom in the autumn of 1983, they were released a few weeks apart: *Bugaboo* at the end of that year and *Fred* in early 1984. Both were major commercial successes and received excellent reviews.
 
+<p align="center">
+  <img src="{{ '/assets/images/MadeInSpain/fredteam.png' | relative_url }}" width="400"><br>
+  <sub>A Mount Rushmore-style recreation of the <i>Fred</i> team.</sub>
+</p>
+
 A conversion for the Amstrad CPC, written by the same team including [Camilo Cela](https://www.devuego.es/bd/fdesarrollador/camilo-cela), was launched by [Amsoft](https://en.wikipedia.org/wiki/Amsoft) as [*Roland on the Ropes*](https://www.cpcwiki.eu/index.php/Roland_on_the_Ropes) in the spring of 1984, as part of the [Roland](https://en.wikipedia.org/wiki/Roland_(game_character)) video game series. Interestingly, [Alan Sugar](https://en.wikipedia.org/wiki/Alan_Sugar) (Amstrad’s CEO) named the character after [Roland Perry](https://amstrad.com/about-us/) (engineer in charge of the development of the CPC 464) while playing a demo of *Fred*. The Commodore 64 version was developed by [Pedro Ruiz](https://www.devuego.es/bd/fdesarrollador/pedro-ruiz), a member of Indescomp's programming team. 
 
 The history of *Fred* starts when Granados played the game [Pengo](https://en.wikipedia.org/wiki/Pengo_(video_game)) at an arcade during the summer of 1983. In Pengo the player controls a penguin that must move or destroy ice blocks in a maze to kill enemies and find the exit. At the beginning of each level the maze [is generated randomly](https://www.youtube.com/watch?v=6q3bNHvj92c) in front of the user. Charlie, who had just graduated high school and was about to

@@ -6,7 +6,7 @@ lang: es
 ref: about
 ---
 
-8bitfred.com and *Retro-Fred* han sido creados por Alfredo Catalina y Miguel Catalina, 2024.
+8bitfred.com and *Retro-Fred* han sido creados por Alfredo Catalina y Miguel Catalina, 2024 (licencia CC BY 4.0).
 
 Por favor, contacta con [Miguel](mailto:miguel@8bitfred.com) o
 [Alfredo](mailto:alfredo@8bitfred.com) para preguntas sobre 8bitfred.com y
