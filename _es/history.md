@@ -20,7 +20,7 @@ Asimismo, *Fred* está considerado uno de los primeros videojuegos desarrollados
 
 <p align="center">
   <img src="{{ '/assets/images/MadeInSpain/fredteam.png' | relative_url }}" width="400"><br>
-  <sub>Una recreación del equipo de <i>Fred</i> al estilo Mount Rushmore.</sub>
+  <sub>Recreación del equipo de <i>Fred</i> al estilo Mount Rushmore.</sub>
 </p>
 
 La conversión para Amstrad CPC fue escrita por el mismo equipo, incluyendo a [Camilo Cela](https://www.devuego.es/bd/fdesarrollador/camilo-cela), y fue publicada por [Amsoft](https://en.wikipedia.org/wiki/Amsoft) con el título [*Roland on the Ropes*](https://www.cpcwiki.eu/index.php/Roland_on_the_Ropes) en la primavera de 1984, formando parte de la serie de videojuegos [Roland](https://en.wikipedia.org/wiki/Roland_(game_character)). Curiosamente, [Alan Sugar](https://en.wikipedia.org/wiki/Alan_Sugar) (director ejecutivo de Amstrad) dio nombre a este personaje en honor a [Roland Perry](https://amstrad.com/about-us/) (ingeniero responsable del desarrollo del CPC 464) mientras jugaba una demo de *Fred*. La versión para Commodore 64 fue desarrollada por [Pedro Ruiz](https://www.devuego.es/bd/fdesarrollador/pedro-ruiz), miembro del equipo de programación de Indescomp.
