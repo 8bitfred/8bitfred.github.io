@@ -15,6 +15,8 @@ Retro-Fred en C++ (2021-2024)
 
 Una conversión de Fred en C++ utilizando SDL. Funciona en Linux, Windows, MacOS, iOS y Android.
 
+Incluye *Auto-Fred*, una versión en la que Fred es controlado automáticamente por un algoritmo de exploración en profundidad para encontrar la salida.
+
 * [Código fuente en GitHub](https://github.com/8bitfred/retro-fred)
 * [Releases](https://github.com/8bitfred/retro-fred/releases)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.eightbitfred.retro_fred&hl=en)
@@ -26,6 +28,8 @@ Retro-Fred en Scratch (2021-2024)
 <sub>por Alfredo Catalina</sub>
 
 Conversion de Fred para Scratch.
+
+Incluye tres implementaciones de *Auto-Fred*: una basada en el algoritmo de la mano derecha para explorar el laberinto, otra en un algoritmo de exploración en profundidad y otra en el algoritmo de Dijkstra.
 
 * [Página de Scratch](https://scratch.mit.edu/projects/1053158449)
 * [Código fuente en GitHub](https://github.com/8bitfred/retro-fred-scratch)
