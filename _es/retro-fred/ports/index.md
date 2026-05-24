@@ -34,11 +34,11 @@ Incluye tres implementaciones de *Auto-Fred*: una basada en el algoritmo de la m
 * [Página de Scratch](https://scratch.mit.edu/projects/1053158449)
 * [Código fuente en GitHub](https://github.com/8bitfred/retro-fred-scratch)
 * [Releases](https://github.com/8bitfred/retro-fred-scratch/releases)
-* [Libro](/en/docs/retro-fred/documentation/book)
-* [Diagramas](/en/docs/retro-fred/documentation/diagrams)
-* [Código en PDF y SVG](/en/docs/retro-fred/documentation/scratchcode)
-* [Sprites y audio](/en/docs/retro-fred/documentation/resources)
-* [Variables](/en/docs/retro-fred/documentation/scratchvariables)
+* [Libro](/en/retro-fred/documentation/book)
+* [Diagramas](/es/retro-fred/documentation/diagrams)
+* [Código en PDF y SVG](/es/retro-fred/documentation/scratchcode)
+* [Sprites y audio](/es/retro-fred/documentation/resources)
+* [Variables](/es/retro-fred/documentation/scratchvariables)
 
 Proyectos iniciales de Retro-Fred (1993-1994)
 -------------------------

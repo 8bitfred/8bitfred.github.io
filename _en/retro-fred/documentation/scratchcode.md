@@ -9,14 +9,18 @@ lang: en
 ref: scratch
 ---
 
-Individual Files
+Scratch Code - Individual Files
 ----------------
 
-[Download All in PDF](/assets/pdf/ScratchCodePDF.zip)
+[Download Retro-Fred Code in PDF](/assets/pdf/ScratchCodePDF.zip)
 
-[Download All in SVG](/assets/svg/ScratchCodeSVG.zip)
+[Download Retro-Fred Code in SVG](/assets/svg/ScratchCodeSVG.zip)
 
-Script Viewer by Object
+[Download Auto-Fred Code in PDF](/assets/pdf/Auto-Fred_ScratchCodePDF.zip)
+
+[Download Auto-Fred Code in SVG](/assets/svg/Auto-Fred_ScratchCodeSVG.zip)
+
+Script Viewer by Object (Retro-Fred)
 -----------------------
 
 <div style="margin-bottom: 20px;"></div>
