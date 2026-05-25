@@ -6,7 +6,7 @@ nav_order: 1
 has_toc: true
 lang: es
 ref: c++andscratch
-permalink: /es/retro-fred/ports/
+permalink: /es/retro-fred/ports
 ---
 
 Retro-Fred en C++ (2021-2024)
