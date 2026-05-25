@@ -5,7 +5,7 @@ parent: Proyecto Retro-Fred
 nav_order: 1
 has_toc: true
 lang: es
-ref: c++andscratch
+ref: cppandscratch
 permalink: /es/retro-fred/ports
 ---
 
