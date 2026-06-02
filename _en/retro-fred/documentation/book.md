@@ -10,10 +10,8 @@ ref: book
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/book/book_transparent.png' | relative_url }}" width="400" alt="Portada">
+  <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Portada">
 </p>
-
-
 
 <div style="text-align:center; margin-top:40px;">
 
@@ -38,12 +36,9 @@ ref: book
 
 </div>
 
-
-
-
 <h2 id="global">Guía del programador de Scratch avanzado</h2>
 
-A step-by-step guide to porting Fred to Scratch while preserving 100% of the original game’s experience, with 750 pages, hundreds of figures, and dozens of diagrams explaining in detail how it works. Thanks to Scratch’s pseudocode-like syntax, the code is very easy to follow.
+A step-by-step guide to porting Fred to Scratch while preserving 100% of the original game’s experience, with 750 pages, hundreds of figures, and dozens of diagrams explaining in detail how it works. Thanks to Scratch's pseudocode-like syntax, even readers with little programming experience can follow the code with ease.
 
 One of the three included appendices tells the story of the game’s development and release; it also reviews the articles published in specialized magazines, incorporating more than 160 references from magazines, books, blogs, and podcasts; finally, it covers the remakes and ports released over the years.
 
