@@ -46,15 +46,13 @@ Code, illustrations, and diagrams in English.
 
 ---
 
-Moving from a novice programmer to an advanced developer is not just a matter of learning new blocks. It also requires learning how to design, structure, and plan your projects.
+Becoming an advanced Scratch programmer requires more than simply mastering the blocks. It also involves learning how to analyse problems and design solutions in a systematic way.
 
-Many Scratch users master the basics but encounter difficulties when tackling larger projects, where a solid code structure and the application of more sophisticated programming techniques become essential.
+In <span style="color: #0969da; font-weight: bold;">*Guía del programador de Scratch avanzado*</span>, you will find a practical approach to developing these skills. Throughout the book, you will learn how to apply advanced programming techniques and discover how to implement some of the fundamental components of video games, including procedural level generation, collision detection, state machine–based artificial intelligence, dynamic minimap creation, and the game loop.
 
-In <span style="color: #0969da; font-weight: bold;">*Guía del programador de Scratch avanzado*</span>, you will find a practical and structured approach to developing these skills. Throughout the book, you will learn advanced programming techniques and discover how to implement some of the fundamental components of video games, including procedural level generation, collision detection, artificial intelligence based on state machines, dynamic minimap creation, and game loop implementation.
+The book provides a step-by-step analysis of one of the pioneering video games of the ZX Spectrum era, showing how its ideas and mechanics can be adapted to the Scratch environment. Alongside the technical discussion, it also explores the game's origins and development, while providing insight into the historical context in which the Spanish video game industry emerged in the early 1980s.
 
-This book dissects, step by step, one of the pioneering ZX Spectrum video games, showing how its ideas and mechanics can be recreated in Scratch. It not only examines the game's technical aspects, but also tells the story of its origins and development, while exploring the historical context of the early years of the Spanish video game industry in the early 1980s.
-
-This book is aimed at Scratch programmers with previous experience who want to progress to an intermediate-to-advanced level, as well as readers interested in retro computing who wish to understand how many of the concepts we still use today first emerged.
+This book is intended for Scratch programmers with prior experience who wish to expand their knowledge and tackle more ambitious projects, as well as for readers interested in retrocomputing who want to understand the origins of many concepts that are still in use today.
 
 If you want to learn how to design and build video games using a solid methodology, this book will guide you step by step.
 
