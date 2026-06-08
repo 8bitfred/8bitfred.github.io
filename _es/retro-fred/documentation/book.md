@@ -50,7 +50,7 @@ Para convertirse en un programador de Scratch avanzado no basta con manejar con 
 
 En <span style="color: #0969da; font-weight: bold;">*Guía del programador de Scratch avanzado*</span> encontrarás un enfoque práctico para desarrollar esas habilidades. A lo largo del libro aprenderás a aplicar técnicas de programación avanzadas y descubrirás cómo implementar algunos de los componentes fundamentales de los videojuegos, como la generación procedural de escenarios, la detección de colisiones, la inteligencia artificial basada en máquinas de estados, la creación dinámica de minimapas y el bucle principal del juego.
 
-La obra disecciona paso a paso uno de los videojuegos pioneros del ZX Spectrum, mostrando cómo trasladar sus ideas y mecánicas al entorno de Scratch. Junto al análisis técnico, también recorre el origen y desarrollo del videojuego e incorpora una visión del contexto histórico en el que surgió la industria española del videojuego a comienzos de los años 80.
+Esta obra disecciona paso a paso uno de los videojuegos pioneros del ZX Spectrum, mostrando cómo trasladar sus ideas y mecánicas al entorno de Scratch. Junto al análisis técnico, también recorre el origen y desarrollo del videojuego e incorpora una visión del contexto histórico en el que surgió la industria española del videojuego a comienzos de los años 80.
 
 El libro está dirigido a programadores de Scratch con experiencia previa que desean ampliar sus conocimientos y abordar proyectos más ambiciosos, así como a lectores interesados en la retroinformática que quieran comprender el origen de muchos conceptos que todavía utilizamos hoy.
 
