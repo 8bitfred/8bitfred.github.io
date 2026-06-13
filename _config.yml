@@ -21,6 +21,7 @@
 
 title: Fred
 email: miguel@8bitfred.com
+description: Retro-Fred Project. ZX Spectrum Fred ports for Windows, Linux, iOS, Android, and Scratch.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.8bitfred.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  migcat22
