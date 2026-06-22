@@ -6,17 +6,15 @@ La sintaxis de Scratch, cercana al pseudocódigo, facilita la comprensión de la
 
 ---
 
-Dar el salto de programador básico a desarrollador avanzado no consiste en aprender más bloques, sino en aprender a pensar de otra manera.
+Para convertirse en un programador de Scratch avanzado no basta con manejar con soltura los bloques. También hay que aprender a analizar los problemas y diseñar soluciones de forma metódica.
 
-Muchos usuarios de Scratch dominan lo esencial, pero encuentran dificultades cuando intentan construir proyectos complejos, organizar su código o dar el siguiente paso hacia videojuegos más elaborados.
+En Guía del programador de Scratch avanzado encontrarás un enfoque práctico para desarrollar esas habilidades. A lo largo del libro aprenderás a aplicar técnicas de programación avanzadas y descubrirás cómo implementar algunos de los componentes fundamentales de los videojuegos, como la generación procedural de escenarios, la detección de colisiones, la inteligencia artificial basada en máquinas de estados, la creación dinámica de minimapas y el bucle principal del juego.
 
-En Guía del programador de Scratch avanzado encontrarás un enfoque práctico y estructurado para desarrollar esas habilidades. A lo largo del libro, trabajarás técnicas de programación más avanzadas, aprenderás a organizar proyectos de forma clara y construirás sistemas reutilizables que te permitirán crear videojuegos más sólidos y completos.
+Esta obra disecciona paso a paso uno de los videojuegos pioneros del ZX Spectrum, mostrando cómo trasladar sus ideas y mecánicas al entorno de Scratch. Junto al análisis técnico, también recorre el origen y desarrollo del videojuego e incorpora una visión del contexto histórico en el que surgió la industria española del videojuego a comienzos de los años 80.
 
-El recorrido no se queda en la teoría. El libro disecciona paso a paso uno de los videojuegos pioneros del ZX Spectrum, mostrando cómo trasladar sus ideas y mecánicas al entorno de Scratch. Este análisis conecta la práctica actual con los orígenes de la programación de videojuegos, incorporando también una revisión del contexto histórico en el que surgieron estos desarrollos a comienzos de los años 80.
+El libro está dirigido a programadores de Scratch con experiencia previa que desean ampliar sus conocimientos y abordar proyectos más ambiciosos, así como a lectores interesados en la retroinformática que quieran comprender el origen de muchos conceptos que todavía utilizamos hoy.
 
-Este libro está dirigido a programadores de Scratch con experiencia previa que quieren avanzar hacia un nivel intermedio-avanzado, así como a quienes sienten interés por la retroinformática y desean entender cómo nacieron muchos de los conceptos que todavía utilizamos hoy.
-
-Si quieres dejar de improvisar y empezar a construir tus proyectos con método, este libro te ofrece el camino paso a paso.
+Si quieres aprender a diseñar y construir videojuegos con una metodología sistemática, este libro te guiará paso a paso.
 
 
 Índice

@@ -54,7 +54,7 @@ The book provides a step-by-step analysis of one of the pioneering video games o
 
 This book is intended for Scratch programmers with prior experience who wish to expand their knowledge and tackle more ambitious projects, as well as for readers interested in retrocomputing who want to understand the origins of many concepts that are still in use today.
 
-If you want to learn how to design and build video games using a solid methodology, this book will guide you step by step.
+If you want to learn how to design and build video games using a systematic methodology, this book will guide you step by step.
 
 <a href="{{ '/assets/pdf/TableOfContents.pdf' | relative_url }}">
   Table of Contents

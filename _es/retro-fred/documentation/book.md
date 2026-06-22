@@ -54,7 +54,7 @@ Esta obra disecciona paso a paso uno de los videojuegos pioneros del ZX Spectrum
 
 El libro está dirigido a programadores de Scratch con experiencia previa que desean ampliar sus conocimientos y abordar proyectos más ambiciosos, así como a lectores interesados en la retroinformática que quieran comprender el origen de muchos conceptos que todavía utilizamos hoy.
 
-Si quieres aprender a diseñar y construir videojuegos con una metodología sólida, este libro te guiará paso a paso.
+Si quieres aprender a diseñar y construir videojuegos con una metodología sistemática, este libro te guiará paso a paso.
 
 
 <a href="{{ '/assets/pdf/TableOfContents.pdf' | relative_url }}">
