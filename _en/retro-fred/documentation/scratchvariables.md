@@ -153,8 +153,16 @@ ref: variables
 
 <tr><td>Main</td><td>sJumpStage</td><td>Fred’s jump stage: 0 to 3.</td></tr>
 
+<tr><td>Map</td><td>sBlk</td><td>Block type name: empty, stone, rope start, rope main, rope end, sky, sand, trapdoor.</td></tr>
+<tr><td>Map</td><td>sBlockCode</td><td>Block code: 0 to 9.</td></tr>
+<tr><td>Map</td><td>sCell_x</td><td>X coordinate of the cell in the map system.</td></tr>
+<tr><td>Map</td><td>sCell_y</td><td>Y coordinate of the cell in the map system.</td></tr>
 <tr><td>Map</td><td>sDirection</td><td>Movement direction number: 1 to 4.</td></tr>
-<tr><td>Map</td><td>sIsInside</td><td>true if the cell coordinates are inside the map.</td></tr>
+<tr><td>Map</td><td>sIsMoveValid</td><td>true if movement in the specified direction is valid.</td></tr>
+<tr><td>Map</td><td>slBranch_x</td><td>X coordinates of the cells in the maze construction stack.</td></tr>
+<tr><td>Map</td><td>slBranch_y</td><td>Y coordinates of the cells in the maze construction stack.</td></tr>
+<tr><td>Map</td><td>slDebugMap</td><td>Fixed debug map used in the examples throughout the book.</td></tr>
+<tr><td>Map</td><td>slDirections</td><td>Possible directions when advancing one step during maze generation.</td></tr>
 
 <tr><td>Minimap</td><td>sColumn</td><td>Column index in the minimap generation loop.</td></tr>
 <tr><td>Minimap</td><td>sRow</td><td>Row index in the minimap generation loop.</td></tr>

@@ -215,9 +215,8 @@ Main:
 - WhenIReceive_Synchronization
 - WhenIStartAsAClone
 Map:
-- CheckBounds
 - CheckCell
-- CheckDirection
+- CheckMove
 - CreateMaze
 - GetBlock
 - InitializeMap
@@ -228,7 +227,6 @@ Map:
 - SetBlock
 - SetHatchPosition
 - SetTrapdoorPosition
-- SetUpDirectionNames
 - SetUpTheRopes
 - WhenGreenFlagClicked
 - WhenIReceive_CreateMap

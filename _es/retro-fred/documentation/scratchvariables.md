@@ -154,8 +154,22 @@ ref: variables
 
 <tr><td>Main</td><td>sJumpStage</td><td>Fase del salto de Fred: 0 a 3.</td></tr>
 
+<tr><td>Map</td><td>sBlk</td><td>Nombre del tipo de bloque: empty, stone, rope start, rope main, rope
+end, sky, sand, trapdoor.</td></tr>
+<tr><td>Map</td><td>sBlockCode</td><td>Código de bloque: 0 a 9.</td></tr>
+<tr><td>Map</td><td>sCell_x</td><td>Coordenada X de la celda, expresada en el sistema de referencia del
+mapa.</td></tr>
+<tr><td>Map</td><td>sCell_y</td><td>Coordenada Y de la celda, expresada en el sistema de referencia del
+mapa.</td></tr>
 <tr><td>Map</td><td>sDirection</td><td>Número de dirección de movimiento: 1 a 4.</td></tr>
-<tr><td>Map</td><td>sIsInside</td><td>true si las coordenadas de la celda están dentro del mapa.</td></tr>
+<tr><td>Map</td><td>sIsMoveValid</td><td>true si el movimiento en la dirección especificada es válido.</td></tr>
+<tr><td>Map</td><td>slBranch_x</td><td>Coordenadas X de las celdas en la tabla de construcción del
+laberinto.</td></tr>
+<tr><td>Map</td><td>slBranch_y</td><td>Coordenadas Y de las celdas en la tabla de construcción del
+laberinto.</td></tr>
+<tr><td>Map</td><td>slDebugMap</td><td>Mapa de depuración fijo, utilizado en los ejemplos del libro.</td></tr>
+<tr><td>Map</td><td>slDirections</td><td>Direcciones posibles al avanzar un paso en la generación del
+laberinto.</td></tr>
 
 <tr><td>Minimap</td><td>sColumn</td><td>Índice de columna en el bucle de generación del minimapa.</td></tr>
 <tr><td>Minimap</td><td>sRow</td><td>Índice de fila en el bucle de generación del minimapa.</td></tr>
