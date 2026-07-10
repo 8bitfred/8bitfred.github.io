@@ -1,7 +1,10 @@
-Instalación
------------
+Instalación de servidor web local para pruebas
+----------------------------------------------
 
-- instalar Ruby desde la Microsoft Store
+- instalar Ruby desde https://rubyinstaller.org/downloads/, con permisos de administrador, seleccionando la versión Ruby+Devkit 3.3.11-1 (x64)
+- marcar la opción de instalar MSYS2
+- dejar marcada la opción Add Ruby executables to your PATH y no desmarcar la opción que ejecuta ridjk install
+- seleccionar opción 3 - MSYS2 and MINGW development toolchain
 - desde PowerShell como administrador hacer lo siguiente
 - actualizar gem si es necesario
 - habilitar la ejecución de scripts en Powershell: Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned

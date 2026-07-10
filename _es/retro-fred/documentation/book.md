@@ -15,24 +15,24 @@ ref: book
 
 <div style="text-align:center; margin-top:40px;">
 
-<!-- <a href="/es/buy/" -->
-<a href="#"
-   style="
-      display:inline-block;
-      background:linear-gradient(90deg,#ff6600,#ff9900);
-      color:white;
-      padding:16px 34px;
-      border-radius:10px;
-      text-decoration:none;
-      font-size:22px;
-      font-weight:bold;
-      letter-spacing:0.5px;
-      box-shadow:0 4px 14px rgba(0,0,0,0.35);
-   ">
+<button id="buyButton"
+        style="
+          display:inline-block;
+          background:linear-gradient(90deg,#ff6600,#ff9900);
+          color:white;
+          padding:16px 34px;
+          border-radius:10px;
+          border:none;
+          cursor:pointer;
+          font-size:22px;
+          font-weight:bold;
+          letter-spacing:0.5px;
+          box-shadow:0 4px 14px rgba(0,0,0,0.35);
+        ">
 
-🛒 Disponible próximamente
+🛒 Comprar
 
-</a>
+</button>
 
 </div>
 
@@ -80,3 +80,31 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
 <a href="{{ '/assets/pdf/Sample_5.pdf' | relative_url }}">
   Muestra 5
 </a>
+
+<dialog id="purchaseDialog">
+
+<h2>Comprar con PayPal</h2>
+
+<p>Seleccione el producto:</p>
+
+<div id="productsContainer">
+
+Cargando productos...
+
+</div>
+
+<br>
+
+<div style="text-align:right;">
+
+<button id="closeDialog">
+
+Cancelar
+
+</button>
+
+</div>
+
+</dialog>
+
+<script src="{{ '/assets/js/buy.js' | relative_url }}"></script>
