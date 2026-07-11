@@ -15,24 +15,50 @@ ref: book
 
 <div style="text-align:center; margin-top:40px;">
 
-<button id="buyButton"
-        style="
-          display:inline-block;
-          background:linear-gradient(90deg,#ff6600,#ff9900);
-          color:white;
-          padding:16px 34px;
-          border-radius:10px;
-          border:none;
-          cursor:pointer;
-          font-size:22px;
-          font-weight:bold;
-          letter-spacing:0.5px;
-          box-shadow:0 4px 14px rgba(0,0,0,0.35);
-        ">
 
-🛒 Comprar
+<!-- href="{{ '/es/buy/' | relative_url }}" -->
+  <a   
+     onclick="alert('Disponible próximamente'); return false;"
+     style="
+        display:inline-block;
+        width:200px;
+        background:linear-gradient(90deg,#0070ba,#009cde);
+        color:white;
+        padding:16px 34px;
+        border-radius:10px;
+        text-decoration:none;
+        font-size:22px;
+        font-weight:bold;
+        box-shadow:0 4px 14px rgba(0,0,0,0.35);
+     ">
 
-</button>
+    💳 PayPal
+
+  </a>
+
+  <br><br>
+
+<!-- href="https://www.amazon.es/dp/TU_ASIN" -->
+  <a 
+     onclick="alert('Disponible próximamente'); return false;"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="
+        display:inline-block;
+        width:200px;
+        background:#ff9900;
+        color:black;
+        padding:16px 34px;
+        border-radius:10px;
+        text-decoration:none;
+        font-size:22px;
+        font-weight:bold;
+        box-shadow:0 4px 14px rgba(0,0,0,0.35);
+     ">
+
+    🛒 Amazon
+
+  </a>
 
 </div>
 
@@ -81,30 +107,3 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
   Muestra 5
 </a>
 
-<dialog id="purchaseDialog">
-
-<h2>Comprar con PayPal</h2>
-
-<p>Seleccione el producto:</p>
-
-<div id="productsContainer">
-
-Cargando productos...
-
-</div>
-
-<br>
-
-<div style="text-align:right;">
-
-<button id="closeDialog">
-
-Cancelar
-
-</button>
-
-</div>
-
-</dialog>
-
-<script src="{{ '/assets/js/buy.js' | relative_url }}"></script>
