@@ -7,6 +7,8 @@ ref: buy
 permalink: /en/buy/
 ---
 
+<div id="checkout">
+
 <h2>Checkout</h2>
 
 <div style="margin-bottom: 20px;"></div>
@@ -86,7 +88,7 @@ Loading zones...
     style="margin-top:30px;">
 </div>
 
-<script src="https://www.paypal.com/sdk/js?client-id=AfFQEdbuA6LCS8EVm5GJ8e-39P5LFMml4yVeqGZJKYeUpEmqBvWEsvQHVkklXd7Qxs0xQ5A28uCInFmS&currency=EUR"></script>
+<script src="https://www.paypal.com/sdk/js?client-id=AfFQEdbuA6LCS8EVm5GJ8e-39P5LFMml4yVeqGZJKYeUpEmqBvWEsvQHVkklXd7Qxs0xQ5A28uCInFmS&currency=EUR&locale=en_GB"></script>
 
 <script src="{{ '/assets/js/buy.js' | relative_url }}"></script>
 
@@ -98,3 +100,7 @@ Please contact us at
 pedidos@recursivaediciones.com
 </a>.
 </p>
+
+</div>
+
+<div id="order-result" style="margin-top:30px;"></div>

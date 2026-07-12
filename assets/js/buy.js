@@ -1,11 +1,11 @@
 const productsContainer =
     document.getElementById("productsContainer");
 
-// const API_BASE_URL = 
-//     "http://127.0.0.1:5000";
+const API_BASE_URL = 
+    "http://127.0.0.1:5000";
 
-const API_BASE_URL =
-    "https://api.recursivaediciones.com";
+// const API_BASE_URL =
+//     "https://api.recursivaediciones.com";
 
 const language =
     window.location.pathname.startsWith("/en/")
@@ -42,8 +42,11 @@ const translations = {
         vat: "IVA",
         total: "Total",
         vatIncluded:
-            "Los importes del libro y del envío incluyen IVA."
-
+            "Los importes del libro y del envío incluyen IVA.",
+        orderCompleted: "Pedido realizado correctamente",
+        thankMessage: "Gracias por su compra.",
+        finalMessage: "En unos minutos recibirá un correo electrónico con la confirmación del pedido y la factura.",
+        orderNotCompleted: "Su pedido no pudo completarse."
     },
 
     en: {
@@ -62,8 +65,11 @@ const translations = {
         vat: "VAT",
         total: "Total",
         vatIncluded:
-            "Book and shipping prices include VAT."
-
+            "Book and shipping prices include VAT.",
+        orderCompleted: "Order completed successfully.",
+        thankMessage: "Thank you for your purchase.",
+        finalMessage: "You will receive an email shortly with your order confirmation and invoice.",
+        orderNotCompleted: "Your order could not be completed."
     }
 
 };
@@ -500,7 +506,36 @@ paypal.Buttons({
         })
         .then(result => {
 
-            console.log(result);
+            // alert(JSON.stringify(result, null, 2));
+
+            if (result.status === "paid") {
+
+            document.getElementById("checkout").style.display = "none";
+            document.getElementById("order-result").innerHTML = `
+
+                <h3>${t("orderCompleted")}</h3>
+
+                <p>
+                ${t("thankMessage")}
+                </p>
+
+                <p>
+                ${t("finalMessage")}
+                </p>
+
+            `;
+            }
+            else {
+
+            document.getElementById("checkout").style.display = "none";
+            document.getElementById("order-result").innerHTML = `
+
+                <h2>${t("orderNotCompleted")}</h2>
+
+            `;
+
+            }
+
 
         })
         .catch(err => {
@@ -513,7 +548,12 @@ paypal.Buttons({
 
     onCancel(data) {
 
-        console.log("CANCELLED");
+        document.getElementById("checkout").style.display = "none";
+        document.getElementById("order-result").innerHTML = `
+
+            <h3>Pedido no completado</h3>
+
+        `;
 
     },
 
