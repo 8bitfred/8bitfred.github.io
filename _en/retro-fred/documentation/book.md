@@ -15,24 +15,51 @@ ref: book
 
 <div style="text-align:center; margin-top:40px;">
 
-<!-- <a href="/en/buy/" -->
-<a href="#"
-   style="
-      display:inline-block;
-      background:linear-gradient(90deg,#ff6600,#ff9900);
-      color:white;
-      padding:16px 34px;
-      border-radius:10px;
-      text-decoration:none;
-      font-size:22px;
-      font-weight:bold;
-      letter-spacing:0.5px;
-      box-shadow:0 4px 14px rgba(0,0,0,0.35);
-   ">
 
-🛒 Available Soon
+<!-- href="{{ '/en/buy/' | relative_url }}" -->
+<!-- onclick="alert('Available soon'); return false;" -->
+  <a       
+     onclick="alert('Available soon'); return false;"
+     style="
+        display:inline-block;
+        width:200px;
+        background:linear-gradient(90deg,#0070ba,#009cde);
+        color:white;
+        padding:16px 34px;
+        border-radius:10px;
+        text-decoration:none;
+        font-size:22px;
+        font-weight:bold;
+        box-shadow:0 4px 14px rgba(0,0,0,0.35);
+     ">
 
-</a>
+    💳 PayPal
+
+  </a>
+
+  <br><br>
+
+<!-- href="https://www.amazon.es/dp/TU_ASIN" -->
+  <a 
+     onclick="alert('Available soon'); return false;"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="
+        display:inline-block;
+        width:200px;
+        background:#ff9900;
+        color:black;
+        padding:16px 34px;
+        border-radius:10px;
+        text-decoration:none;
+        font-size:22px;
+        font-weight:bold;
+        box-shadow:0 4px 14px rgba(0,0,0,0.35);
+     ">
+
+    🛒 Amazon
+
+  </a>
 
 </div>
 

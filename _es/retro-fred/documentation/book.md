@@ -17,8 +17,9 @@ ref: book
 
 
 <!-- href="{{ '/es/buy/' | relative_url }}" -->
+<!-- onclick="alert('Disponible próximamente'); return false;" -->
   <a   
-     onclick="alert('Disponible próximamente'); return false;"
+    onclick="alert('Disponible próximamente'); return false;"
      style="
         display:inline-block;
         width:200px;

@@ -1,7 +1,11 @@
 const productsContainer =
     document.getElementById("productsContainer");
 
-const API_BASE_URL = "http://127.0.0.1:5000";
+// const API_BASE_URL = 
+//     "http://127.0.0.1:5000";
+
+const API_BASE_URL =
+    "https://api.recursivaediciones.com";
 
 const language =
     window.location.pathname.startsWith("/en/")
@@ -16,6 +20,63 @@ const zoneSelect =
 
 const summary =
     document.getElementById("summary");
+
+const zoneGroup =
+    document.getElementById("zone-group");
+
+const translations = {
+
+    es: {
+
+        loadingProducts: "Cargando productos...",
+        loadingCountries: "Cargando países...",
+        loadingZones: "Cargando zonas...",
+
+        productsError: "Error cargando los productos.",
+        countriesError: "Error cargando países",
+        zonesError: "Error cargando zonas",
+
+        orderSummary: "Resumen del pedido",
+        shipping: "Gastos de envío y manipulación",
+        taxableAmount: "Base imponible",
+        vat: "IVA",
+        total: "Total",
+        vatIncluded:
+            "Los importes del libro y del envío incluyen IVA."
+
+    },
+
+    en: {
+
+        loadingProducts: "Loading products...",
+        loadingCountries: "Loading countries...",
+        loadingZones: "Loading shipping zones...",
+
+        productsError: "Error loading products.",
+        countriesError: "Error loading countries.",
+        zonesError: "Error loading shipping zones.",
+
+        orderSummary: "Order summary",
+        shipping: "Shipping and handling",
+        taxableAmount: "Taxable amount",
+        vat: "VAT",
+        total: "Total",
+        vatIncluded:
+            "Book and shipping prices include VAT."
+
+    }
+
+};
+
+function t(key) {
+
+    return (
+        translations[language]?.[key]
+        ?? translations.es[key]
+        ?? key
+    );
+
+}
 
 let shippingRate = null;
 let products = [];
@@ -40,12 +101,12 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 async function loadProducts() {
 
-    productsContainer.innerHTML = "Cargando productos...";
+    productsContainer.innerHTML = t("loadingProducts");
 
     try {
 
         const response = await fetch(
-            `${API_BASE_URL}/api/products`
+            `${API_BASE_URL}/api/products?lang=${language}`
         );
 
         if (!response.ok) {
@@ -91,7 +152,7 @@ async function loadProducts() {
         console.error(error);
 
         productsContainer.innerHTML =
-            "Error cargando los productos.";
+            t("productsError");
 
     }
 
@@ -100,7 +161,7 @@ async function loadProducts() {
 async function loadCountries() {
 
     countrySelect.innerHTML =
-        "<option>Cargando...</option>";
+        `<option>${t("loadingCountries")}</option>`;
 
     try {
 
@@ -139,7 +200,7 @@ async function loadCountries() {
         console.error(error);
 
         countrySelect.innerHTML =
-            "<option>Error cargando países</option>";
+            `<option>${t("countriesError")}</option>`;
 
     }
 
@@ -151,7 +212,7 @@ async function loadCountries() {
 async function loadZones(country) {
 
     zoneSelect.innerHTML =
-        "<option>Cargando...</option>";
+        `<option>${t("loadingZones")}</option>`;
 
     try {
 
@@ -166,6 +227,24 @@ async function loadZones(country) {
         zones = await response.json();
 
         zoneSelect.innerHTML = "";
+
+        if (zones.length === 1) {
+
+            zoneSelect.innerHTML = `
+                <option value="${zones[0].code}" selected>
+                    ${zones[0].name}
+                </option>
+            `;
+
+            zoneSelect.disabled = true;
+            zoneGroup.style.display = "";
+
+            return;
+        }
+
+        zoneGroup.style.display = "";
+
+        zoneSelect.disabled = false;
 
         zones.forEach(zone => {
 
@@ -190,7 +269,7 @@ async function loadZones(country) {
         console.error(error);
 
         zoneSelect.innerHTML =
-            "<option>Error cargando zonas</option>";
+            `<option>${t("zonesError")}</option>`;
 
     }
 
@@ -276,7 +355,7 @@ async function updateSummary() {
         await response.json();
 
     summary.innerHTML = `
-    <h3>Resumen del pedido</h3>
+    <h3>${t("orderSummary")}</h3>
 
     <table style="width:100%;max-width:520px">
 
@@ -289,7 +368,7 @@ async function updateSummary() {
 
     <tr>
         <td>
-            Gastos de envío y manipulación<br>
+            ${t("shipping")}<br>
             <span style="font-size:90%;color:#666;">
                 ${quote.shipping.description}
             </span>
@@ -304,21 +383,21 @@ async function updateSummary() {
     </tr>
 
     <tr>
-        <td>Base imponible</td>
+        <td>${t("taxableAmount")}</td>
         <td style="text-align:right">
             ${quote.taxable_amount.toFixed(2)} €
         </td>
     </tr>
 
     <tr>
-        <td>IVA (${quote.vat_rate} %)</td>
+        <td>${t("vat")} (${quote.vat_rate} %)</td>
         <td style="text-align:right">
             ${quote.vat.toFixed(2)} €
         </td>
     </tr>
 
     <tr style="font-size:18px;font-weight:bold">
-        <td>Total</td>
+        <td>${t("total")}</td>
         <td style="text-align:right">
             ${quote.total.toFixed(2)} €
         </td>
@@ -327,7 +406,7 @@ async function updateSummary() {
     </table>
 
     <p style="margin-top:15px;font-size:90%;color:#666;">
-        Todos los importes incluyen IVA.
+        ${t("vatIncluded")}
     </p>
     `;
 }

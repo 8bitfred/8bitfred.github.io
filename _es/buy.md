@@ -7,10 +7,12 @@ ref: buy
 permalink: /es/buy/
 ---
 
-<h2>Comprar <em>Guía del programador de Scratch avanzado</em></h2>
+<h2>Tramitar pedido</h2>
+
+<div style="margin-bottom: 20px;"></div>
 
 <p>
-Seleccione la edición:
+Edición:
 </p>
 
 <div id="productsContainer">
@@ -23,45 +25,9 @@ Seleccione la edición:
 
 <div id="customerData">
 
-    <h3>Datos de contacto</h3>
-
     <p>
-        <label>
-            Nombre *<br>
-            <input type="text"
-                   id="firstName"
-                   style="width:350px;padding:8px;">
-        </label>
+    Zona de envío:
     </p>
-
-    <p>
-        <label>
-            Apellidos *<br>
-            <input type="text"
-                   id="lastName"
-                   style="width:350px;padding:8px;">
-        </label>
-    </p>
-
-    <p>
-        <label>
-            Correo electrónico *<br>
-            <input type="email"
-                   id="email"
-                   style="width:350px;padding:8px;">
-        </label>
-    </p>
-
-    <p>
-        <label>
-            Teléfono<br>
-            <input type="tel"
-                   id="phone"
-                   style="width:350px;padding:8px;">
-        </label>
-    </p>
-
-    <h3>Envío</h3>
 
     <p>
 
@@ -86,6 +52,8 @@ Seleccione la edición:
 
 </div>
 
+<div id="zone-group">
+
 <p>
 
 <label>
@@ -107,6 +75,8 @@ Cargando zonas...
 
 </p>
 
+</div>
+
 <hr style="margin:40px 0;">
 
 <div id="summary">
@@ -121,3 +91,12 @@ Cargando zonas...
 <script src="https://www.paypal.com/sdk/js?client-id=AfFQEdbuA6LCS8EVm5GJ8e-39P5LFMml4yVeqGZJKYeUpEmqBvWEsvQHVkklXd7Qxs0xQ5A28uCInFmS&currency=EUR"></script>
 
 <script src="{{ '/assets/js/buy.js' | relative_url }}"></script>
+
+<p style="margin-top:40px;font-size:90%;color:#666;line-height:1.5;">
+¿Necesita realizar un pedido de varios ejemplares o tiene alguna consulta sobre la compra, el envío o la factura?
+<br>
+Puede ponerse en contacto con nosotros en
+<a href="mailto:pedidos@recursivaediciones.com">
+pedidos@recursivaediciones.com
+</a>.
+</p>
