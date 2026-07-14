@@ -69,7 +69,7 @@ ref: book
   <li>Guía paso a paso para portar <em>Fred</em> a Scratch preservando al 100 % la experiencia del título original.</li>
   <li>Más de <strong>750 páginas</strong>, con cientos de figuras y decenas de diagramas que explican en detalle su funcionamiento.</li>
   <li>La sintaxis de Scratch, muy próxima al pseudocódigo, permite seguir el código con facilidad incluso a lectores con poca experiencia en programación.</li>
-  <li>Un apéndice narra la historia de su desarrollo y comercialización, repasa las críticas aparecidas en las revistas especializadas e incorpora más de <strong>160 referencias</strong> procedentes de revistas, libros, blogs y podcasts.</li>
+  <li>Un apéndice narra la historia del desarrollo y comercialización de <i>Fred</i>, repasa las críticas aparecidas en las revistas especializadas e incorpora más de <strong>160 referencias</strong> procedentes de revistas, libros, blogs y podcasts.</li>
   <li>Incluye una relación de los remakes y ports publicados hasta la fecha.</li>
   <li>Código, ilustraciones y diagramas en inglés.</li>
 </ul>
