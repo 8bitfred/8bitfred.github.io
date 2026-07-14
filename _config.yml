@@ -30,7 +30,8 @@ github_username:  migcat22
 theme: just-the-docs
 plugins:
   - jekyll-feed
-
+  - jekyll-sitemap
+  
 collections:
   en:
     output: true
