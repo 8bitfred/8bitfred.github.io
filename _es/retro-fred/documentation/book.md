@@ -64,11 +64,15 @@ ref: book
 
 <h2 id="global">Guía del programador de Scratch avanzado</h2>
 
-Una guía paso a paso para portar Fred a Scratch preservando al 100% la experiencia del título original, con 750 páginas, cientos de figuras y decenas de diagramas que explican en detalle su funcionamiento. Gracias a que la sintaxis de Scratch es muy próxima al pseudocódigo, incluso los lectores con poca experiencia en programación pueden seguir el código con facilidad.
-
-Uno de los tres apéndices incluidos narra la historia de su desarrollo y comercialización; también repasa las críticas aparecidas en las revistas especializadas, todo ello incorporando más de 160 referencias procedentes de revistas, libros, blogs y podcasts; finalmente, relaciona los remakes y ports publicados a lo largo de los años.
-
-Código, ilustraciones y diagramas en inglés.
+<ul>
+  <li>Aprende y aplica técnicas de programación avanzadas en Scratch programando un videojuego clásico.</li>
+  <li>Guía paso a paso para portar <em>Fred</em> a Scratch preservando al 100 % la experiencia del título original.</li>
+  <li>Más de <strong>750 páginas</strong>, con cientos de figuras y decenas de diagramas que explican en detalle su funcionamiento.</li>
+  <li>La sintaxis de Scratch, muy próxima al pseudocódigo, permite seguir el código con facilidad incluso a lectores con poca experiencia en programación.</li>
+  <li>Un apéndice narra la historia de su desarrollo y comercialización, repasa las críticas aparecidas en las revistas especializadas e incorpora más de <strong>160 referencias</strong> procedentes de revistas, libros, blogs y podcasts.</li>
+  <li>Incluye una relación de los remakes y ports publicados hasta la fecha.</li>
+  <li>Código, ilustraciones y diagramas en inglés.</li>
+</ul>
 
 ---
 
