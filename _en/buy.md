@@ -7,156 +7,100 @@ ref: buy
 permalink: /en/buy/
 ---
 
-<h2>Buy <em>Guía del programador de Scratch avanzado</em></h2>
+<div id="checkout">
+
+<h2>Checkout</h2>
+
+<div style="margin-bottom: 20px;"></div>
 
 <p>
-Select shipping region:
+Edition:
 </p>
 
-<div style="margin-top:30px;">
+<div id="productsContainer">
 
-<select id="shipping"
-        onchange="updatePrice()"
-        style="
-          padding:10px;
-          font-size:18px;
-        ">
+    Loading products...
 
-  <option value="6">Spain (+6 €)</option>
-  <option value="15">Europe (+15 €)</option>
-  <option value="28">International (+28 €)</option>
+</div>
+
+<div id="customerData">
+
+    <p>
+    Shipping zone:
+    </p>
+
+    <p>
+
+    <label>
+
+    Country *<br>
+
+    <select id="country"
+            style="width:370px;padding:8px;">
+
+    <option>
+
+    Loading countries...
+
+    </option>
+
+    </select>
+
+    </label>
+
+    </p>
+
+</div>
+
+<div id="zone-group">
+
+<p>
+
+<label>
+
+Zone *<br>
+
+<select id="zone"
+        style="width:370px;padding:8px;">
+
+<option>
+
+Loading zones...
+
+</option>
 
 </select>
 
-</div>
+</label>
 
-<div id="summary"
-     style="
-       margin-top:30px;
-       font-size:17px;
-       line-height:1.7;
-       max-width:320px;
-     ">
-</div>
-
-<div style="margin-top:30px;">
-
-<a id="paypalButton"
-   href="https://paypal.me/retrofredproject/51EUR"
-   target="_blank"
-   onclick="gtag('event', 'click_paypal');"
-   style="
-      display:inline-block;
-      width:190px;
-      text-align:center;
-      background:#0070ba;
-      color:white;
-      padding:16px 34px;
-      border-radius:10px;
-      text-decoration:none;
-      font-size:22px;
-      font-weight:bold;
-   ">
-
-💳 PayPal
-
-</a>
+</p>
 
 </div>
 
-<div style="margin-top:20px;">
+<hr style="margin:40px 0;">
 
-<a href="https://www.amazon.es/dp/TUASIN"
-   target="_blank"
-   onclick="gtag('event', 'click_amazon');"
-   style="
-      display:inline-block;
-      width:190px;
-      text-align:center;
-      background:#ff9900;
-      color:black;
-      padding:16px 34px;
-      border-radius:10px;
-      text-decoration:none;
-      font-size:22px;
-      font-weight:bold;
-   ">
-
-🛒 Amazon
-
-</a>
+<div id="summary">
 
 </div>
 
-<script>
+<div
+    id="paypal-button-container"
+    style="margin-top:30px;">
+</div>
 
-function updatePrice() {
+<script src="https://www.paypal.com/sdk/js?client-id=AfFQEdbuA6LCS8EVm5GJ8e-39P5LFMml4yVeqGZJKYeUpEmqBvWEsvQHVkklXd7Qxs0xQ5A28uCInFmS&currency=EUR&locale=en_GB"></script>
 
-  const bookBase = 43;
+<script src="{{ '/assets/js/buy.js' | relative_url }}"></script>
 
-  const shippingBase =
-    parseFloat(
-      document.getElementById("shipping").value
-    );
-
-  const bookVAT =
-    bookBase * 0.04;
-
-  const shippingVAT =
-    shippingBase * 0.21;
-
-  const total =
-    bookBase +
-    bookVAT +
-    shippingBase +
-    shippingVAT;
-
-  document.getElementById("summary").innerHTML =
-
-    "Book price: " +
-    bookBase.toFixed(2) +
-    " €<br>" +
-
-    "VAT on book (4%): " +
-    bookVAT.toFixed(2) +
-    " €<br><br>" +
-
-    "Shipping: " +
-    shippingBase.toFixed(2) +
-    " €<br>" +
-
-    "VAT on shipping (21%): " +
-    shippingVAT.toFixed(2) +
-    " €<br><br>" +
-
-    "<b>Total: " +
-    total.toFixed(2) +
-    " €</b>";
-
-  document.getElementById("paypalButton").href =
-
-    "https://paypal.me/retrofredproject/" +
-    total.toFixed(2) +
-    "EUR";
-}
-
-updatePrice();
-
-</script>
-
-<div style="
-  margin-top:35px;
-  font-size:18px;
-  line-height:1.6;
-">
-
-If you have any questions about payment or shipping,
-feel free to contact me at:
-
-<br><br>
-<a href="mailto:alfredo@8bitfred.com">
-alfredo@8bitfred.com
-</a>
+<p style="margin-top:40px;font-size:90%;color:#666;line-height:1.5;">
+Do you need to order multiple copies or do you have any questions about your purchase, shipping or invoice?
+<br>
+Please contact us at
+<a href="mailto:pedidos@recursivaediciones.com">
+pedidos@recursivaediciones.com
+</a>.
+</p>
 
 </div>
 
+<div id="order-result" style="margin-top:30px;"></div>

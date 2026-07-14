@@ -13,28 +13,54 @@ ref: book
   <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Portada">
 </p>
 
-<div style="text-align:center; margin-top:40px;">
 
-<!-- <a href="/es/buy/" -->
-<a href="#"
-   style="
-      display:inline-block;
-      background:linear-gradient(90deg,#ff6600,#ff9900);
-      color:white;
-      padding:16px 34px;
-      border-radius:10px;
-      text-decoration:none;
-      font-size:22px;
-      font-weight:bold;
-      letter-spacing:0.5px;
-      box-shadow:0 4px 14px rgba(0,0,0,0.35);
-   ">
+<div style="text-align:center; margin-bottom:20px;">
+    <span style="color:#666; font-size:18px; font-style:italic;">
+        Próximamente
+    </span>
+</div>
 
-🛒 Disponible próximamente
+<div style="text-align:center;">
+<!-- href="{{ '/es/buy/' | relative_url }}" -->
+<!-- onclick="alert('Disponible próximamente'); return false;" -->
+  <a
+     onclick="return false;"
+     style="
+        display:inline-block;
+        width:200px;
+        background:linear-gradient(90deg,#0070ba,#009cde);
+        color:white;
+        padding:16px 34px;
+        border-radius:10px;
+        text-decoration:none;
+        font-size:22px;
+        font-weight:bold;
+        box-shadow:0 4px 14px rgba(0,0,0,0.35);
+        margin-right:20px;
+     ">
+    💳 PayPal
+  </a>
 
-</a>
+<!-- href="https://www.amazon.es/dp/TU_ASIN" -->
+  <a
+     onclick="return false;"
+     style="
+        display:inline-block;
+        width:200px;
+        background:#ff9900;
+        color:black;
+        padding:16px 34px;
+        border-radius:10px;
+        text-decoration:none;
+        font-size:22px;
+        font-weight:bold;
+        box-shadow:0 4px 14px rgba(0,0,0,0.35);
+     ">
+    🛒 Amazon
+  </a>
 
 </div>
+
 
 <h2 id="global">Guía del programador de Scratch avanzado</h2>
 
@@ -80,3 +106,4 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
 <a href="{{ '/assets/pdf/Sample_5.pdf' | relative_url }}">
   Muestra 5
 </a>
+

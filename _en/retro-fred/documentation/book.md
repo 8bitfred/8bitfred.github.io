@@ -13,26 +13,50 @@ ref: book
   <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Portada">
 </p>
 
-<div style="text-align:center; margin-top:40px;">
+<div style="text-align:center; margin-bottom:20px;">
+    <span style="color:#666; font-size:18px; font-style:italic;">
+        Available soon
+    </span>
+</div>
 
-<!-- <a href="/en/buy/" -->
-<a href="#"
-   style="
-      display:inline-block;
-      background:linear-gradient(90deg,#ff6600,#ff9900);
-      color:white;
-      padding:16px 34px;
-      border-radius:10px;
-      text-decoration:none;
-      font-size:22px;
-      font-weight:bold;
-      letter-spacing:0.5px;
-      box-shadow:0 4px 14px rgba(0,0,0,0.35);
-   ">
+<div style="text-align:center;">
+<!-- href="{{ '/es/buy/' | relative_url }}" -->
+<!-- onclick="alert('Disponible próximamente'); return false;" -->
+  <a
+     onclick="return false;"
+     style="
+        display:inline-block;
+        width:200px;
+        background:linear-gradient(90deg,#0070ba,#009cde);
+        color:white;
+        padding:16px 34px;
+        border-radius:10px;
+        text-decoration:none;
+        font-size:22px;
+        font-weight:bold;
+        box-shadow:0 4px 14px rgba(0,0,0,0.35);
+        margin-right:20px;
+     ">
+    💳 PayPal
+  </a>
 
-🛒 Available Soon
-
-</a>
+<!-- href="https://www.amazon.es/dp/TU_ASIN" -->
+  <a
+     onclick="return false;"
+     style="
+        display:inline-block;
+        width:200px;
+        background:#ff9900;
+        color:black;
+        padding:16px 34px;
+        border-radius:10px;
+        text-decoration:none;
+        font-size:22px;
+        font-weight:bold;
+        box-shadow:0 4px 14px rgba(0,0,0,0.35);
+     ">
+    🛒 Amazon
+  </a>
 
 </div>
 

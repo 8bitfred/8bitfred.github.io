@@ -7,154 +7,102 @@ ref: buy
 permalink: /es/buy/
 ---
 
-<h2>Comprar <em>Guía del programador de Scratch avanzado</em></h2>
+<div id="checkout">
+
+<h2>Tramitar pedido</h2>
+
+<div style="margin-bottom: 20px;"></div>
 
 <p>
-Seleccione la zona de envío:
+Edición:
 </p>
 
-<div style="margin-top:30px;">
+<div id="productsContainer">
 
-<select id="shipping"
-        onchange="updatePrice()"
-        style="
-          padding:10px;
-          font-size:18px;
-        ">
+    Cargando productos...
 
-  <option value="6">España (+6 €)</option>
-  <option value="15">Europa (+15 €)</option>
-  <option value="28">Internacional (+28 €)</option>
+</div>
+
+<hr style="margin:40px 0;">
+
+<div id="customerData">
+
+    <p>
+    Zona de envío:
+    </p>
+
+    <p>
+
+    <label>
+
+    País *<br>
+
+    <select id="country"
+            style="width:370px;padding:8px;">
+
+    <option>
+
+    Cargando países...
+
+    </option>
+
+    </select>
+
+    </label>
+
+    </p>
+
+</div>
+
+<div id="zone-group">
+
+<p>
+
+<label>
+
+Zona *<br>
+
+<select id="zone"
+        style="width:370px;padding:8px;">
+
+<option>
+
+Cargando zonas...
+
+</option>
 
 </select>
 
-</div>
+</label>
 
-<div id="summary"
-     style="
-       margin-top:30px;
-       font-size:17px;
-       line-height:1.7;
-       max-width:320px;
-     ">
-</div>
-
-<div style="margin-top:30px;">
-
-<a id="paypalButton"
-   href="https://paypal.me/retrofredproject/51EUR"
-   target="_blank"
-   onclick="gtag('event', 'click_paypal');"
-   style="
-      display:inline-block;
-      width:190px;
-      text-align:center;
-      background:#0070ba;
-      color:white;
-      padding:16px 34px;
-      border-radius:10px;
-      text-decoration:none;
-      font-size:22px;
-      font-weight:bold;
-   ">
-
-💳 PayPal
-
-</a>
+</p>
 
 </div>
 
-<div style="margin-top:20px;">
+<hr style="margin:40px 0;">
 
-<a href="https://www.amazon.es/dp/TUASIN"
-   target="_blank"
-   onclick="gtag('event', 'click_amazon');"
-   style="
-      display:inline-block;
-      width:190px;
-      text-align:center;
-      background:#ff9900;
-      color:black;
-      padding:16px 34px;
-      border-radius:10px;
-      text-decoration:none;
-      font-size:22px;
-      font-weight:bold;
-   ">
-
-🛒 Amazon
-
-</a>
+<div id="summary">
 
 </div>
 
-<script>
+<div
+    id="paypal-button-container"
+    style="margin-top:30px;">
+</div>
 
-function updatePrice() {
+<script src="https://www.paypal.com/sdk/js?client-id=AfFQEdbuA6LCS8EVm5GJ8e-39P5LFMml4yVeqGZJKYeUpEmqBvWEsvQHVkklXd7Qxs0xQ5A28uCInFmS&currency=EUR&locale=es_ES"></script>
 
-  const bookBase = 43;
+<script src="{{ '/assets/js/buy.js' | relative_url }}"></script>
 
-  const shippingBase =
-    parseFloat(
-      document.getElementById("shipping").value
-    );
-
-  const bookVAT =
-    bookBase * 0.04;
-
-  const shippingVAT =
-    shippingBase * 0.21;
-
-  const total =
-    bookBase +
-    bookVAT +
-    shippingBase +
-    shippingVAT;
-
-  document.getElementById("summary").innerHTML =
-
-    "Precio del libro: " +
-    bookBase.toFixed(2) +
-    " €<br>" +
-
-    "IVA libro (4%): " +
-    bookVAT.toFixed(2) +
-    " €<br><br>" +
-
-    "Transporte: " +
-    shippingBase.toFixed(2) +
-    " €<br>" +
-
-    "IVA del transporte (21%): " +
-    shippingVAT.toFixed(2) +
-    " €<br><br>" +
-
-    "<b>Total: " +
-    total.toFixed(2) +
-    " €</b>";
-
-  document.getElementById("paypalButton").href =
-
-    "https://paypal.me/retrofredproject/" +
-    total.toFixed(2) +
-    "EUR";
-}
-
-updatePrice();
-
-</script>
-
-<div style="
-  margin-top:35px;
-  font-size:18px;
-  line-height:1.6;
-">
-
-Si tienes dudas sobre el pago o el envío puedes contactar aquí:
-
-<br><br>
-<a href="mailto:alfredo@8bitfred.com">
-alfredo@8bitfred.com
-</a>
+<p style="margin-top:40px;font-size:90%;color:#666;line-height:1.5;">
+¿Necesita realizar un pedido de varios ejemplares o tiene alguna consulta sobre la compra, el envío o la factura?
+<br>
+Puede ponerse en contacto con nosotros en
+<a href="mailto:pedidos@recursivaediciones.com">
+pedidos@recursivaediciones.com
+</a>.
+</p>
 
 </div>
+
+<div id="order-result" style="margin-top:30px;"></div>
