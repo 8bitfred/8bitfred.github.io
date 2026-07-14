@@ -105,7 +105,7 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
 <a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
   Sample 5
 </a>
-<a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
+<a href="{{ '/assets/pdf/6.Sample.pdf' | relative_url }}">
   Sample 6
 </a>
 
