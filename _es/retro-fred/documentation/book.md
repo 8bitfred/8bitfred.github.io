@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Libro
+title: Guía del programador de Scratch avanzado
+description: Libro para aprender programación avanzada en Scratch desarrollando un videojuego clásico
 parent: Documentación
 grand_parent: Proyecto Retro-Fred
 nav_order: 1
@@ -10,7 +11,7 @@ ref: book
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Portada">
+  <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Portada del libro Guía del programador de Scratch avanzado">
 </p>
 
 
@@ -62,7 +63,7 @@ ref: book
 </div>
 
 
-<h2 id="global">Guía del programador de Scratch avanzado</h2>
+<h1 id="global">Guía del programador de Scratch avanzado</h1>
 
 <ul>
   <li>Aprende y aplica técnicas de programación avanzadas en Scratch programando un videojuego clásico.</li>
@@ -87,29 +88,49 @@ El libro está dirigido a programadores de Scratch con experiencia previa que de
 Si quieres aprender a diseñar y construir videojuegos con una metodología sistemática, este libro te guiará paso a paso.
 
 <a href="{{ '/assets/pdf/0.Contents.pdf' | relative_url }}">
-  Índice de contenidos
+  Índice de contenidos (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/1.Sample.pdf' | relative_url }}">
-  Muestra 1
+  Capítulo de muestra 1 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/2.Sample.pdf' | relative_url }}">
-  Muestra 2
+  Capítulo de muestra 2 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/3.Sample.pdf' | relative_url }}">
-  Muestra 3
+  Capítulo de muestra 3 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/4.Sample.pdf' | relative_url }}">
-  Muestra 4
+  Capítulo de muestra 4 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
-  Muestra 5
+  Capítulo de muestra 5 (PDF)
 </a>
 <a href="{{ '/assets/pdf/6.Sample.pdf' | relative_url }}">
-  Muestra 6
+  Capítulo de muestra 6 (PDF)
 </a>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Guía del programador de Scratch avanzado",
+  "author": {
+    "@type": "Person",
+    "name": "..."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Recursiva Ediciones"
+  },
+  "isbn": "979-13-88198-33-5",
+  "description": "Libro para aprender programación avanzada en Scratch desarrollando un videojuego clásico.",
+  "image": "https://8bitfred.com/assets/images/book/MOCKUP_1.jpg",
+  "url": "https://8bitfred.com/es/book/",
+  "inLanguage": "es"
+}
+</script>

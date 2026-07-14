@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Book
+title: Guía del programador de Scratch avanzado
+description: Book for learning advanced Scratch programming by developing a classic video game
 parent: Documentation
 grand_parent: Retro-Fred Project
 nav_order: 1
@@ -10,7 +11,7 @@ ref: book
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Portada">
+  <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Cover of the book Guía del programador de Scratch avanzado">
 </p>
 
 <div style="text-align:center; margin-bottom:20px;">
@@ -60,7 +61,7 @@ ref: book
 
 </div>
 
-<h2 id="global">Guía del programador de Scratch avanzado</h2>
+<h1 id="global">Guía del programador de Scratch avanzado</h1>
 
 <ul>
   <li>Learn and apply advanced Scratch programming techniques by developing a classic video game.</li>
@@ -85,28 +86,49 @@ This book is intended for Scratch programmers with prior experience who wish to 
 If you want to learn how to design and build video games using a systematic methodology, this book will guide you step by step.
 
 <a href="{{ '/assets/pdf/0.Contents.pdf' | relative_url }}">
-  Table of Contents
+  Table of Contents (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/1.Sample.pdf' | relative_url }}">
-  Sample 1
+<a href="{{ '/assets/pdf/1.Sample chapter.pdf' | relative_url }}">
+  Sample chapter 1 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/2.Sample.pdf' | relative_url }}">
-  Sample 2
+<a href="{{ '/assets/pdf/2.Sample chapter.pdf' | relative_url }}">
+  Sample chapter 2 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/3.Sample.pdf' | relative_url }}">
-  Sample 3
+<a href="{{ '/assets/pdf/3.Sample chapter.pdf' | relative_url }}">
+  Sample chapter 3 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/4.Sample.pdf' | relative_url }}">
-  Sample 4
+<a href="{{ '/assets/pdf/4.Sample chapter.pdf' | relative_url }}">
+  Sample chapter 4 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
-  Sample 5
+<a href="{{ '/assets/pdf/5.Sample chapter.pdf' | relative_url }}">
+  Sample chapter 5 (PDF)
 </a>
-<a href="{{ '/assets/pdf/6.Sample.pdf' | relative_url }}">
-  Sample 6
+<a href="{{ '/assets/pdf/6.Sample chapter.pdf' | relative_url }}">
+  Sample chapter 6 (PDF)
 </a>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Guía del programador de Scratch avanzado",
+  "author": {
+    "@type": "Person",
+    "name": "..."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Recursiva Ediciones"
+  },
+  "isbn": "979-13-88198-33-5",
+  "description": "Libro para aprender programación avanzada en Scratch desarrollando un videojuego clásico.",
+  "image": "https://8bitfred.com/assets/images/book/MOCKUP_1.jpg",
+  "url": "https://8bitfred.com/es/book/",
+  "inLanguage": "es"
+}
+</script>
