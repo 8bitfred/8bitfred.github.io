@@ -13,13 +13,17 @@ ref: book
   <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Portada">
 </p>
 
-<div style="text-align:center; margin-top:40px;">
+<div style="text-align:center; margin-bottom:20px;">
+    <span style="color:#666; font-size:18px; font-style:italic;">
+        Available soon
+    </span>
+</div>
 
-
-<!-- href="{{ '/en/buy/' | relative_url }}" -->
-<!-- onclick="alert('Available soon'); return false;" -->
-  <a       
-     onclick="alert('Available soon'); return false;"
+<div style="text-align:center;">
+<!-- href="{{ '/es/buy/' | relative_url }}" -->
+<!-- onclick="alert('Disponible próximamente'); return false;" -->
+  <a
+     onclick="return false;"
      style="
         display:inline-block;
         width:200px;
@@ -31,19 +35,14 @@ ref: book
         font-size:22px;
         font-weight:bold;
         box-shadow:0 4px 14px rgba(0,0,0,0.35);
+        margin-right:20px;
      ">
-
     💳 PayPal
-
   </a>
 
-  <br><br>
-
 <!-- href="https://www.amazon.es/dp/TU_ASIN" -->
-  <a 
-     onclick="alert('Available soon'); return false;"
-     target="_blank"
-     rel="noopener noreferrer"
+  <a
+     onclick="return false;"
      style="
         display:inline-block;
         width:200px;
@@ -56,9 +55,7 @@ ref: book
         font-weight:bold;
         box-shadow:0 4px 14px rgba(0,0,0,0.35);
      ">
-
     🛒 Amazon
-
   </a>
 
 </div>
