@@ -87,29 +87,29 @@ El libro está dirigido a programadores de Scratch con experiencia previa que de
 Si quieres aprender a diseñar y construir videojuegos con una metodología sistemática, este libro te guiará paso a paso.
 
 <a href="{{ '/assets/pdf/0.Contents.pdf' | relative_url }}">
-  Table of Contents
+  Índice de contenidos
 </a>
 
 <a href="{{ '/assets/pdf/1.Sample.pdf' | relative_url }}">
-  Sample 1
+  Muestra 1
 </a>
 
 <a href="{{ '/assets/pdf/2.Sample.pdf' | relative_url }}">
-  Sample 2
+  Muestra 2
 </a>
 
 <a href="{{ '/assets/pdf/3.Sample.pdf' | relative_url }}">
-  Sample 3
+  Muestra 3
 </a>
 
 <a href="{{ '/assets/pdf/4.Sample.pdf' | relative_url }}">
-  Sample 4
+  Muestra 4
 </a>
 
 <a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
-  Sample 5
+  Muestra 5
 </a>
 <a href="{{ '/assets/pdf/6.Sample.pdf' | relative_url }}">
-  Sample 6
+  Muestra 6
 </a>
 
