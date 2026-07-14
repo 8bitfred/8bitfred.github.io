@@ -103,6 +103,6 @@ If you want to learn how to design and build video games using a systematic meth
 <a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
   Sample 5
 </a>
-<a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
+<a href="{{ '/assets/pdf/6.Sample.pdf' | relative_url }}">
   Sample 6
 </a>
