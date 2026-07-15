@@ -3,6 +3,7 @@ layout: page
 title: Guía del programador de Scratch avanzado
 description: Book for learning advanced Scratch programming by developing a classic video game
 og_image: /assets/images/book/MOCKUP_1.jpg
+og_type: book
 parent: Documentation
 grand_parent: Retro-Fred Project
 nav_order: 1
