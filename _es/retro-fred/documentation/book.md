@@ -21,42 +21,53 @@ ref: book
     </span>
 </div>
 
-<div style="text-align:center;">
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:20px;
+">
 <!-- href="{{ '/es/buy/' | relative_url }}" -->
-<!-- onclick="alert('Disponible próximamente'); return false;" -->
+<!-- onclick="return false;" -->
   <a
      onclick="return false;"
      style="
-        display:inline-block;
-        width:200px;
-        background:linear-gradient(90deg,#0070ba,#009cde);
-        color:white;
-        padding:16px 34px;
-        border-radius:10px;
-        text-decoration:none;
-        font-size:22px;
-        font-weight:bold;
-        box-shadow:0 4px 14px rgba(0,0,0,0.35);
-        margin-right:20px;
-     ">
-    💳 PayPal
-  </a>
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      width:200px;
+      padding:16px 34px;
+      background:linear-gradient(90deg,#0070ba,#009cde);
+      color:white;
+      border-radius:10px;
+      text-decoration:none;
+      font-size:22px;
+      font-weight:bold;
+      box-shadow:0 4px 14px rgba(0,0,0,0.35);
+      box-sizing:border-box;
+   ">
+  💳 PayPal
+</a>
 
 <!-- href="https://www.amazon.es/dp/TU_ASIN" -->
   <a
      onclick="return false;"
-     style="
-        display:inline-block;
-        width:200px;
-        background:#ff9900;
-        color:black;
-        padding:16px 34px;
-        border-radius:10px;
-        text-decoration:none;
-        font-size:22px;
-        font-weight:bold;
-        box-shadow:0 4px 14px rgba(0,0,0,0.35);
-     ">
+      style="
+          display:flex;
+          justify-content:center;
+          align-items:center;
+          width:200px;
+          padding:16px 34px;
+          background:#ff9900;
+          color:black;
+          border-radius:10px;
+          text-decoration:none;
+          font-size:22px;
+          font-weight:bold;
+          box-shadow:0 4px 14px rgba(0,0,0,0.35);
+          box-sizing:border-box;
+      ">
     🛒 Amazon
   </a>
 
