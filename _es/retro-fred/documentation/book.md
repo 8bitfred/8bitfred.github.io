@@ -92,26 +92,27 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
 </a>
 
 <a href="{{ '/assets/pdf/1.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 1 (PDF)
+  Muestra nº 1 de capítulo (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/2.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 2 (PDF)
+  Muestra nº 2 de capítulo (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/3.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 3 (PDF)
+  Muestra nº 3 de capítulo (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/4.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 4 (PDF)
+  Muestra nº 4 de capítulo (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 5 (PDF)
+  Muestra nº 5 de capítulo (PDF)
+
 </a>
 <a href="{{ '/assets/pdf/6.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 6 (PDF)
+  Muestra nº 6 de capítulo (PDF)
 </a>
 
 <script type="application/ld+json">
