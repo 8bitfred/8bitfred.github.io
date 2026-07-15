@@ -69,6 +69,7 @@ ref: book
       ">
     🛒 Amazon
   </a>
+</div>
 
 <h1 id="global">Guía del programador de Scratch avanzado</h1>
 
