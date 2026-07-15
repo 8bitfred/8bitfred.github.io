@@ -99,27 +99,27 @@ If you want to learn how to design and build video games using a systematic meth
 </a>
 
 <a href="{{ '/assets/pdf/1.Sample.pdf' | relative_url }}">
-  Chapter sample no. 1 (PDF)
+  Sample #1 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/2.Sample.pdf' | relative_url }}">
-  Chapter sample no. 2 (PDF)
+  Sample #2 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/3.Sample.pdf' | relative_url }}">
-  Chapter sample no. 3 (PDF)
+  Sample #3 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/4.Sample.pdf' | relative_url }}">
-  Chapter sample no. 4 (PDF)
+  Sample #4 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
-  Chapter sample no. 5 (PDF)
+  Sample #5 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/6.Sample.pdf' | relative_url }}">
-  Chapter sample no. 6 (PDF)
+  Sample #6 (PDF)
 </a>
 
 <script type="application/ld+json">
