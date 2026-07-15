@@ -2,6 +2,7 @@
 layout: page
 title: Guía del programador de Scratch avanzado
 description: Libro para aprender programación avanzada en Scratch desarrollando un videojuego clásico
+og_image: /assets/images/book/MOCKUP_1.jpg
 parent: Documentación
 grand_parent: Proyecto Retro-Fred
 nav_order: 1
@@ -9,19 +10,6 @@ has_toc: false
 lang: es
 ref: book
 ---
-
-<meta property="og:title" content="Guía del programador de Scratch avanzado">
-
-<meta property="og:description"
-      content="Aprende y aplica técnicas de programación avanzadas en Scratch programando un videojuego clásico">
-
-<meta property="og:image"
-      content="https://8bitfred.com/assets/images/book/MOCKUP_1.jpg">
-
-<meta property="og:url"
-      content="https://8bitfred.com/es/retro-fred/documentation/book/">
-
-<meta property="og:type" content="book">
 
 <p align="center">
   <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Portada del libro Guía del programador de Scratch avanzado">
