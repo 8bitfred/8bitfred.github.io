@@ -89,27 +89,27 @@ If you want to learn how to design and build video games using a systematic meth
   Table of Contents (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/1.Sample chapter.pdf' | relative_url }}">
+<a href="{{ '/assets/pdf/1.Sample.pdf' | relative_url }}">
   Chapter sample no. 1 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/2.Sample chapter.pdf' | relative_url }}">
+<a href="{{ '/assets/pdf/2.Sample.pdf' | relative_url }}">
   Chapter sample no. 2 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/3.Sample chapter.pdf' | relative_url }}">
+<a href="{{ '/assets/pdf/3.Sample.pdf' | relative_url }}">
   Chapter sample no. 3 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/4.Sample chapter.pdf' | relative_url }}">
+<a href="{{ '/assets/pdf/4.Sample.pdf' | relative_url }}">
   Chapter sample no. 4 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/5.Sample chapter.pdf' | relative_url }}">
+<a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
   Chapter sample no. 5 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/6.Sample chapter.pdf' | relative_url }}">
+<a href="{{ '/assets/pdf/6.Sample.pdf' | relative_url }}">
   Chapter sample no. 6 (PDF)
 </a>
 
