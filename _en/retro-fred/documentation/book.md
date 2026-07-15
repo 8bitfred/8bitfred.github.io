@@ -10,6 +10,19 @@ lang: en
 ref: book
 ---
 
+<meta property="og:title" content="Guía del programador de Scratch avanzado">
+
+<meta property="og:description"
+      content="Learn advanced Scratch programming by developing a classic video game.">
+
+<meta property="og:image"
+      content="https://8bitfred.com/assets/images/book/MOCKUP_1.jpg">
+
+<meta property="og:url"
+      content="https://8bitfred.com/en/retro-fred/documentation/book/">
+
+<meta property="og:type" content="book">
+
 <p align="center">
   <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Cover of the book Guía del programador de Scratch avanzado">
 </p>
