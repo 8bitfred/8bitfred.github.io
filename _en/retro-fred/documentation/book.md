@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guía del programador de Scratch avanzado
-description: Book for learning advanced Scratch programming by developing a classic video game
+description: Learn advanced Scratch programming by developing a classic video game
 og_image: /assets/images/book/MOCKUP_1_small.jpg
 og_type: book
 parent: Documentation
