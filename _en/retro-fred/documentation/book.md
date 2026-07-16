@@ -2,7 +2,7 @@
 layout: page
 title: Guía del programador de Scratch avanzado
 description: Book for learning advanced Scratch programming by developing a classic video game
-og_image: /assets/images/book/MOCKUP_1.jpg
+og_image: /assets/images/book/MOCKUP_1_small.jpg
 og_type: book
 parent: Documentation
 grand_parent: Retro-Fred Project
@@ -140,8 +140,8 @@ If you want to learn how to design and build video games using a systematic meth
   },
   "isbn": "979-13-88198-33-5",
   "description": "Libro para aprender programación avanzada en Scratch desarrollando un videojuego clásico.",
-  "image": "https://8bitfred.com/assets/images/book/MOCKUP_1.jpg",
-  "url": "https://8bitfred.com/es/book/",
-  "inLanguage": "es"
+  "image": "https://www.8bitfred.com/assets/images/book/MOCKUP_1.jpg",
+  "url": "https://www.8bitfred.com/es/book/",
+  "inLanguage": "en"
 }
 </script>
