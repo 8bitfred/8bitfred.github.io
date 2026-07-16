@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guía del programador de Scratch avanzado
-description: Aprende programación avanzada en Scratch desarrollando un videojuego clásico
+description: Aprende programación avanzada en Scratch desarrollando un videojuego clásico paso a paso
 og_image: /assets/images/book/MOCKUP_1_small.jpg
 og_type: book
 parent: Documentación
@@ -133,18 +133,19 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
   "@context": "https://schema.org",
   "@type": "Book",
   "name": "Guía del programador de Scratch avanzado",
+  "alternateName": "Advanced Scratch Programming Guide",
   "author": {
     "@type": "Person",
-    "name": "..."
+    "name": "Alfredo Catalina"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Recursiva Ediciones"
   },
   "isbn": "979-13-88198-33-5",
-  "description": "Libro para aprender programación avanzada en Scratch desarrollando un videojuego clásico.",
-  "image": "https://8bitfred.com/assets/images/book/MOCKUP_1.jpg",
-  "url": "https://8bitfred.com/es/book/",
+  "description": "Aprende programación avanzada en Scratch desarrollando un videojuego clásico paso a paso",
+  "image": "https://www.8bitfred.com/assets/images/book/MOCKUP_1_small.jpg",
+  "url": "https://www.8bitfred.com/es/book/",
   "inLanguage": "es"
 }
 </script>
