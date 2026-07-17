@@ -19,7 +19,6 @@ permalink: /en/retro-fred/
   2021 -- 2026
 </p>
 
-*Retro-Fred* aims to faithfully bring *Fred* to modern platforms through reverse engineering of the original Zilog Z80 code.
-
+The goal of the *Retro-Fred* project is to document and faithfully port the *Fred* video game to modern platforms by reverse engineering the original Zilog Z80 assembly code.
 
 

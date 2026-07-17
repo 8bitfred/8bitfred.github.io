@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Guía del programador de Scratch avanzado
-description: Book for learning advanced Scratch programming by developing a classic video game
+description: Learn advanced Scratch programming by developing a classic video game step by step
+og_image: /assets/images/book/MOCKUP_1_small.jpg
+og_type: book
 parent: Documentation
 grand_parent: Retro-Fred Project
 nav_order: 1
@@ -20,45 +22,55 @@ ref: book
     </span>
 </div>
 
-<div style="text-align:center;">
-<!-- href="{{ '/es/buy/' | relative_url }}" -->
-<!-- onclick="alert('Disponible próximamente'); return false;" -->
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:20px;
+">
+<!-- href="{{ '/en/buy/' | relative_url }}" -->
+<!-- onclick="return false;" -->
   <a
      onclick="return false;"
      style="
-        display:inline-block;
-        width:200px;
-        background:linear-gradient(90deg,#0070ba,#009cde);
-        color:white;
-        padding:16px 34px;
-        border-radius:10px;
-        text-decoration:none;
-        font-size:22px;
-        font-weight:bold;
-        box-shadow:0 4px 14px rgba(0,0,0,0.35);
-        margin-right:20px;
-     ">
-    💳 PayPal
-  </a>
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      width:200px;
+      padding:16px 34px;
+      background:linear-gradient(90deg,#0070ba,#009cde);
+      color:white;
+      border-radius:10px;
+      text-decoration:none;
+      font-size:22px;
+      font-weight:bold;
+      box-shadow:0 4px 14px rgba(0,0,0,0.35);
+      box-sizing:border-box;
+   ">
+  💳 PayPal
+</a>
 
 <!-- href="https://www.amazon.es/dp/TU_ASIN" -->
   <a
      onclick="return false;"
-     style="
-        display:inline-block;
-        width:200px;
-        background:#ff9900;
-        color:black;
-        padding:16px 34px;
-        border-radius:10px;
-        text-decoration:none;
-        font-size:22px;
-        font-weight:bold;
-        box-shadow:0 4px 14px rgba(0,0,0,0.35);
-     ">
+      style="
+          display:flex;
+          justify-content:center;
+          align-items:center;
+          width:200px;
+          padding:16px 34px;
+          background:#ff9900;
+          color:black;
+          border-radius:10px;
+          text-decoration:none;
+          font-size:22px;
+          font-weight:bold;
+          box-shadow:0 4px 14px rgba(0,0,0,0.35);
+          box-sizing:border-box;
+      ">
     🛒 Amazon
   </a>
-
 </div>
 
 <h1 id="global">Guía del programador de Scratch avanzado</h1>
@@ -89,27 +101,28 @@ If you want to learn how to design and build video games using a systematic meth
   Table of Contents (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/1.Sample chapter.pdf' | relative_url }}">
-  Sample chapter 1 (PDF)
+<a href="{{ '/assets/pdf/1.Sample.pdf' | relative_url }}">
+  Sample #1 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/2.Sample chapter.pdf' | relative_url }}">
-  Sample chapter 2 (PDF)
+<a href="{{ '/assets/pdf/2.Sample.pdf' | relative_url }}">
+  Sample #2 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/3.Sample chapter.pdf' | relative_url }}">
-  Sample chapter 3 (PDF)
+<a href="{{ '/assets/pdf/3.Sample.pdf' | relative_url }}">
+  Sample #3 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/4.Sample chapter.pdf' | relative_url }}">
-  Sample chapter 4 (PDF)
+<a href="{{ '/assets/pdf/4.Sample.pdf' | relative_url }}">
+  Sample #4 (PDF)
 </a>
 
-<a href="{{ '/assets/pdf/5.Sample chapter.pdf' | relative_url }}">
-  Sample chapter 5 (PDF)
+<a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
+  Sample #5 (PDF)
 </a>
-<a href="{{ '/assets/pdf/6.Sample chapter.pdf' | relative_url }}">
-  Sample chapter 6 (PDF)
+
+<a href="{{ '/assets/pdf/6.Sample.pdf' | relative_url }}">
+  Sample #6 (PDF)
 </a>
 
 <script type="application/ld+json">
@@ -117,18 +130,19 @@ If you want to learn how to design and build video games using a systematic meth
   "@context": "https://schema.org",
   "@type": "Book",
   "name": "Guía del programador de Scratch avanzado",
+  "alternateName": "Advanced Scratch Programming Guide",
   "author": {
     "@type": "Person",
-    "name": "..."
+    "name": "Alfredo Catalina"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Recursiva Ediciones"
   },
   "isbn": "979-13-88198-33-5",
-  "description": "Libro para aprender programación avanzada en Scratch desarrollando un videojuego clásico.",
-  "image": "https://8bitfred.com/assets/images/book/MOCKUP_1.jpg",
-  "url": "https://8bitfred.com/es/book/",
-  "inLanguage": "es"
+  "description": "Learn advanced Scratch programming by developing a classic video game step by step",
+  "image": "https://www.8bitfred.com/assets/images/book/MOCKUP_1_small.jpg",
+  "url": "https://www.8bitfred.com/en/book/",
+  "inLanguage": "en"
 }
 </script>

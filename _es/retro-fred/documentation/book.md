@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Guía del programador de Scratch avanzado
-description: Libro para aprender programación avanzada en Scratch desarrollando un videojuego clásico
+description: Aprende programación avanzada en Scratch desarrollando un videojuego clásico paso a paso
+og_image: /assets/images/book/MOCKUP_1_small.jpg
+og_type: book
 parent: Documentación
 grand_parent: Proyecto Retro-Fred
 nav_order: 1
@@ -21,42 +23,53 @@ ref: book
     </span>
 </div>
 
-<div style="text-align:center;">
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:20px;
+">
 <!-- href="{{ '/es/buy/' | relative_url }}" -->
-<!-- onclick="alert('Disponible próximamente'); return false;" -->
+<!-- onclick="return false;" -->
   <a
      onclick="return false;"
      style="
-        display:inline-block;
-        width:200px;
-        background:linear-gradient(90deg,#0070ba,#009cde);
-        color:white;
-        padding:16px 34px;
-        border-radius:10px;
-        text-decoration:none;
-        font-size:22px;
-        font-weight:bold;
-        box-shadow:0 4px 14px rgba(0,0,0,0.35);
-        margin-right:20px;
-     ">
-    💳 PayPal
-  </a>
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      width:200px;
+      padding:16px 34px;
+      background:linear-gradient(90deg,#0070ba,#009cde);
+      color:white;
+      border-radius:10px;
+      text-decoration:none;
+      font-size:22px;
+      font-weight:bold;
+      box-shadow:0 4px 14px rgba(0,0,0,0.35);
+      box-sizing:border-box;
+   ">
+  💳 PayPal
+</a>
 
 <!-- href="https://www.amazon.es/dp/TU_ASIN" -->
   <a
      onclick="return false;"
-     style="
-        display:inline-block;
-        width:200px;
-        background:#ff9900;
-        color:black;
-        padding:16px 34px;
-        border-radius:10px;
-        text-decoration:none;
-        font-size:22px;
-        font-weight:bold;
-        box-shadow:0 4px 14px rgba(0,0,0,0.35);
-     ">
+      style="
+          display:flex;
+          justify-content:center;
+          align-items:center;
+          width:200px;
+          padding:16px 34px;
+          background:#ff9900;
+          color:black;
+          border-radius:10px;
+          text-decoration:none;
+          font-size:22px;
+          font-weight:bold;
+          box-shadow:0 4px 14px rgba(0,0,0,0.35);
+          box-sizing:border-box;
+      ">
     🛒 Amazon
   </a>
 
@@ -92,26 +105,27 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
 </a>
 
 <a href="{{ '/assets/pdf/1.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 1 (PDF)
+  Muestra #1 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/2.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 2 (PDF)
+  Muestra #2 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/3.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 3 (PDF)
+  Muestra #3 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/4.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 4 (PDF)
+  Muestra #4 (PDF)
 </a>
 
 <a href="{{ '/assets/pdf/5.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 5 (PDF)
+  Muestra #5 (PDF)
 </a>
+
 <a href="{{ '/assets/pdf/6.Sample.pdf' | relative_url }}">
-  Capítulo de muestra 6 (PDF)
+  Muestra #6 (PDF)
 </a>
 
 <script type="application/ld+json">
@@ -119,18 +133,19 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
   "@context": "https://schema.org",
   "@type": "Book",
   "name": "Guía del programador de Scratch avanzado",
+  "alternateName": "Advanced Scratch Programming Guide",
   "author": {
     "@type": "Person",
-    "name": "..."
+    "name": "Alfredo Catalina"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Recursiva Ediciones"
   },
   "isbn": "979-13-88198-33-5",
-  "description": "Libro para aprender programación avanzada en Scratch desarrollando un videojuego clásico.",
-  "image": "https://8bitfred.com/assets/images/book/MOCKUP_1.jpg",
-  "url": "https://8bitfred.com/es/book/",
+  "description": "Aprende programación avanzada en Scratch desarrollando un videojuego clásico paso a paso",
+  "image": "https://www.8bitfred.com/assets/images/book/MOCKUP_1_small.jpg",
+  "url": "https://www.8bitfred.com/es/book/",
   "inLanguage": "es"
 }
 </script>
