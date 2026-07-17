@@ -16,6 +16,8 @@ Sprites
 
 [Descargar sprites de Scratch en formato PNG](/assets/images/sprites/sprites_scratch.zip)
 
+[Diseños]({{ '/es/retro-fred/documentation/designs/' | relative_url }})
+
 Audio
 -----
 
