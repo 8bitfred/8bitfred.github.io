@@ -86,11 +86,7 @@ Fantasma
   ">
   <tr>
     <td style="padding:0;">
-<img src="ghost_03_TG.svg"
-     style="
-       width:calc(var(--char-size)*3);
-       object-fit:cover;
-     ">
+      <img src="/assets/TommyGun/Ghost/ghost_03_TG.svg" style="width: calc(var(--char-size) * 3)">
     </td>
   <td style="padding:0;">
     <img src="/assets/TommyGun/Ghost/ghost_04_TG.svg" style="width: calc(var(--char-size) * 3)">
