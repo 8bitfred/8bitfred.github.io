@@ -32,7 +32,6 @@ ref: designs
 ## Diseños de los sprites de cada objeto
 
 - [Acid Drop](#acid-drop)
-- [Skeleton](#skeleton)
 - [Block](#block)
 - [Bullet](#bullet)
 - [Chameleon](#chameleon)
@@ -42,6 +41,7 @@ ref: designs
 - [Rat](#rat)
 - [Skeleton](#skeleton)
 - [Smoke](#smoke)
+- [Text](#text)
 - [Vampire](#vampire)
 
 Acid Drop
@@ -343,6 +343,8 @@ Chameleon
 </table>
 </div>
 
+
+
 Fred
 ----
 <div style="overflow-x:auto;">
@@ -603,6 +605,635 @@ Smoke
       smoke3
     </td>
   </tr>
+</table>
+</div>
+
+Text
+---------
+<div style="overflow-x:auto;">
+  <table class="sprite-table" style="
+      width:max-content;
+      border-collapse:collapse;
+      table-layout:auto;
+      margin:0;
+  ">
+  <tr>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_01_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_02_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_03_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_04_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_05_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_06_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_07_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_08_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_09_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_10_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+  </tr>
+  <tr>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      0_big
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      1_big
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      2_big
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      3_big
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      4_big
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      5_big
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      6_big
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      7_big
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      8_big
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      9_big
+    </td>
+  </tr>
+  <tr>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/score_01_TG.svg" style="width: calc(var(--char-size) * 5/8)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/score_02_TG.svg" style="width: calc(var(--char-size) * 5/8)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/score_03_TG.svg" style="width: calc(var(--char-size) * 5/8)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/score_04_TG.svg" style="width: calc(var(--char-size) * 5/8)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/score_05_TG.svg" style="width: calc(var(--char-size) * 5/8)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/score_06_TG.svg" style="width: calc(var(--char-size) * 5/8)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/score_07_TG.svg" style="width: calc(var(--char-size) * 5/8)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/score_08_TG.svg" style="width: calc(var(--char-size) * 5/8)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/score_09_TG.svg" style="width: calc(var(--char-size) * 5/8)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/score_10_TG.svg" style="width: calc(var(--char-size) * 5/8)">
+    </td>
+  </tr>
+  <tr>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      0_small
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      1_small
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      2_small
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      3_small
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      4_small
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      5_small
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      6_small
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      7_small
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      8_small
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      9_small
+    </td>
+  </tr>
+  <tr>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_11_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_12_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_13_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_14_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_15_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_16_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_17_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_18_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_19_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_20_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+  </tr>
+  <tr>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      A
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      B
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      C
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      D
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      E
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      F
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      G
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      H
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      I
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      J
+    </td>
+  </tr>
+  <tr>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_21_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_22_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_23_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_24_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_25_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_26_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_27_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_28_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_29_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_30_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+  </tr>
+  <tr>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      K
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      L
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      M
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      N
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      O
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      P
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      Q
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      R
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      S
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      T
+    </td>
+  </tr>
+  <tr>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_31_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_32_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_33_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_34_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_35_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      <img src="/assets/tommygun/charset/zx char set_36_TG.svg" style="width: calc(var(--char-size) * 1)">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+    </td>
+  </tr>
+  <tr>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      U
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      V
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      W
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      X
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      Y
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      Z
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      
+    </td>
+        <td style="
+    width: calc(var(--char-size) * 1);
+    text-align: center;
+    padding: 0;">
+      
+    </td>
+  </tr>
+
 </table>
 </div>
 
