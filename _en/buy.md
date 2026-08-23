@@ -39,7 +39,6 @@ Edition:
              max-height:300px;
              width:auto;
          ">
-
 </div>
 
 <div id="customerData">
