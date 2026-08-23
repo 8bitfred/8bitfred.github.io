@@ -23,6 +23,25 @@ Edition:
 
 </div>
 
+<div id="productImageContainer"
+     style="
+         margin:20px 0;
+         text-align:center;
+         clear:both;
+     ">
+
+    <img id="productImage"
+         src=""
+         alt=""
+         style="
+             display:none;
+             height:100%;
+             max-height:300px;
+             width:auto;
+         ">
+
+</div>
+
 <div id="customerData">
 
     <p>

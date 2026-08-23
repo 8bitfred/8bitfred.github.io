@@ -33,7 +33,7 @@ ref: book
 <!-- href="{{ '/es/buy/' | relative_url }}" -->
 <!-- onclick="return false;" -->
   <a
-     onclick="return false;"
+     href="{{ '/es/buy/' | relative_url }}"
      style="
       display:flex;
       justify-content:center;

@@ -23,6 +23,24 @@ Edición:
 
 </div>
 
+<div id="productImageContainer"
+     style="
+         margin:20px 0;
+         text-align:center;
+         clear:both;
+     ">
+
+    <img id="productImage"
+         src=""
+         alt=""
+         style="
+             display:none;
+             height:100%;
+             max-height:300px;
+             width:auto;
+         ">
+</div>
+
 <hr style="margin:40px 0;">
 
 <div id="customerData">
@@ -92,7 +110,7 @@ Cargando zonas...
 
 <script src="https://www.paypal.com/sdk/js?client-id=AfFQEdbuA6LCS8EVm5GJ8e-39P5LFMml4yVeqGZJKYeUpEmqBvWEsvQHVkklXd7Qxs0xQ5A28uCInFmS&currency=EUR&locale=es_ES"></script>
 
-<script src="{{ '/assets/js/buy.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/buy.js' | relative_url }}?v=4"></script>
 
 <p style="margin-top:40px;font-size:90%;color:#666;line-height:1.5;">
 ¿Necesita realizar un pedido de varios ejemplares o tiene alguna consulta sobre la compra, el envío o la factura?
