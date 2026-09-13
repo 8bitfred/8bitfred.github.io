@@ -221,7 +221,6 @@ If you want to learn how to design and build video games using a systematic meth
 </script>
 
 <p style="margin-top:40px;font-size:90%;color:#666;line-height:1.5;">
-<br><br>
 You can contact us at 
 <a href="mailto:info@recursivaediciones.com">
 info@recursivaediciones.com
