@@ -106,13 +106,16 @@ Loading zones...
     style="margin-top:30px;">
 </div>
 
-<script src="https://www.paypal.com/sdk/js?client-id=AfFQEdbuA6LCS8EVm5GJ8e-39P5LFMml4yVeqGZJKYeUpEmqBvWEsvQHVkklXd7Qxs0xQ5A28uCInFmS&currency=EUR&locale=en_GB"></script>
+<!-- <script src="https://www.paypal.com/sdk/js?client-id=AfFQEdbuA6LCS8EVm5GJ8e-39P5LFMml4yVeqGZJKYeUpEmqBvWEsvQHVkklXd7Qxs0xQ5A28uCInFmS&currency=EUR&locale=en_GB"></script> -->
+<script src="https://www.paypal.com/sdk/js?client-id=BAAAs_UJH4u-grfavV9pKHTMyIVA3MF3wzEQby1pw6fTmZ40VvKhgQiyr_UY6edgKa4SidJIX3Dp6ah5wg&currency=EUR&locale=en_GB"></script>
 
 <script src="{{ '/assets/js/buy.js' | relative_url }}"></script>
 
 <p style="margin-top:40px;font-size:90%;color:#666;line-height:1.5;">
+The price does not include any taxes, customs duties or handling fees that may be charged by the authorities or postal operator in the destination country. The recipient will be responsible for paying any such charges.
+<br><br>
 Do you need to order multiple copies or do you have any questions about your purchase, shipping or invoice?
-<br>
+<br><br>
 Please contact us at
 <a href="mailto:pedidos@recursivaediciones.com">
 pedidos@recursivaediciones.com

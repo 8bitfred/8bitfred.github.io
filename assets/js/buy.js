@@ -1,16 +1,23 @@
 const productsContainer =
     document.getElementById("productsContainer");
 
-const API_BASE_URL = 
-    "http://127.0.0.1:5000";
+// Para ejecutar el servidor Flask de backend en local    
+// const API_BASE_URL = 
+//     "http://127.0.0.1:5000";
 
-// const API_BASE_URL =
-//     "https://api.recursivaediciones.com";
+// Para ejecutar el servidor Flask en el contenedor del NAS Vidovic
+ const API_BASE_URL =
+     "https://api.recursivaediciones.com";
 
 const language =
     window.location.pathname.startsWith("/en/")
         ? "en"
         : "es";
+
+const purchasePageUrl =
+    language === "en"
+        ? "/en/retro-fred/documentation/book/"
+        : "/es/retro-fred/documentation/book/";
 
 const countrySelect =
     document.getElementById("country");
@@ -45,7 +52,8 @@ const translations = {
             "Los importes del libro y del envío incluyen IVA.",
         orderCompleted: "Pedido realizado correctamente",
         thankMessage: "Gracias por su compra.",
-        finalMessage: "En unos minutos recibirá un correo electrónico con la confirmación del pedido y la factura.",
+        finalMessage: "En unos minutos recibirá un correo electrónico con la confirmación del pedido.",
+        backToPurchase: "Volver a la página del libro",
         orderNotCompleted: "Su pedido no pudo completarse."
     },
 
@@ -68,7 +76,8 @@ const translations = {
             "Book and shipping prices include VAT.",
         orderCompleted: "Order completed successfully.",
         thankMessage: "Thank you for your purchase.",
-        finalMessage: "You will receive an email shortly with your order confirmation and invoice.",
+        finalMessage: "You will receive an email shortly with your order confirmation.",
+        backToPurchase: "Return to the book page",
         orderNotCompleted: "Your order could not be completed."
     }
 
@@ -255,7 +264,7 @@ async function loadZones(country) {
         zones.forEach(zone => {
 
             const selected =
-                zone.code === "SPAIN_PENINSULA"
+                zone.code === "SPAIN_PENINSULA_STANDARD"
                     ? "selected"
                     : "";
 
@@ -510,32 +519,28 @@ paypal.Buttons({
 
             if (result.status === "paid") {
 
-            document.getElementById("checkout").style.display = "none";
-            document.getElementById("order-result").innerHTML = `
+                document.getElementById("checkout").style.display = "none";
 
-                <h3>${t("orderCompleted")}</h3>
+                document.getElementById("order-result").innerHTML = `
 
-                <p>
-                ${t("thankMessage")}
-                </p>
+                    <h3>${t("orderCompleted")}</h3>
 
-                <p>
-                ${t("finalMessage")}
-                </p>
+                    <p>
+                        ${t("thankMessage")}
+                    </p>
 
-            `;
-            }
-            else {
+                    <p>
+                        ${t("finalMessage")}
+                    </p>
 
-            document.getElementById("checkout").style.display = "none";
-            document.getElementById("order-result").innerHTML = `
+                    <p style="margin-top:24px;">
+                        <a href="${purchasePageUrl}">
+                            ${t("backToPurchase")}
+                        </a>
+                    </p>
 
-                <h2>${t("orderNotCompleted")}</h2>
-
-            `;
-
-            }
-
+                `;
+            }            
 
         })
         .catch(err => {

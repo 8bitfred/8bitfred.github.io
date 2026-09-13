@@ -17,11 +17,11 @@ ref: book
 </p>
 
 
-<div style="text-align:center; margin-bottom:20px;">
+<!-- <div style="text-align:center; margin-bottom:20px;">
     <span style="color:#666; font-size:18px; font-style:italic;">
         Próximamente
     </span>
-</div>
+</div> -->
 
 <div style="
     display:flex;
@@ -33,7 +33,7 @@ ref: book
 <!-- href="{{ '/es/buy/' | relative_url }}" -->
 <!-- onclick="return false;" -->
   <a
-     onclick="return false;"
+     href="{{ '/es/buy/' | relative_url }}"
      style="
       display:flex;
       justify-content:center;
@@ -52,9 +52,10 @@ ref: book
   💳 PayPal
 </a>
 
-<!-- href="https://www.amazon.es/dp/TU_ASIN" -->
+<!-- href="https://www.amazon.es/dp/B0HC7JGZTN" -->
+<!-- onclick="return false;" -->
   <a
-     onclick="return false;"
+     href="https://www.amazon.es/dp/B0HC7JGZTN"
       style="
           display:flex;
           justify-content:center;
@@ -99,6 +100,81 @@ Esta obra disecciona paso a paso uno de los videojuegos pioneros del ZX Spectrum
 El libro está dirigido a programadores de Scratch con experiencia previa que desean ampliar sus conocimientos y abordar proyectos más ambiciosos, así como a lectores interesados en la retroinformática que quieran comprender el origen de muchos conceptos que todavía utilizamos hoy.
 
 Si quieres aprender a diseñar y construir videojuegos con una metodología sistemática, este libro te guiará paso a paso.
+
+
+
+<div style="overflow-x: auto;">
+  <table>
+    <tr>
+      <td style="text-align: center;">
+        <a href="/assets/images/book/cubierta.jpg" target="_blank">
+          <img src="/assets/images/book/cubierta.jpg"
+               width="96"
+               alt="Cubierta del libro">
+        </a>
+      </td>
+
+      <td style="text-align: center; vertical-align: bottom;">
+        <a href="/assets/images/book/contracubierta_CB.jpg" target="_blank">
+          <img src="/assets/images/book/contracubierta_CB.jpg"
+               width="96"
+               alt="Contracubierta del libro">
+        </a>
+      </td>
+
+      <td style="text-align: center;">
+        <a href="/assets/images/book/prologue.jpg" target="_blank">
+          <img src="/assets/images/book/prologue.jpg"
+               width="96"
+               alt="Página de muestra 100">
+        </a>
+      </td>
+
+      <td style="text-align: center;">
+        <a href="/assets/images/book/sample_100.jpg" target="_blank">
+          <img src="/assets/images/book/sample_100.jpg"
+               width="192"
+               alt="Página de muestra 100">
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="text-align: center;">
+        <a href="/assets/images/book/sample_101.jpg" target="_blank">
+          <img src="/assets/images/book/sample_101.jpg"
+               width="192"
+               alt="Página de muestra 101">
+        </a>
+      </td>
+
+      <td style="text-align: center;">
+        <a href="/assets/images/book/sample_102.jpg" target="_blank">
+          <img src="/assets/images/book/sample_102.jpg"
+               width="192"
+               alt="Página de muestra 102">
+        </a>
+      </td>
+
+      <td style="text-align: center;">
+        <a href="/assets/images/book/sample_103.jpg" target="_blank">
+          <img src="/assets/images/book/sample_103.jpg"
+               width="192"
+               alt="Página de muestra 103">
+        </a>
+      </td>
+
+      <td style="text-align: center;">
+        <a href="/assets/images/book/sample_104.jpg" target="_blank">
+          <img src="/assets/images/book/sample_104.jpg"
+               width="192"
+               alt="Página de muestra 104">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <a href="{{ '/assets/pdf/0.Contents.pdf' | relative_url }}">
   Índice de contenidos (PDF)
