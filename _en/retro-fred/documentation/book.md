@@ -54,7 +54,7 @@ ref: book
 <!-- href="https://www.amazon.es/dp/B0HC7JGZTN" -->
 <!-- onclick="return false;" -->
   <a
-     href="https://www.amazon.es/dp/B0HC7JGZTN"
+     href="https://www.amazon.com/dp/B0HC7JGZTN"
       style="
           display:flex;
           justify-content:center;
