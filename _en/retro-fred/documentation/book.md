@@ -32,7 +32,7 @@ ref: book
 <!-- href="{{ '/en/buy/' | relative_url }}" -->
 <!-- onclick="return false;" -->
   <a
-     onclick="return false;"
+     href="{{ '/en/buy/' | relative_url }}"
      style="
       display:flex;
       justify-content:center;
@@ -51,9 +51,10 @@ ref: book
   💳 PayPal
 </a>
 
-<!-- href="https://www.amazon.es/dp/TU_ASIN" -->
+<!-- href="https://www.amazon.es/dp/B0HC7JGZTN" -->
+<!-- onclick="return false;" -->
   <a
-     onclick="return false;"
+     href="https://www.amazon.es/dp/B0HC7JGZTN"
       style="
           display:flex;
           justify-content:center;
@@ -302,3 +303,11 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
   "inLanguage": "en"
 }
 </script>
+
+<p style="margin-top:40px;font-size:90%;color:#666;line-height:1.5;">
+<br><br>
+You can contact us at 
+<a href="mailto:info@recursivaediciones.com">
+info@recursivaediciones.com
+</a>.
+</p>

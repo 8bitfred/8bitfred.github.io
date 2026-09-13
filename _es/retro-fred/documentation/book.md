@@ -225,3 +225,11 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
   "inLanguage": "es"
 }
 </script>
+
+<p style="margin-top:40px;font-size:90%;color:#666;line-height:1.5;">
+<br><br>
+Puede ponerse en contacto con nosotros en 
+<a href="mailto:info@recursivaediciones.com">
+info@recursivaediciones.com
+</a>.
+</p>
