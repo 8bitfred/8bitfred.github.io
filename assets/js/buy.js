@@ -556,8 +556,13 @@ paypal.Buttons({
         document.getElementById("checkout").style.display = "none";
         document.getElementById("order-result").innerHTML = `
 
-            <h3>Pedido no completado</h3>
+            <h3>${t("orderNotCompleted")}</h3>
 
+            <p style="margin-top:24px;">
+                <a href="${purchasePageUrl}">
+                    ${t("backToPurchase")}
+                </a>
+            </p>
         `;
 
     },
