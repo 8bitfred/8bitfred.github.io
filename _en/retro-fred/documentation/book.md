@@ -126,8 +126,8 @@ If you want to learn how to design and build video games using a systematic meth
       </td>
 
       <td style="text-align: center;">
-        <a href="/assets/images/book/sample_100.jpg" target="_blank">
-          <img src="/assets/images/book/sample_100.jpg"
+        <a href="/assets/images/book/Sample_100.jpg" target="_blank">
+          <img src="/assets/images/book/Sample_100.jpg"
                width="192"
                alt="Página de muestra 100">
         </a>
@@ -136,32 +136,32 @@ If you want to learn how to design and build video games using a systematic meth
 
     <tr>
       <td style="text-align: center;">
-        <a href="/assets/images/book/sample_101.jpg" target="_blank">
-          <img src="/assets/images/book/sample_101.jpg"
+        <a href="/assets/images/book/Sample_101.jpg" target="_blank">
+          <img src="/assets/images/book/Sample_101.jpg"
                width="192"
                alt="Página de muestra 101">
         </a>
       </td>
 
       <td style="text-align: center;">
-        <a href="/assets/images/book/sample_102.jpg" target="_blank">
-          <img src="/assets/images/book/sample_102.jpg"
+        <a href="/assets/images/book/Sample_102.jpg" target="_blank">
+          <img src="/assets/images/book/Sample_102.jpg"
                width="192"
                alt="Página de muestra 102">
         </a>
       </td>
 
       <td style="text-align: center;">
-        <a href="/assets/images/book/sample_103.jpg" target="_blank">
-          <img src="/assets/images/book/sample_103.jpg"
+        <a href="/assets/images/book/Sample_103.jpg" target="_blank">
+          <img src="/assets/images/book/Sample_103.jpg"
                width="192"
                alt="Página de muestra 103">
         </a>
       </td>
 
       <td style="text-align: center;">
-        <a href="/assets/images/book/sample_104.jpg" target="_blank">
-          <img src="/assets/images/book/sample_104.jpg"
+        <a href="/assets/images/book/Sample_104.jpg" target="_blank">
+          <img src="/assets/images/book/Sample_104.jpg"
                width="192"
                alt="Página de muestra 104">
         </a>
