@@ -12,9 +12,17 @@ lang: es
 ref: book
 ---
 
-<p align="center">
-  <img src="{{ '/assets/images/book/MOCKUP_1.jpg' | relative_url }}" width="600" alt="Portada del libro Guía del programador de Scratch avanzado">
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img
+    src="{{ '/assets/images/book/mockup_tapadura.jpg' | relative_url }}"
+    style="height: 400px; width: auto;"
+    alt="Edición en tapa dura de Guía del programador de Scratch avanzado">
+
+  <img
+    src="{{ '/assets/images/book/mockup_tapablanda.png' | relative_url }}"
+    style="height: 400px; width: auto;"
+    alt="Edición en tapa blanda de Guía del programador de Scratch avanzado">
+</div>
 
 
 <!-- <div style="text-align:center; margin-bottom:20px;">
