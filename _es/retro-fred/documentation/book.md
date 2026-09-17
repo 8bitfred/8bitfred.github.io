@@ -81,7 +81,7 @@ ref: book
 
 <ul>
   <li>Aprende y aplica técnicas de programación avanzadas en Scratch programando un videojuego clásico.</li>
-  <li>Guía paso a paso para portar <em>Fred</em> a Scratch preservando al 100 % la experiencia del título original.</li>
+  <li>Guía paso a paso para portar <em>Fred</em> (ZX Spectrum) a Scratch preservando al 100 % la experiencia del título original.</li>
   <li>Más de <strong>750 páginas</strong>, con cientos de figuras y decenas de diagramas que explican en detalle su funcionamiento.</li>
   <li>La sintaxis de Scratch, muy próxima al pseudocódigo, permite seguir el código con facilidad incluso a lectores con poca experiencia en programación.</li>
   <li>Un apéndice narra la historia del desarrollo y comercialización de <i>Fred</i>, repasa las críticas aparecidas en las revistas especializadas e incorpora más de <strong>160 referencias</strong> procedentes de revistas, libros, blogs y podcasts.</li>
@@ -227,7 +227,7 @@ Si quieres aprender a diseñar y construir videojuegos con una metodología sist
 </script>
 
 <p style="margin-top:40px;font-size:90%;color:#666;line-height:1.5;">
-Puede ponerse en contacto con nosotros en 
+Puedes ponerse en contacto con nosotros en 
 <a href="mailto:info@recursivaediciones.com">
 info@recursivaediciones.com
 </a>.

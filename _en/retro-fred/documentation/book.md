@@ -78,7 +78,7 @@ ref: book
 
 <ul>
   <li>Learn and apply advanced Scratch programming techniques by developing a classic video game.</li>
-  <li>A step-by-step guide to porting <em>Fred</em> to Scratch while preserving 100% of the original game's experience.</li>
+  <li>A step-by-step guide to porting <em>Fred</em> (ZX Spectrum) to Scratch while preserving 100% of the original game's experience.</li>
   <li>More than <strong>750 pages</strong>, with hundreds of figures and dozens of diagrams explaining every aspect of its implementation in detail.</li>
   <li>Scratch's syntax, closely resembling pseudocode, makes the code easy to follow even for readers with little programming experience.</li>
   <li>An appendix recounts the history of <em>Fred</em>'s development and commercial release, reviews contemporary magazine coverage, and includes more than <strong>160 references</strong> from magazines, books, blogs, and podcasts.</li>
