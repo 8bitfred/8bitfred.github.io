@@ -24,6 +24,7 @@ ref: book
     alt="Edición en tapa blanda de Guía del programador de Scratch avanzado">
 </div>
 
+<br>
 
 <!-- <div style="text-align:center; margin-bottom:20px;">
     <span style="color:#666; font-size:18px; font-style:italic;">
