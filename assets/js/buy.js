@@ -109,14 +109,14 @@ function getSelectedProductCode() {
 document.addEventListener("DOMContentLoaded", async () => {
 
     // Check backend availability before loading products and countries
-    try {
-        await fetch(`${API_BASE_URL}/`, {
-            method: "GET",
-            cache: "no-store"
-        });
-    } catch (error) {
-        console.warn("Backend request failed:", error);
-    }
+    // try {
+    //     await fetch(`${API_BASE_URL}/`, {
+    //         method: "GET",
+    //         cache: "no-store"
+    //     });
+    // } catch (error) {
+    //     console.warn("Backend request failed:", error);
+    // }
 
     await loadProducts();
 
