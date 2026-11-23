@@ -20,6 +20,7 @@ Includes *Auto-Fred*, a version where Fred is automatically controlled by a dept
 
 * [Source code in GitHub](https://github.com/8bitfred/retro-fred)
 * [Releases](https://github.com/8bitfred/retro-fred/releases)
+* [Play in your browser](/retro-fred-web/retro-fred.html)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.eightbitfred.retro_fred&hl=en)
 * [App Store](https://apps.apple.com/us/app/retro-fred/id6738402036)
 
