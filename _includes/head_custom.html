@@ -27,6 +27,10 @@
       href="{{ t.url | absolute_url }}">
 {% endfor %}
 
+<script>
+  document.documentElement.setAttribute("data-lang", "{{ page.lang }}");
+</script>
+
 
 <style>
 .top-banner {
@@ -105,8 +109,12 @@ html[data-lang="es"] body::before {
   .lang-switch img {
     width: 18px;
   }
-
 }
+
+  html[data-lang="en"] .site-nav li.external:has(a[href*="/es/"]),
+  html[data-lang="es"] .site-nav li.external:has(a[href*="/en/"]) {
+    display: none !important;
+  }
 </style>
 
 <script>

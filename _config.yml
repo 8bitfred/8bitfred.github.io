@@ -71,6 +71,14 @@ search_enabled: false
 
 color_scheme: dark
 
+nav_external_links:
+  - title: "The book"
+    url: "en/retro-fred/documentation/book/"
+    hide_icon: true
+  - title: "El libro"
+    url: "es/retro-fred/documentation/book/"
+    hide_icon: true
+
 just_the_docs:
   custom_css: custom
 

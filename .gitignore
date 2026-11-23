@@ -4,6 +4,8 @@ _site
 .jekyll-metadata
 vendor
 
+webserver.txt
+
 exclude:
 
 - sources/
